@@ -2126,3 +2126,6 @@ time 1736178014
 old [description:"test" entry:"1736177984" modified:"1736177984" status:"pending" tags:"today" tags_today:"x" uuid:"3133792b-720f-4077-b9b4-07a855aedb28"]
 new [description:"test" end:"1736178014" entry:"1736177984" modified:"1736178014" status:"deleted" tags:"today" tags_today:"x" uuid:"3133792b-720f-4077-b9b4-07a855aedb28"]
 ---
+time 1736190524
+new [description:"test" entry:"1736190524" modified:"1736190524" status:"pending" tags:"today" tags_today:"x" uuid:"012ea411-efc5-4d60-aa88-8cd68304ce5e"]
+---
