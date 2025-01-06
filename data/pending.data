@@ -17,4 +17,4 @@
 [description:"rydd ut av bag" entry:"1736154620" modified:"1736154620" status:"pending" tags:"today" tags_today:"x" uuid:"51d217cf-a002-41f7-a74f-5962af7184e3"]
 [description:"handle på butikken" entry:"1736154903" modified:"1736154903" status:"pending" tags:"today" tags_today:"x" uuid:"40fb03db-27eb-47c7-96d1-054362c4f0ad"]
 [description:"fiks puttekasse" entry:"1736155789" modified:"1736155789" status:"pending" tags:"today" tags_today:"x" uuid:"67fa9bb4-e718-49a9-b81e-a4f9792ef41b"]
-[description:"test" entry:"1736190524" modified:"1736190524" status:"pending" tags:"today" tags_today:"x" uuid:"012ea411-efc5-4d60-aa88-8cd68304ce5e"]
+[description:"test" end:"1736190531" entry:"1736190524" modified:"1736190531" status:"deleted" tags:"today" tags_today:"x" uuid:"012ea411-efc5-4d60-aa88-8cd68304ce5e"]

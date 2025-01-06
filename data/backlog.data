@@ -16,3 +16,4 @@
 {"description":"test","end":"20250106T154014Z","entry":"20250106T153308Z","modified":"20250106T154014Z","status":"deleted","uuid":"d806a66a-a7e8-4f94-856a-486bc4e3aba8","tags":["today"]}
 {"description":"test","end":"20250106T154014Z","entry":"20250106T153944Z","modified":"20250106T154014Z","status":"deleted","uuid":"3133792b-720f-4077-b9b4-07a855aedb28","tags":["today"]}
 {"description":"test","entry":"20250106T190844Z","modified":"20250106T190844Z","status":"pending","uuid":"012ea411-efc5-4d60-aa88-8cd68304ce5e","tags":["today"]}
+{"description":"test","end":"20250106T190851Z","entry":"20250106T190844Z","modified":"20250106T190851Z","status":"deleted","uuid":"012ea411-efc5-4d60-aa88-8cd68304ce5e","tags":["today"]}
