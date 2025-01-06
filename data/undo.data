@@ -1,0 +1,2093 @@
+time 1725610190
+new [description:"pakke klær til bading" entry:"1725610190" modified:"1725610190" priority:"M" status:"pending" uuid:"1eb4e4f7-cd13-4578-aabc-6af96e9fac14"]
+---
+time 1725610205
+new [description:"føre timer" entry:"1725610205" modified:"1725610205" priority:"H" status:"pending" uuid:"53e1f23e-0a2b-4349-9f03-a2ed9db8f5db"]
+---
+time 1725610230
+new [description:"code pdf +shot-in-the-dark" entry:"1725610230" modified:"1725610230" status:"pending" uuid:"bce7b9bd-5627-4d03-800a-c473ebb6d7bb"]
+---
+time 1725610241
+old [description:"code pdf +shot-in-the-dark" entry:"1725610230" modified:"1725610230" status:"pending" uuid:"bce7b9bd-5627-4d03-800a-c473ebb6d7bb"]
+new [description:"code pdf +shot-in-the-dark" entry:"1725610230" modified:"1725610241" status:"pending" tags:"shot" tags_shot:"x" uuid:"bce7b9bd-5627-4d03-800a-c473ebb6d7bb"]
+---
+time 1725610252
+old [description:"code pdf +shot-in-the-dark" entry:"1725610230" modified:"1725610241" status:"pending" tags:"shot" tags_shot:"x" uuid:"bce7b9bd-5627-4d03-800a-c473ebb6d7bb"]
+new [description:"code pdf +shot-in-the-dark" entry:"1725610230" modified:"1725610252" status:"pending" tags:"shot,shot_in_the_dark" tags_shot:"x" tags_shot_in_the_dark:"x" uuid:"bce7b9bd-5627-4d03-800a-c473ebb6d7bb"]
+---
+time 1725610270
+old [description:"code pdf +shot-in-the-dark" entry:"1725610230" modified:"1725610252" status:"pending" tags:"shot,shot_in_the_dark" tags_shot:"x" tags_shot_in_the_dark:"x" uuid:"bce7b9bd-5627-4d03-800a-c473ebb6d7bb"]
+new [description:"code pdf +shot-in-the-dark" entry:"1725610230" modified:"1725610270" status:"pending" tags:"shot_in_the_dark" tags_shot_in_the_dark:"x" uuid:"bce7b9bd-5627-4d03-800a-c473ebb6d7bb"]
+---
+time 1725610292
+old [description:"code pdf +shot-in-the-dark" entry:"1725610230" modified:"1725610270" status:"pending" tags:"shot_in_the_dark" tags_shot_in_the_dark:"x" uuid:"bce7b9bd-5627-4d03-800a-c473ebb6d7bb"]
+new [description:"code pdf" entry:"1725610230" modified:"1725610292" status:"pending" tags:"shot_in_the_dark" tags_shot_in_the_dark:"x" uuid:"bce7b9bd-5627-4d03-800a-c473ebb6d7bb"]
+---
+time 1725610306
+new [description:"rydde for 3d-print" entry:"1725610306" modified:"1725610306" status:"pending" uuid:"0da462c9-17d4-4d2a-adf1-a80f25e32d52"]
+---
+time 1725617267
+new [description:"rense kattedo" entry:"1725617267" modified:"1725617267" priority:"M" status:"pending" uuid:"da28238a-cc2b-4cff-a230-28e83ebd64c9"]
+---
+time 1725617282
+old [description:"føre timer" entry:"1725610205" modified:"1725610205" priority:"H" status:"pending" uuid:"53e1f23e-0a2b-4349-9f03-a2ed9db8f5db"]
+new [description:"føre timer" end:"1725617282" entry:"1725610205" modified:"1725617282" priority:"H" status:"completed" uuid:"53e1f23e-0a2b-4349-9f03-a2ed9db8f5db"]
+---
+time 1725630329
+old [description:"pakke klær til bading" entry:"1725610190" modified:"1725610190" priority:"M" status:"pending" uuid:"1eb4e4f7-cd13-4578-aabc-6af96e9fac14"]
+new [description:"pakke klær til bading" end:"1725630329" entry:"1725610190" modified:"1725630329" priority:"M" status:"completed" uuid:"1eb4e4f7-cd13-4578-aabc-6af96e9fac14"]
+---
+time 1725630329
+old [description:"rense kattedo" entry:"1725617267" modified:"1725617267" priority:"M" status:"pending" uuid:"da28238a-cc2b-4cff-a230-28e83ebd64c9"]
+new [description:"rense kattedo" end:"1725630329" entry:"1725617267" modified:"1725630329" priority:"M" status:"completed" uuid:"da28238a-cc2b-4cff-a230-28e83ebd64c9"]
+---
+time 1728646760
+old [description:"code pdf" entry:"1725610230" modified:"1725610292" status:"pending" tags:"shot_in_the_dark" tags_shot_in_the_dark:"x" uuid:"bce7b9bd-5627-4d03-800a-c473ebb6d7bb"]
+new [description:"code pdf" end:"1728646757" entry:"1725610230" modified:"1728646760" status:"deleted" tags:"shot_in_the_dark" tags_shot_in_the_dark:"x" uuid:"bce7b9bd-5627-4d03-800a-c473ebb6d7bb"]
+---
+time 1728646760
+old [description:"rydde for 3d-print" entry:"1725610306" modified:"1725610306" status:"pending" uuid:"0da462c9-17d4-4d2a-adf1-a80f25e32d52"]
+new [description:"rydde for 3d-print" end:"1728646760" entry:"1725610306" modified:"1728646760" status:"deleted" uuid:"0da462c9-17d4-4d2a-adf1-a80f25e32d52"]
+---
+time 1731414642
+new [description:"rydde kjøkken" entry:"1731414642" modified:"1731414642" status:"pending" uuid:"a6fa23ea-d95e-4fbe-b995-8d28951323d0"]
+---
+time 1731414667
+new [description:"ta ut av pose nede" entry:"1731414667" modified:"1731414667" status:"pending" uuid:"fa36d7b7-c84d-4c92-b507-8e257934f8c4"]
+---
+time 1731414687
+new [description:"rydd ut av pose oppe" entry:"1731414687" modified:"1731414687" status:"pending" uuid:"2947f259-f509-4b6e-beb9-cc6629018fea"]
+---
+time 1731414743
+new [description:"lag melk +priority:H" entry:"1731414743" modified:"1731414743" status:"pending" uuid:"ece55f26-39fb-4727-aef2-6737eea60ad9"]
+---
+time 1731414777
+old [description:"lag melk +priority:H" entry:"1731414743" modified:"1731414743" status:"pending" uuid:"ece55f26-39fb-4727-aef2-6737eea60ad9"]
+new [description:"lag melk" entry:"1731414743" modified:"1731414777" status:"pending" uuid:"ece55f26-39fb-4727-aef2-6737eea60ad9"]
+---
+time 1731414801
+old [description:"lag melk" entry:"1731414743" modified:"1731414777" status:"pending" uuid:"ece55f26-39fb-4727-aef2-6737eea60ad9"]
+new [description:"lag melk" entry:"1731414743" modified:"1731414801" priority:"H" status:"pending" uuid:"ece55f26-39fb-4727-aef2-6737eea60ad9"]
+---
+time 1731414817
+new [description:"handle" entry:"1731414817" modified:"1731414817" status:"pending" uuid:"d824abb2-fb27-4971-945d-e5ff485497a7"]
+---
+time 1731415448
+old [description:"lag melk" entry:"1731414743" modified:"1731414801" priority:"H" status:"pending" uuid:"ece55f26-39fb-4727-aef2-6737eea60ad9"]
+new [description:"lag melk" end:"1731415448" entry:"1731414743" modified:"1731415448" priority:"H" status:"completed" uuid:"ece55f26-39fb-4727-aef2-6737eea60ad9"]
+---
+time 1731421209
+old [description:"ta ut av pose nede" entry:"1731414667" modified:"1731414667" status:"pending" uuid:"fa36d7b7-c84d-4c92-b507-8e257934f8c4"]
+new [description:"ta ut av pose nede" end:"1731421209" entry:"1731414667" modified:"1731421209" status:"completed" uuid:"fa36d7b7-c84d-4c92-b507-8e257934f8c4"]
+---
+time 1731485515
+old [description:"rydde kjøkken" entry:"1731414642" modified:"1731414642" status:"pending" uuid:"a6fa23ea-d95e-4fbe-b995-8d28951323d0"]
+new [description:"rydde kjøkken" end:"1731485515" entry:"1731414642" modified:"1731485515" status:"completed" uuid:"a6fa23ea-d95e-4fbe-b995-8d28951323d0"]
+---
+time 1731485515
+old [description:"rydd ut av pose oppe" entry:"1731414687" modified:"1731414687" status:"pending" uuid:"2947f259-f509-4b6e-beb9-cc6629018fea"]
+new [description:"rydd ut av pose oppe" end:"1731485515" entry:"1731414687" modified:"1731485515" status:"completed" uuid:"2947f259-f509-4b6e-beb9-cc6629018fea"]
+---
+time 1731509432
+new [description:"lage melk" entry:"1731509432" modified:"1731509432" status:"pending" uuid:"f646270a-a0ec-4c31-b413-20ff40272fbe"]
+---
+time 1731572072
+old [description:"handle" entry:"1731414817" modified:"1731414817" status:"pending" uuid:"d824abb2-fb27-4971-945d-e5ff485497a7"]
+new [description:"handle" end:"1731572072" entry:"1731414817" modified:"1731572072" status:"completed" uuid:"d824abb2-fb27-4971-945d-e5ff485497a7"]
+---
+time 1731575137
+old [description:"lage melk" entry:"1731509432" modified:"1731509432" status:"pending" uuid:"f646270a-a0ec-4c31-b413-20ff40272fbe"]
+new [description:"lage melk" end:"1731575137" entry:"1731509432" modified:"1731575137" status:"completed" uuid:"f646270a-a0ec-4c31-b413-20ff40272fbe"]
+---
+time 1731587058
+new [description:"rydde kjøkken" entry:"1731587058" modified:"1731587058" status:"pending" uuid:"cc3475f1-9505-4327-9a4f-e89e3a17a10a"]
+---
+time 1731587198
+new [description:"lim briller" entry:"1731587198" modified:"1731587198" status:"pending" uuid:"da63947b-d1ae-4ee3-9a6f-daae4a0ae1ce"]
+---
+time 1731588148
+new [description:"sett inn vogn" entry:"1731588148" modified:"1731588148" status:"pending" uuid:"ef398d2d-7afe-4f7b-bcbe-72ea011f5c5b"]
+---
+time 1731607453
+old [description:"rydde kjøkken" entry:"1731587058" modified:"1731587058" status:"pending" uuid:"cc3475f1-9505-4327-9a4f-e89e3a17a10a"]
+new [description:"rydde kjøkken" end:"1731607453" entry:"1731587058" modified:"1731607453" status:"completed" uuid:"cc3475f1-9505-4327-9a4f-e89e3a17a10a"]
+---
+time 1731607453
+old [description:"sett inn vogn" entry:"1731588148" modified:"1731588148" status:"pending" uuid:"ef398d2d-7afe-4f7b-bcbe-72ea011f5c5b"]
+new [description:"sett inn vogn" end:"1731607453" entry:"1731588148" modified:"1731607453" status:"completed" uuid:"ef398d2d-7afe-4f7b-bcbe-72ea011f5c5b"]
+---
+time 1731656821
+new [description:"lag melk" entry:"1731656821" modified:"1731656821" status:"pending" uuid:"9ab755e6-bbd4-47f7-b404-90c4e6dfa20d"]
+---
+time 1731656841
+new [description:"kattemat" entry:"1731656841" modified:"1731656841" status:"pending" uuid:"1852506d-490f-4a8b-8545-2c589e4d6fc2"]
+---
+time 1731656852
+new [description:"vanne planter" entry:"1731656852" modified:"1731656852" status:"pending" uuid:"be8f0fb9-dbf8-4bda-9dd3-16f887b197da"]
+---
+time 1731656912
+new [description:"rask rydd oppe" entry:"1731656912" modified:"1731656912" status:"pending" uuid:"aeb6c5f4-7f93-4850-83a1-80cf32b2e6af"]
+---
+time 1731656934
+new [description:"sett på ny vask" entry:"1731656934" modified:"1731656934" priority:"H" status:"pending" uuid:"d4beb9ce-6e59-40b7-a940-c732b3294ddf"]
+---
+time 1731662158
+old [description:"lag melk" entry:"1731656821" modified:"1731656821" status:"pending" uuid:"9ab755e6-bbd4-47f7-b404-90c4e6dfa20d"]
+new [description:"lag melk" end:"1731662156" entry:"1731656821" modified:"1731662158" status:"completed" uuid:"9ab755e6-bbd4-47f7-b404-90c4e6dfa20d"]
+---
+time 1731662158
+old [description:"rask rydd oppe" entry:"1731656912" modified:"1731656912" status:"pending" uuid:"aeb6c5f4-7f93-4850-83a1-80cf32b2e6af"]
+new [description:"rask rydd oppe" end:"1731662158" entry:"1731656912" modified:"1731662158" status:"completed" uuid:"aeb6c5f4-7f93-4850-83a1-80cf32b2e6af"]
+---
+time 1731662158
+old [description:"sett på ny vask" entry:"1731656934" modified:"1731656934" priority:"H" status:"pending" uuid:"d4beb9ce-6e59-40b7-a940-c732b3294ddf"]
+new [description:"sett på ny vask" end:"1731662158" entry:"1731656934" modified:"1731662158" priority:"H" status:"completed" uuid:"d4beb9ce-6e59-40b7-a940-c732b3294ddf"]
+---
+time 1731668318
+new [description:"fyll på med bleier i dårlig stemning" entry:"1731668318" modified:"1731668318" status:"pending" uuid:"49cf074b-524a-4854-a14d-63d2630c293d"]
+---
+time 1731677829
+new [description:"vanne planter" entry:"1731677829" modified:"1731677829" status:"pending" uuid:"fbb534c9-5014-469d-8190-756d4e1502b5"]
+---
+time 1731677895
+old [description:"kattemat" entry:"1731656841" modified:"1731656841" status:"pending" uuid:"1852506d-490f-4a8b-8545-2c589e4d6fc2"]
+new [description:"kattemat" end:"1731677895" entry:"1731656841" modified:"1731677895" status:"completed" uuid:"1852506d-490f-4a8b-8545-2c589e4d6fc2"]
+---
+time 1731677895
+old [description:"vanne planter" entry:"1731677829" modified:"1731677829" status:"pending" uuid:"fbb534c9-5014-469d-8190-756d4e1502b5"]
+new [description:"vanne planter" end:"1731677895" entry:"1731677829" modified:"1731677895" status:"completed" uuid:"fbb534c9-5014-469d-8190-756d4e1502b5"]
+---
+time 1731677916
+new [description:"støvsuge trapp" entry:"1731677916" modified:"1731677916" status:"pending" uuid:"2e0af662-4412-4b45-a9c2-f37c0ae4afef"]
+---
+time 1731677925
+new [description:"støvsuge stue" entry:"1731677925" modified:"1731677925" status:"pending" uuid:"781a752b-4ebd-41b2-9b0f-236f0c98a6b7"]
+---
+time 1731677929
+new [description:"støvsuge kjøkken" entry:"1731677929" modified:"1731677929" status:"pending" uuid:"cddf5d80-e875-4ba4-ab08-832db2c55da9"]
+---
+time 1731682508
+old [description:"støvsuge trapp" entry:"1731677916" modified:"1731677916" status:"pending" uuid:"2e0af662-4412-4b45-a9c2-f37c0ae4afef"]
+new [description:"støvsuge trapp" end:"1731682508" entry:"1731677916" modified:"1731682508" status:"completed" uuid:"2e0af662-4412-4b45-a9c2-f37c0ae4afef"]
+---
+time 1731682508
+old [description:"støvsuge stue" entry:"1731677925" modified:"1731677925" status:"pending" uuid:"781a752b-4ebd-41b2-9b0f-236f0c98a6b7"]
+new [description:"støvsuge stue" end:"1731682508" entry:"1731677925" modified:"1731682508" status:"completed" uuid:"781a752b-4ebd-41b2-9b0f-236f0c98a6b7"]
+---
+time 1731682521
+old [description:"støvsuge kjøkken" entry:"1731677929" modified:"1731677929" status:"pending" uuid:"cddf5d80-e875-4ba4-ab08-832db2c55da9"]
+new [description:"støvsuge kjøkken" end:"1731682517" entry:"1731677929" modified:"1731682521" status:"deleted" uuid:"cddf5d80-e875-4ba4-ab08-832db2c55da9"]
+---
+time 1731699398
+old [description:"fyll på med bleier i dårlig stemning" entry:"1731668318" modified:"1731668318" status:"pending" uuid:"49cf074b-524a-4854-a14d-63d2630c293d"]
+new [description:"fyll på med bleier i dårlig stemning" end:"1731699398" entry:"1731668318" modified:"1731699398" status:"completed" uuid:"49cf074b-524a-4854-a14d-63d2630c293d"]
+---
+time 1731761213
+new [description:"mld om flaske" entry:"1731761213" modified:"1731761213" status:"pending" uuid:"9fe47cde-b175-4fe3-babf-88615e2f14c4"]
+---
+time 1731768671
+new [description:"tenk på mat" entry:"1731768671" modified:"1731768671" status:"pending" uuid:"4c1d8cf6-70b1-4e1f-9e4f-459946ed13af"]
+---
+time 1731768684
+new [description:"lag ting til seng" entry:"1731768684" modified:"1731768684" status:"pending" uuid:"be754643-ce88-4bee-9210-d8b0fd2d5c2b"]
+---
+time 1731768954
+new [description:"lag melk" entry:"1731768954" modified:"1731768954" status:"pending" uuid:"f138a636-1217-4cb1-89d5-6dcb8a8d565a"]
+---
+time 1731834100
+new [description:"rydde klær oppe" entry:"1731834100" modified:"1731834100" status:"pending" uuid:"4d3c36d9-7519-435e-9d39-bab12f1f504f"]
+---
+time 1731865764
+new [description:"rense projektor +month" entry:"1731865764" modified:"1731865764" status:"pending" uuid:"2f40b1bf-7a97-4826-b2af-d423b1b521a8"]
+---
+time 1731865787
+old [description:"rense projektor +month" entry:"1731865764" modified:"1731865764" status:"pending" uuid:"2f40b1bf-7a97-4826-b2af-d423b1b521a8"]
+new [description:"rense projektor" entry:"1731865764" modified:"1731865787" status:"pending" uuid:"2f40b1bf-7a97-4826-b2af-d423b1b521a8"]
+---
+time 1731865797
+old [description:"rense projektor" entry:"1731865764" modified:"1731865787" status:"pending" uuid:"2f40b1bf-7a97-4826-b2af-d423b1b521a8"]
+new [description:"rense projektor" entry:"1731865764" modified:"1731865797" status:"pending" tags:"month" tags_month:"x" uuid:"2f40b1bf-7a97-4826-b2af-d423b1b521a8"]
+---
+time 1731865903
+old [description:"lim briller" entry:"1731587198" modified:"1731587198" status:"pending" uuid:"da63947b-d1ae-4ee3-9a6f-daae4a0ae1ce"]
+new [description:"lim briller" end:"1731865903" entry:"1731587198" modified:"1731865903" status:"completed" uuid:"da63947b-d1ae-4ee3-9a6f-daae4a0ae1ce"]
+---
+time 1731865905
+old [description:"vanne planter" entry:"1731656852" modified:"1731656852" status:"pending" uuid:"be8f0fb9-dbf8-4bda-9dd3-16f887b197da"]
+new [description:"vanne planter" end:"1731865905" entry:"1731656852" modified:"1731865905" status:"completed" uuid:"be8f0fb9-dbf8-4bda-9dd3-16f887b197da"]
+---
+time 1731865910
+old [description:"mld om flaske" entry:"1731761213" modified:"1731761213" status:"pending" uuid:"9fe47cde-b175-4fe3-babf-88615e2f14c4"]
+new [description:"mld om flaske" end:"1731865910" entry:"1731761213" modified:"1731865910" status:"completed" uuid:"9fe47cde-b175-4fe3-babf-88615e2f14c4"]
+---
+time 1731865912
+old [description:"tenk på mat" entry:"1731768671" modified:"1731768671" status:"pending" uuid:"4c1d8cf6-70b1-4e1f-9e4f-459946ed13af"]
+new [description:"tenk på mat" end:"1731865912" entry:"1731768671" modified:"1731865912" status:"completed" uuid:"4c1d8cf6-70b1-4e1f-9e4f-459946ed13af"]
+---
+time 1731865915
+old [description:"lag ting til seng" entry:"1731768684" modified:"1731768684" status:"pending" uuid:"be754643-ce88-4bee-9210-d8b0fd2d5c2b"]
+new [description:"lag ting til seng" end:"1731865915" entry:"1731768684" modified:"1731865915" status:"completed" uuid:"be754643-ce88-4bee-9210-d8b0fd2d5c2b"]
+---
+time 1731865917
+old [description:"lag melk" entry:"1731768954" modified:"1731768954" status:"pending" uuid:"f138a636-1217-4cb1-89d5-6dcb8a8d565a"]
+new [description:"lag melk" end:"1731865917" entry:"1731768954" modified:"1731865917" status:"completed" uuid:"f138a636-1217-4cb1-89d5-6dcb8a8d565a"]
+---
+time 1731865919
+old [description:"rydde klær oppe" entry:"1731834100" modified:"1731834100" status:"pending" uuid:"4d3c36d9-7519-435e-9d39-bab12f1f504f"]
+new [description:"rydde klær oppe" end:"1731865919" entry:"1731834100" modified:"1731865919" status:"completed" uuid:"4d3c36d9-7519-435e-9d39-bab12f1f504f"]
+---
+time 1731870084
+new [description:"test" entry:"1731870084" modified:"1731870084" status:"pending" uuid:"3b1936b5-02ac-485c-a989-c93575a1728a"]
+---
+time 1731937529
+old [description:"test" entry:"1731870084" modified:"1731870084" status:"pending" uuid:"3b1936b5-02ac-485c-a989-c93575a1728a"]
+new [description:"test" end:"1731937529" entry:"1731870084" modified:"1731937529" status:"deleted" uuid:"3b1936b5-02ac-485c-a989-c93575a1728a"]
+---
+time 1731937585
+new [description:"undersøk rens av bilsete" entry:"1731937585" modified:"1731937585" status:"pending" tags:"week" tags_week:"x" uuid:"c5c8bf28-2c15-402f-a21e-4d715fdb66a6"]
+---
+time 1731939703
+new [description:"returner audible books" entry:"1731939703" modified:"1731939703" status:"pending" tags:"semester" tags_semester:"x" uuid:"28c8fa64-7286-407a-8272-7b44225d937b"]
+---
+time 1731959272
+new [description:"fiks ledninger" entry:"1731959272" modified:"1731959272" status:"pending" uuid:"cf818129-b470-4da7-b4dd-7de3a5859e34"]
+---
+time 1731959849
+old [description:"fiks ledninger" entry:"1731959272" modified:"1731959272" status:"pending" uuid:"cf818129-b470-4da7-b4dd-7de3a5859e34"]
+new [description:"fiks ledninger gitar stue" entry:"1731959272" modified:"1731959849" status:"pending" tags:"week" tags_week:"x" uuid:"cf818129-b470-4da7-b4dd-7de3a5859e34"]
+---
+time 1732008742
+new [description:"rydde inn i vaskemaskin" entry:"1732008742" modified:"1732008742" status:"pending" uuid:"88d51b9f-ca23-4559-a1d8-5e8241533b37"]
+---
+time 1732008748
+new [description:"mate katter" entry:"1732008748" modified:"1732008748" status:"pending" uuid:"1c8f4801-c257-4cbf-87ae-55702d7081ed"]
+---
+time 1732009108
+old [description:"rydde inn i vaskemaskin" entry:"1732008742" modified:"1732008742" status:"pending" uuid:"88d51b9f-ca23-4559-a1d8-5e8241533b37"]
+new [description:"rydde inn\/ut i vaskemaskin" entry:"1732008742" modified:"1732009108" status:"pending" uuid:"88d51b9f-ca23-4559-a1d8-5e8241533b37"]
+---
+time 1732009118
+old [description:"rydde inn\/ut i vaskemaskin" entry:"1732008742" modified:"1732009108" status:"pending" uuid:"88d51b9f-ca23-4559-a1d8-5e8241533b37"]
+new [description:"rydde inn\/ut av vaskemaskin" entry:"1732008742" modified:"1732009118" status:"pending" uuid:"88d51b9f-ca23-4559-a1d8-5e8241533b37"]
+---
+time 1732013018
+new [description:"handle" entry:"1732013018" modified:"1732013018" status:"pending" uuid:"7a9b0cd8-dab7-4bbd-836c-2720657bb45a"]
+---
+time 1732043751
+old [description:"handle" entry:"1732013018" modified:"1732013018" status:"pending" uuid:"7a9b0cd8-dab7-4bbd-836c-2720657bb45a"]
+new [description:"handle" end:"1732043751" entry:"1732013018" modified:"1732043751" status:"completed" uuid:"7a9b0cd8-dab7-4bbd-836c-2720657bb45a"]
+---
+time 1732043752
+old [description:"rydde inn\/ut av vaskemaskin" entry:"1732008742" modified:"1732009118" status:"pending" uuid:"88d51b9f-ca23-4559-a1d8-5e8241533b37"]
+new [description:"rydde inn\/ut av vaskemaskin" end:"1732043752" entry:"1732008742" modified:"1732043752" status:"completed" uuid:"88d51b9f-ca23-4559-a1d8-5e8241533b37"]
+---
+time 1732043795
+new [description:"woksaus" entry:"1732043795" modified:"1732043795" status:"pending" uuid:"e22ed16f-8661-4e68-8937-ead8e65ee479"]
+---
+time 1732043978
+old [description:"woksaus" entry:"1732043795" modified:"1732043795" status:"pending" uuid:"e22ed16f-8661-4e68-8937-ead8e65ee479"]
+new [description:"woksaus" due:"1732057200" entry:"1732043795" modified:"1732043978" status:"pending" uuid:"e22ed16f-8661-4e68-8937-ead8e65ee479"]
+---
+time 1732044030
+old [description:"woksaus" due:"1732057200" entry:"1732043795" modified:"1732043978" status:"pending" uuid:"e22ed16f-8661-4e68-8937-ead8e65ee479"]
+new [description:"woksaus" entry:"1732043795" modified:"1732044030" scheduled:"1732057200" status:"pending" uuid:"e22ed16f-8661-4e68-8937-ead8e65ee479"]
+---
+time 1732091335
+new [description:"mld mamma" entry:"1732091335" modified:"1732091335" status:"pending" uuid:"e78af4e3-1ded-4b66-93b3-f3e42fbb4222"]
+---
+time 1732091348
+old [description:"mate katter" entry:"1732008748" modified:"1732008748" status:"pending" uuid:"1c8f4801-c257-4cbf-87ae-55702d7081ed"]
+new [description:"mate katter" end:"1732091348" entry:"1732008748" modified:"1732091348" status:"deleted" uuid:"1c8f4801-c257-4cbf-87ae-55702d7081ed"]
+---
+time 1732092399
+new [description:"rydde oppe" entry:"1732092399" modified:"1732092399" status:"pending" uuid:"52453ed0-2123-4b82-8a49-ed4bbf91fd72"]
+---
+time 1732092425
+old [description:"rydde oppe" entry:"1732092399" modified:"1732092399" status:"pending" uuid:"52453ed0-2123-4b82-8a49-ed4bbf91fd72"]
+new [description:"rydde klær oppe" entry:"1732092399" modified:"1732092425" status:"pending" uuid:"52453ed0-2123-4b82-8a49-ed4bbf91fd72"]
+---
+time 1732095907
+new [description:"research dagmamma" entry:"1732095907" modified:"1732095907" status:"pending" uuid:"a8870652-2758-43d0-973a-0e128a5f5e77"]
+---
+time 1732095945
+old [description:"woksaus" entry:"1732043795" modified:"1732044030" scheduled:"1732057200" status:"pending" uuid:"e22ed16f-8661-4e68-8937-ead8e65ee479"]
+new [description:"woksaus" entry:"1732043795" modified:"1732095945" scheduled:"1732057200" status:"pending" tags:"today" tags_today:"x" uuid:"e22ed16f-8661-4e68-8937-ead8e65ee479"]
+---
+time 1732095945
+old [description:"mld mamma" entry:"1732091335" modified:"1732091335" status:"pending" uuid:"e78af4e3-1ded-4b66-93b3-f3e42fbb4222"]
+new [description:"mld mamma" entry:"1732091335" modified:"1732095945" status:"pending" tags:"today" tags_today:"x" uuid:"e78af4e3-1ded-4b66-93b3-f3e42fbb4222"]
+---
+time 1732095945
+old [description:"rydde klær oppe" entry:"1732092399" modified:"1732092425" status:"pending" uuid:"52453ed0-2123-4b82-8a49-ed4bbf91fd72"]
+new [description:"rydde klær oppe" entry:"1732092399" modified:"1732095945" status:"pending" tags:"today" tags_today:"x" uuid:"52453ed0-2123-4b82-8a49-ed4bbf91fd72"]
+---
+time 1732095945
+old [description:"research dagmamma" entry:"1732095907" modified:"1732095907" status:"pending" uuid:"a8870652-2758-43d0-973a-0e128a5f5e77"]
+new [description:"research dagmamma" entry:"1732095907" modified:"1732095945" status:"pending" tags:"today" tags_today:"x" uuid:"a8870652-2758-43d0-973a-0e128a5f5e77"]
+---
+time 1732098521
+new [description:"testing" entry:"1732098521" modified:"1732098521" status:"pending" tags:"today" tags_today:"x" uuid:"56c63191-ffa7-4a3b-8ab6-45130b66b033"]
+---
+time 1732098835
+old [description:"testing" entry:"1732098521" modified:"1732098521" status:"pending" tags:"today" tags_today:"x" uuid:"56c63191-ffa7-4a3b-8ab6-45130b66b033"]
+new [description:"testing" end:"1732098835" entry:"1732098521" modified:"1732098835" status:"completed" tags:"today" tags_today:"x" uuid:"56c63191-ffa7-4a3b-8ab6-45130b66b033"]
+---
+time 1732098885
+old [description:"rydde klær oppe" entry:"1732092399" modified:"1732095945" status:"pending" tags:"today" tags_today:"x" uuid:"52453ed0-2123-4b82-8a49-ed4bbf91fd72"]
+new [description:"rydde klær oppe" entry:"1732092399" modified:"1732098885" start:"1732098885" status:"pending" tags:"today" tags_today:"x" uuid:"52453ed0-2123-4b82-8a49-ed4bbf91fd72"]
+---
+time 1732098892
+old [description:"rydde klær oppe" entry:"1732092399" modified:"1732098885" start:"1732098885" status:"pending" tags:"today" tags_today:"x" uuid:"52453ed0-2123-4b82-8a49-ed4bbf91fd72"]
+new [description:"rydde klær oppe" entry:"1732092399" modified:"1732098892" status:"pending" tags:"today" tags_today:"x" uuid:"52453ed0-2123-4b82-8a49-ed4bbf91fd72"]
+---
+time 1732109618
+old [description:"research dagmamma" entry:"1732095907" modified:"1732095945" status:"pending" tags:"today" tags_today:"x" uuid:"a8870652-2758-43d0-973a-0e128a5f5e77"]
+new [description:"research dagmamma" end:"1732109618" entry:"1732095907" modified:"1732109618" status:"completed" tags:"today" tags_today:"x" uuid:"a8870652-2758-43d0-973a-0e128a5f5e77"]
+---
+time 1732109620
+old [description:"mld mamma" entry:"1732091335" modified:"1732095945" status:"pending" tags:"today" tags_today:"x" uuid:"e78af4e3-1ded-4b66-93b3-f3e42fbb4222"]
+new [description:"mld mamma" end:"1732109620" entry:"1732091335" modified:"1732109620" status:"completed" tags:"today" tags_today:"x" uuid:"e78af4e3-1ded-4b66-93b3-f3e42fbb4222"]
+---
+time 1732111922
+old [description:"rydde klær oppe" entry:"1732092399" modified:"1732098892" status:"pending" tags:"today" tags_today:"x" uuid:"52453ed0-2123-4b82-8a49-ed4bbf91fd72"]
+new [description:"rydde klær oppe" end:"1732111922" entry:"1732092399" modified:"1732111922" status:"completed" tags:"today" tags_today:"x" uuid:"52453ed0-2123-4b82-8a49-ed4bbf91fd72"]
+---
+time 1732113605
+old [description:"woksaus" entry:"1732043795" modified:"1732095945" scheduled:"1732057200" status:"pending" tags:"today" tags_today:"x" uuid:"e22ed16f-8661-4e68-8937-ead8e65ee479"]
+new [description:"woksaus" entry:"1732043795" modified:"1732113605" scheduled:"1732057200" start:"1732113605" status:"pending" tags:"today" tags_today:"x" uuid:"e22ed16f-8661-4e68-8937-ead8e65ee479"]
+---
+time 1732116050
+old [description:"woksaus" entry:"1732043795" modified:"1732113605" scheduled:"1732057200" start:"1732113605" status:"pending" tags:"today" tags_today:"x" uuid:"e22ed16f-8661-4e68-8937-ead8e65ee479"]
+new [description:"woksaus" entry:"1732043795" modified:"1732116050" scheduled:"1732057200" status:"pending" tags:"today" tags_today:"x" uuid:"e22ed16f-8661-4e68-8937-ead8e65ee479"]
+---
+time 1732116054
+old [description:"woksaus" entry:"1732043795" modified:"1732116050" scheduled:"1732057200" status:"pending" tags:"today" tags_today:"x" uuid:"e22ed16f-8661-4e68-8937-ead8e65ee479"]
+new [description:"woksaus" entry:"1732043795" modified:"1732116054" scheduled:"1732057200" start:"1732116054" status:"pending" tags:"today" tags_today:"x" uuid:"e22ed16f-8661-4e68-8937-ead8e65ee479"]
+---
+time 1732116054
+old [description:"woksaus" entry:"1732043795" modified:"1732116054" scheduled:"1732057200" start:"1732116054" status:"pending" tags:"today" tags_today:"x" uuid:"e22ed16f-8661-4e68-8937-ead8e65ee479"]
+new [description:"woksaus" end:"1732116054" entry:"1732043795" modified:"1732116054" scheduled:"1732057200" status:"completed" tags:"today" tags_today:"x" uuid:"e22ed16f-8661-4e68-8937-ead8e65ee479"]
+---
+time 1732178779
+new [description:"vanne planter" entry:"1732178779" modified:"1732178779" status:"pending" tags:"today" tags_today:"x" uuid:"b28bd89b-598f-403c-aa6f-a68791bb1a66"]
+---
+time 1732178788
+new [description:"tørke klær" entry:"1732178788" modified:"1732178788" status:"pending" tags:"today" tags_today:"x" uuid:"34b012fa-dff2-46e5-93da-320479b836b3"]
+---
+time 1732188646
+new [description:"gjør leiligheten presentabel" entry:"1732188646" modified:"1732188646" status:"pending" tags:"today" tags_today:"x" uuid:"9ad3cbf5-d7e3-4994-bfb3-c3f29029c6d0"]
+---
+time 1732188804
+new [description:"tømme kattedoer" entry:"1732188804" modified:"1732188804" status:"pending" tags:"today" tags_today:"x" uuid:"1fd0f904-7525-4728-b94e-f1415b5fc5a8"]
+---
+time 1732188816
+new [description:"pakke ferdig" entry:"1732188816" modified:"1732188816" status:"pending" tags:"today" tags_today:"x" uuid:"9eba7be1-458d-4b0b-9b13-66dbc1cc4480"]
+---
+time 1732189576
+new [description:"kjøp kattemat" entry:"1732189576" modified:"1732189576" status:"pending" tags:"today" tags_today:"x" uuid:"4a898394-3890-47d5-b1fc-3f8d3719d4f9"]
+---
+time 1732189899
+old [description:"kjøp kattemat" entry:"1732189576" modified:"1732189576" status:"pending" tags:"today" tags_today:"x" uuid:"4a898394-3890-47d5-b1fc-3f8d3719d4f9"]
+new [annotation_1732189899:"test" description:"kjøp kattemat" entry:"1732189576" modified:"1732189899" status:"pending" tags:"today" tags_today:"x" uuid:"4a898394-3890-47d5-b1fc-3f8d3719d4f9"]
+---
+time 1732192010
+old [description:"undersøk rens av bilsete" entry:"1731937585" modified:"1731937585" status:"pending" tags:"week" tags_week:"x" uuid:"c5c8bf28-2c15-402f-a21e-4d715fdb66a6"]
+new [description:"undersøk rens av bilsete" entry:"1731937585" modified:"1732192010" status:"pending" tags:"next,week" tags_next:"x" tags_week:"x" uuid:"c5c8bf28-2c15-402f-a21e-4d715fdb66a6"]
+---
+time 1732192039
+old [description:"undersøk rens av bilsete" entry:"1731937585" modified:"1732192010" status:"pending" tags:"next,week" tags_next:"x" tags_week:"x" uuid:"c5c8bf28-2c15-402f-a21e-4d715fdb66a6"]
+new [description:"undersøk rens av bilsete" entry:"1731937585" modified:"1732192039" status:"pending" tags:"week" tags_week:"x" uuid:"c5c8bf28-2c15-402f-a21e-4d715fdb66a6"]
+---
+time 1732192040
+old [description:"undersøk rens av bilsete" entry:"1731937585" modified:"1732192039" status:"pending" tags:"week" tags_week:"x" uuid:"c5c8bf28-2c15-402f-a21e-4d715fdb66a6"]
+new [description:"undersøk rens av bilsete" entry:"1731937585" modified:"1732192040" status:"pending" tags:"next,week" tags_next:"x" tags_week:"x" uuid:"c5c8bf28-2c15-402f-a21e-4d715fdb66a6"]
+---
+time 1732192042
+old [description:"undersøk rens av bilsete" entry:"1731937585" modified:"1732192040" status:"pending" tags:"next,week" tags_next:"x" tags_week:"x" uuid:"c5c8bf28-2c15-402f-a21e-4d715fdb66a6"]
+new [description:"undersøk rens av bilsete" entry:"1731937585" modified:"1732192042" status:"pending" tags:"week" tags_week:"x" uuid:"c5c8bf28-2c15-402f-a21e-4d715fdb66a6"]
+---
+time 1732192043
+old [description:"undersøk rens av bilsete" entry:"1731937585" modified:"1732192042" status:"pending" tags:"week" tags_week:"x" uuid:"c5c8bf28-2c15-402f-a21e-4d715fdb66a6"]
+new [description:"undersøk rens av bilsete" entry:"1731937585" modified:"1732192043" status:"pending" tags:"next,week" tags_next:"x" tags_week:"x" uuid:"c5c8bf28-2c15-402f-a21e-4d715fdb66a6"]
+---
+time 1732192043
+old [description:"undersøk rens av bilsete" entry:"1731937585" modified:"1732192043" status:"pending" tags:"next,week" tags_next:"x" tags_week:"x" uuid:"c5c8bf28-2c15-402f-a21e-4d715fdb66a6"]
+new [description:"undersøk rens av bilsete" entry:"1731937585" modified:"1732192043" status:"pending" tags:"week" tags_week:"x" uuid:"c5c8bf28-2c15-402f-a21e-4d715fdb66a6"]
+---
+time 1732192277
+old [description:"undersøk rens av bilsete" entry:"1731937585" modified:"1732192043" status:"pending" tags:"week" tags_week:"x" uuid:"c5c8bf28-2c15-402f-a21e-4d715fdb66a6"]
+new [description:"kjøp tekstilrent" entry:"1731937585" modified:"1732192277" status:"pending" tags:"week" tags_week:"x" uuid:"c5c8bf28-2c15-402f-a21e-4d715fdb66a6"]
+---
+time 1732192562
+new [description:"skriv info til sarah" entry:"1732192562" modified:"1732192562" status:"pending" uuid:"08ec72f8-c2d9-41e7-8308-1be385fe3333"]
+---
+time 1732192597
+old [description:"skriv info til sarah" entry:"1732192562" modified:"1732192562" status:"pending" uuid:"08ec72f8-c2d9-41e7-8308-1be385fe3333"]
+new [description:"skriv info til sarah" entry:"1732192562" modified:"1732192597" status:"pending" tags:"week" tags_week:"x" uuid:"08ec72f8-c2d9-41e7-8308-1be385fe3333"]
+---
+time 1732195183
+old [annotation_1732189899:"test" description:"kjøp kattemat" entry:"1732189576" modified:"1732189899" status:"pending" tags:"today" tags_today:"x" uuid:"4a898394-3890-47d5-b1fc-3f8d3719d4f9"]
+new [annotation_1732189899:"test" description:"kjøp kattemat" end:"1732195183" entry:"1732189576" modified:"1732195183" status:"deleted" tags:"today" tags_today:"x" uuid:"4a898394-3890-47d5-b1fc-3f8d3719d4f9"]
+---
+time 1732195199
+old [description:"tørke klær" entry:"1732178788" modified:"1732178788" status:"pending" tags:"today" tags_today:"x" uuid:"34b012fa-dff2-46e5-93da-320479b836b3"]
+new [description:"tørke klær" entry:"1732178788" modified:"1732195199" start:"1732195199" status:"pending" tags:"today" tags_today:"x" uuid:"34b012fa-dff2-46e5-93da-320479b836b3"]
+---
+time 1732195279
+new [description:"vaskemaskin" entry:"1732195279" modified:"1732195279" status:"pending" tags:"today" tags_today:"x" uuid:"dc558e4c-a09c-4ad3-85c1-e8bd7503c7b7"]
+---
+time 1732195288
+old [description:"vaskemaskin" entry:"1732195279" modified:"1732195279" status:"pending" tags:"today" tags_today:"x" uuid:"dc558e4c-a09c-4ad3-85c1-e8bd7503c7b7"]
+new [description:"vaskemaskin" entry:"1732195279" modified:"1732195288" start:"1732195288" status:"pending" tags:"today" tags_today:"x" uuid:"dc558e4c-a09c-4ad3-85c1-e8bd7503c7b7"]
+---
+time 1732195634
+new [description:"lag melk" entry:"1732195634" modified:"1732195634" status:"pending" tags:"today" tags_today:"x" uuid:"58c6e419-1c26-447c-87ab-8da7ccea1958"]
+---
+time 1732195653
+old [description:"lag melk" entry:"1732195634" modified:"1732195634" status:"pending" tags:"today" tags_today:"x" uuid:"58c6e419-1c26-447c-87ab-8da7ccea1958"]
+new [description:"lag melk" entry:"1732195634" modified:"1732195653" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"58c6e419-1c26-447c-87ab-8da7ccea1958"]
+---
+time 1732197351
+old [description:"vaskemaskin" entry:"1732195279" modified:"1732195288" start:"1732195288" status:"pending" tags:"today" tags_today:"x" uuid:"dc558e4c-a09c-4ad3-85c1-e8bd7503c7b7"]
+new [description:"vaskemaskin" end:"1732197351" entry:"1732195279" modified:"1732197351" status:"completed" tags:"today" tags_today:"x" uuid:"dc558e4c-a09c-4ad3-85c1-e8bd7503c7b7"]
+---
+time 1732197645
+new [description:"fyll på kattemat" entry:"1732197645" modified:"1732197645" status:"pending" tags:"today" tags_today:"x" uuid:"f97fa05a-6239-4578-a507-036956aa8614"]
+---
+time 1732198175
+new [description:"test" entry:"1732198175" modified:"1732198175" status:"pending" tags:"today" tags_today:"x" uuid:"b4f7fc4b-b378-47d7-ac5d-a6547ae1dc08"]
+---
+time 1732198197
+old [description:"test" entry:"1732198175" modified:"1732198175" status:"pending" tags:"today" tags_today:"x" uuid:"b4f7fc4b-b378-47d7-ac5d-a6547ae1dc08"]
+new [description:"test" end:"1732198191" entry:"1732198175" modified:"1732198197" status:"deleted" tags:"today" tags_today:"x" uuid:"b4f7fc4b-b378-47d7-ac5d-a6547ae1dc08"]
+---
+time 1732198231
+old [description:"tørke klær" entry:"1732178788" modified:"1732195199" start:"1732195199" status:"pending" tags:"today" tags_today:"x" uuid:"34b012fa-dff2-46e5-93da-320479b836b3"]
+new [description:"tørke klær" entry:"1732178788" modified:"1732198231" status:"pending" tags:"today" tags_today:"x" uuid:"34b012fa-dff2-46e5-93da-320479b836b3"]
+---
+time 1732198237
+old [description:"tørke klær" entry:"1732178788" modified:"1732198231" status:"pending" tags:"today" tags_today:"x" uuid:"34b012fa-dff2-46e5-93da-320479b836b3"]
+new [description:"tørke klær" end:"1732198237" entry:"1732178788" modified:"1732198237" status:"completed" tags:"today" tags_today:"x" uuid:"34b012fa-dff2-46e5-93da-320479b836b3"]
+---
+time 1732199346
+old [description:"lag melk" entry:"1732195634" modified:"1732195653" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"58c6e419-1c26-447c-87ab-8da7ccea1958"]
+new [description:"lag melk" end:"1732199346" entry:"1732195634" modified:"1732199346" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"58c6e419-1c26-447c-87ab-8da7ccea1958"]
+---
+time 1732199850
+old [description:"vanne planter" entry:"1732178779" modified:"1732178779" status:"pending" tags:"today" tags_today:"x" uuid:"b28bd89b-598f-403c-aa6f-a68791bb1a66"]
+new [description:"vanne planter" entry:"1732178779" modified:"1732199850" start:"1732199850" status:"pending" tags:"today" tags_today:"x" uuid:"b28bd89b-598f-403c-aa6f-a68791bb1a66"]
+---
+time 1732199856
+old [description:"gjør leiligheten presentabel" entry:"1732188646" modified:"1732188646" status:"pending" tags:"today" tags_today:"x" uuid:"9ad3cbf5-d7e3-4994-bfb3-c3f29029c6d0"]
+new [description:"gjør leiligheten presentabel" entry:"1732188646" modified:"1732199856" start:"1732199856" status:"pending" tags:"today" tags_today:"x" uuid:"9ad3cbf5-d7e3-4994-bfb3-c3f29029c6d0"]
+---
+time 1732200151
+old [description:"vanne planter" entry:"1732178779" modified:"1732199850" start:"1732199850" status:"pending" tags:"today" tags_today:"x" uuid:"b28bd89b-598f-403c-aa6f-a68791bb1a66"]
+new [description:"vanne planter" entry:"1732178779" modified:"1732200151" status:"pending" tags:"today" tags_today:"x" uuid:"b28bd89b-598f-403c-aa6f-a68791bb1a66"]
+---
+time 1732200163
+old [description:"vanne planter" entry:"1732178779" modified:"1732200151" status:"pending" tags:"today" tags_today:"x" uuid:"b28bd89b-598f-403c-aa6f-a68791bb1a66"]
+new [description:"vanne planter" end:"1732200163" entry:"1732178779" modified:"1732200163" status:"completed" tags:"today" tags_today:"x" uuid:"b28bd89b-598f-403c-aa6f-a68791bb1a66"]
+---
+time 1732216848
+new [description:"kjøp votter\/handsker til hilma" entry:"1732216848" modified:"1732216848" status:"pending" tags:"today" tags_today:"x" uuid:"500dd6d3-2022-4958-a778-488ed5edbc0f"]
+---
+time 1732216888
+old [description:"kjøp votter\/handsker til hilma" entry:"1732216848" modified:"1732216848" status:"pending" tags:"today" tags_today:"x" uuid:"500dd6d3-2022-4958-a778-488ed5edbc0f"]
+new [description:"kjøp votter\/handsker til hilma" entry:"1732216848" modified:"1732216888" status:"pending" tags:"week" tags_week:"x" uuid:"500dd6d3-2022-4958-a778-488ed5edbc0f"]
+---
+time 1732226925
+old [description:"gjør leiligheten presentabel" entry:"1732188646" modified:"1732199856" start:"1732199856" status:"pending" tags:"today" tags_today:"x" uuid:"9ad3cbf5-d7e3-4994-bfb3-c3f29029c6d0"]
+new [description:"gjør leiligheten presentabel" entry:"1732188646" modified:"1732226925" status:"pending" tags:"today" tags_today:"x" uuid:"9ad3cbf5-d7e3-4994-bfb3-c3f29029c6d0"]
+---
+time 1732524721
+old [description:"pakke ferdig" entry:"1732188816" modified:"1732188816" status:"pending" tags:"today" tags_today:"x" uuid:"9eba7be1-458d-4b0b-9b13-66dbc1cc4480"]
+new [description:"pakke ferdig" end:"1732524721" entry:"1732188816" modified:"1732524721" status:"completed" tags:"today" tags_today:"x" uuid:"9eba7be1-458d-4b0b-9b13-66dbc1cc4480"]
+---
+time 1732524728
+old [description:"skriv info til sarah" entry:"1732192562" modified:"1732192597" status:"pending" tags:"week" tags_week:"x" uuid:"08ec72f8-c2d9-41e7-8308-1be385fe3333"]
+new [description:"skriv info til sarah" end:"1732524728" entry:"1732192562" modified:"1732524728" status:"deleted" tags:"week" tags_week:"x" uuid:"08ec72f8-c2d9-41e7-8308-1be385fe3333"]
+---
+time 1732524739
+old [description:"gjør leiligheten presentabel" entry:"1732188646" modified:"1732226925" status:"pending" tags:"today" tags_today:"x" uuid:"9ad3cbf5-d7e3-4994-bfb3-c3f29029c6d0"]
+new [description:"gjør leiligheten presentabel" end:"1732524739" entry:"1732188646" modified:"1732524739" status:"completed" tags:"today" tags_today:"x" uuid:"9ad3cbf5-d7e3-4994-bfb3-c3f29029c6d0"]
+---
+time 1732524752
+new [description:"lag kaffe" entry:"1732524752" modified:"1732524752" status:"pending" tags:"today" tags_today:"x" uuid:"7a588df5-5e90-484d-9c18-936768c2256a"]
+---
+time 1732524769
+new [description:"lag melk til hilma" entry:"1732524769" modified:"1732524769" priority:"H" status:"pending" tags:"today" tags_today:"x" uuid:"431e2074-4604-4e56-8dcf-0dc0683b2058"]
+---
+time 1732525328
+old [description:"lag kaffe" entry:"1732524752" modified:"1732524752" status:"pending" tags:"today" tags_today:"x" uuid:"7a588df5-5e90-484d-9c18-936768c2256a"]
+new [description:"lag kaffe" end:"1732525328" entry:"1732524752" modified:"1732525328" status:"completed" tags:"today" tags_today:"x" uuid:"7a588df5-5e90-484d-9c18-936768c2256a"]
+---
+time 1732567640
+new [description:"selg frakk" entry:"1732567640" modified:"1732567640" status:"pending" tags:"today,week" tags_today:"x" tags_week:"x" uuid:"a900da76-7cea-480a-87e5-eb627fb46a15"]
+---
+time 1732567662
+old [description:"selg frakk" entry:"1732567640" modified:"1732567640" status:"pending" tags:"today,week" tags_today:"x" tags_week:"x" uuid:"a900da76-7cea-480a-87e5-eb627fb46a15"]
+new [description:"selg frakk" entry:"1732567640" modified:"1732567662" status:"pending" tags:"week" tags_week:"x" uuid:"a900da76-7cea-480a-87e5-eb627fb46a15"]
+---
+time 1732612946
+new [description:"pakk til tur med Hilma" entry:"1732612946" modified:"1732612946" status:"pending" tags:"today" tags_today:"x" uuid:"37d8ed1b-2e86-4abe-a301-900f15c2c982"]
+---
+time 1732615226
+old [description:"lag melk til hilma" entry:"1732524769" modified:"1732524769" priority:"H" status:"pending" tags:"today" tags_today:"x" uuid:"431e2074-4604-4e56-8dcf-0dc0683b2058"]
+new [description:"lag melk til hilma" end:"1732615226" entry:"1732524769" modified:"1732615226" priority:"H" status:"completed" tags:"today" tags_today:"x" uuid:"431e2074-4604-4e56-8dcf-0dc0683b2058"]
+---
+time 1732615229
+old [description:"tømme kattedoer" entry:"1732188804" modified:"1732188804" status:"pending" tags:"today" tags_today:"x" uuid:"1fd0f904-7525-4728-b94e-f1415b5fc5a8"]
+new [description:"tømme kattedoer" end:"1732615229" entry:"1732188804" modified:"1732615229" status:"completed" tags:"today" tags_today:"x" uuid:"1fd0f904-7525-4728-b94e-f1415b5fc5a8"]
+---
+time 1732615230
+old [description:"fyll på kattemat" entry:"1732197645" modified:"1732197645" status:"pending" tags:"today" tags_today:"x" uuid:"f97fa05a-6239-4578-a507-036956aa8614"]
+new [description:"fyll på kattemat" end:"1732615230" entry:"1732197645" modified:"1732615230" status:"completed" tags:"today" tags_today:"x" uuid:"f97fa05a-6239-4578-a507-036956aa8614"]
+---
+time 1732633955
+old [description:"pakk til tur med Hilma" entry:"1732612946" modified:"1732612946" status:"pending" tags:"today" tags_today:"x" uuid:"37d8ed1b-2e86-4abe-a301-900f15c2c982"]
+new [description:"pakk til tur med Hilma" end:"1732633955" entry:"1732612946" modified:"1732633955" status:"completed" tags:"today" tags_today:"x" uuid:"37d8ed1b-2e86-4abe-a301-900f15c2c982"]
+---
+time 1732633967
+old [description:"kjøp votter\/handsker til hilma" entry:"1732216848" modified:"1732216888" status:"pending" tags:"week" tags_week:"x" uuid:"500dd6d3-2022-4958-a778-488ed5edbc0f"]
+new [description:"kjøp votter\/handsker til hilma" end:"1732633967" entry:"1732216848" modified:"1732633967" status:"completed" tags:"week" tags_week:"x" uuid:"500dd6d3-2022-4958-a778-488ed5edbc0f"]
+---
+time 1732633987
+new [description:"lag middag" entry:"1732633987" modified:"1732633987" status:"pending" tags:"today" tags_today:"x" uuid:"5be90f6c-5a3b-482b-a17c-10157c27f200"]
+---
+time 1732634118
+new [description:"legg inn i kjøleskap" entry:"1732634118" modified:"1732634118" status:"pending" tags:"today" tags_today:"x" uuid:"11daf9c3-fd41-4513-9277-a66f21e5c7d8"]
+---
+time 1732634122
+old [description:"lag middag" entry:"1732633987" modified:"1732633987" status:"pending" tags:"today" tags_today:"x" uuid:"5be90f6c-5a3b-482b-a17c-10157c27f200"]
+new [description:"lag middag" entry:"1732633987" modified:"1732634122" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"5be90f6c-5a3b-482b-a17c-10157c27f200"]
+---
+time 1732634146
+old [description:"lag middag" entry:"1732633987" modified:"1732634122" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"5be90f6c-5a3b-482b-a17c-10157c27f200"]
+new [description:"lag middag" entry:"1732633987" modified:"1732634146" status:"pending" tags:"today" tags_today:"x" uuid:"5be90f6c-5a3b-482b-a17c-10157c27f200"]
+---
+time 1732634148
+old [description:"legg inn i kjøleskap" entry:"1732634118" modified:"1732634118" status:"pending" tags:"today" tags_today:"x" uuid:"11daf9c3-fd41-4513-9277-a66f21e5c7d8"]
+new [description:"legg inn i kjøleskap" entry:"1732634118" modified:"1732634148" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"11daf9c3-fd41-4513-9277-a66f21e5c7d8"]
+---
+time 1732634150
+old [description:"lag middag" entry:"1732633987" modified:"1732634146" status:"pending" tags:"today" tags_today:"x" uuid:"5be90f6c-5a3b-482b-a17c-10157c27f200"]
+new [description:"lag middag" entry:"1732633987" modified:"1732634150" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"5be90f6c-5a3b-482b-a17c-10157c27f200"]
+---
+time 1732634505
+new [description:"pakke til sqash" entry:"1732634505" modified:"1732634505" status:"pending" tags:"today" tags_today:"x" uuid:"37db90af-7708-4a2f-8ea9-f04adad1330a"]
+---
+time 1732634557
+old [description:"legg inn i kjøleskap" entry:"1732634118" modified:"1732634148" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"11daf9c3-fd41-4513-9277-a66f21e5c7d8"]
+new [description:"legg inn i kjøleskap" end:"1732634557" entry:"1732634118" modified:"1732634557" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"11daf9c3-fd41-4513-9277-a66f21e5c7d8"]
+---
+time 1732637684
+new [description:"finn stikksag" entry:"1732637684" modified:"1732637684" status:"pending" uuid:"93da93c2-32d6-4d2e-87d4-8d485cc9b529"]
+---
+time 1732639859
+old [description:"lag middag" entry:"1732633987" modified:"1732634150" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"5be90f6c-5a3b-482b-a17c-10157c27f200"]
+new [description:"lag middag" end:"1732639859" entry:"1732633987" modified:"1732639859" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"5be90f6c-5a3b-482b-a17c-10157c27f200"]
+---
+time 1732694674
+old [description:"pakke til sqash" entry:"1732634505" modified:"1732634505" status:"pending" tags:"today" tags_today:"x" uuid:"37db90af-7708-4a2f-8ea9-f04adad1330a"]
+new [description:"pakke til sqash" end:"1732694674" entry:"1732634505" modified:"1732694674" status:"completed" tags:"today" tags_today:"x" uuid:"37db90af-7708-4a2f-8ea9-f04adad1330a"]
+---
+time 1732694691
+old [description:"finn stikksag" entry:"1732637684" modified:"1732637684" status:"pending" uuid:"93da93c2-32d6-4d2e-87d4-8d485cc9b529"]
+new [description:"finn stikksag" end:"1732694691" entry:"1732637684" modified:"1732694691" status:"deleted" uuid:"93da93c2-32d6-4d2e-87d4-8d485cc9b529"]
+---
+time 1732694805
+new [description:"neste step shot in the dark -today" entry:"1732694805" modified:"1732694805" status:"pending" tags:"today,week" tags_today:"x" tags_week:"x" uuid:"4245d0f9-c4c1-405c-9d20-b8f5fa28c47e"]
+---
+time 1732694825
+old [description:"neste step shot in the dark -today" entry:"1732694805" modified:"1732694805" status:"pending" tags:"today,week" tags_today:"x" tags_week:"x" uuid:"4245d0f9-c4c1-405c-9d20-b8f5fa28c47e"]
+new [description:"neste step shot in the dark" entry:"1732694805" modified:"1732694825" status:"pending" tags:"week" tags_week:"x" uuid:"4245d0f9-c4c1-405c-9d20-b8f5fa28c47e"]
+---
+time 1732694943
+new [description:"fjern nupper fra gensere -today" entry:"1732694943" modified:"1732694943" status:"pending" tags:"today,week" tags_today:"x" tags_week:"x" uuid:"542d1d02-7102-4ae3-bd4d-42503e65b1a4"]
+---
+time 1732694981
+old [description:"fjern nupper fra gensere -today" entry:"1732694943" modified:"1732694943" status:"pending" tags:"today,week" tags_today:"x" tags_week:"x" uuid:"542d1d02-7102-4ae3-bd4d-42503e65b1a4"]
+new [description:"fjern nupper fra gensere" entry:"1732694943" modified:"1732694981" status:"pending" tags:"week" tags_week:"x" uuid:"542d1d02-7102-4ae3-bd4d-42503e65b1a4"]
+---
+time 1732695002
+new [description:"lag melk til" entry:"1732695002" modified:"1732695002" status:"pending" tags:"today" tags_today:"x" uuid:"d962dcdd-e58f-4c31-9d87-f3d9ce00f007"]
+---
+time 1732695074
+new [description:"let etter nøkkel" entry:"1732695074" modified:"1732695074" priority:"M" status:"pending" tags:"today" tags_today:"x" uuid:"2d8e08c4-b7c6-4828-87c9-d97839db54d8"]
+---
+time 1732695275
+new [description:"test -today" entry:"1732695275" modified:"1732695275" status:"pending" tags:"today,week" tags_today:"x" tags_week:"x" uuid:"6730eefd-bff4-409c-ae0e-a71d517a18bd"]
+---
+time 1732695281
+old [description:"test -today" entry:"1732695275" modified:"1732695275" status:"pending" tags:"today,week" tags_today:"x" tags_week:"x" uuid:"6730eefd-bff4-409c-ae0e-a71d517a18bd"]
+new [description:"test -today" end:"1732695281" entry:"1732695275" modified:"1732695281" status:"deleted" tags:"today,week" tags_today:"x" tags_week:"x" uuid:"6730eefd-bff4-409c-ae0e-a71d517a18bd"]
+---
+time 1732696215
+old [description:"lag melk til" entry:"1732695002" modified:"1732695002" status:"pending" tags:"today" tags_today:"x" uuid:"d962dcdd-e58f-4c31-9d87-f3d9ce00f007"]
+new [description:"lag melk" entry:"1732695002" modified:"1732696215" status:"pending" tags:"today" tags_today:"x" uuid:"d962dcdd-e58f-4c31-9d87-f3d9ce00f007"]
+---
+time 1732698081
+old [description:"lag melk" entry:"1732695002" modified:"1732696215" status:"pending" tags:"today" tags_today:"x" uuid:"d962dcdd-e58f-4c31-9d87-f3d9ce00f007"]
+new [description:"lag melk" entry:"1732695002" modified:"1732698081" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"d962dcdd-e58f-4c31-9d87-f3d9ce00f007"]
+---
+time 1732698205
+new [description:"rydde kjøkken" entry:"1732698205" modified:"1732698205" status:"pending" tags:"today" tags_today:"x" uuid:"c025ed55-13f5-45ac-a16d-c2ccd564fb36"]
+---
+time 1732698208
+old [description:"rydde kjøkken" entry:"1732698205" modified:"1732698205" status:"pending" tags:"today" tags_today:"x" uuid:"c025ed55-13f5-45ac-a16d-c2ccd564fb36"]
+new [description:"rydde kjøkken" entry:"1732698205" modified:"1732698208" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"c025ed55-13f5-45ac-a16d-c2ccd564fb36"]
+---
+time 1732700353
+old [description:"lag melk" entry:"1732695002" modified:"1732698081" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"d962dcdd-e58f-4c31-9d87-f3d9ce00f007"]
+new [description:"lag melk" end:"1732700353" entry:"1732695002" modified:"1732700353" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"d962dcdd-e58f-4c31-9d87-f3d9ce00f007"]
+---
+time 1732700358
+old [description:"rydde kjøkken" entry:"1732698205" modified:"1732698208" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"c025ed55-13f5-45ac-a16d-c2ccd564fb36"]
+new [description:"rydde kjøkken" entry:"1732698205" modified:"1732700358" status:"pending" tags:"today" tags_today:"x" uuid:"c025ed55-13f5-45ac-a16d-c2ccd564fb36"]
+---
+time 1732700361
+old [description:"rydde kjøkken" entry:"1732698205" modified:"1732700358" status:"pending" tags:"today" tags_today:"x" uuid:"c025ed55-13f5-45ac-a16d-c2ccd564fb36"]
+new [description:"rydde kjøkken" end:"1732700361" entry:"1732698205" modified:"1732700361" status:"completed" tags:"today" tags_today:"x" uuid:"c025ed55-13f5-45ac-a16d-c2ccd564fb36"]
+---
+time 1732700378
+new [description:"sett inn i vaskemaskin" entry:"1732700378" modified:"1732700378" status:"pending" tags:"today" tags_today:"x" uuid:"f7001c2a-f495-4c2c-9afb-e0c8280a5600"]
+---
+time 1732712401
+old [description:"let etter nøkkel" entry:"1732695074" modified:"1732695074" priority:"M" status:"pending" tags:"today" tags_today:"x" uuid:"2d8e08c4-b7c6-4828-87c9-d97839db54d8"]
+new [description:"let etter nøkkel" end:"1732712401" entry:"1732695074" modified:"1732712401" priority:"M" status:"completed" tags:"today" tags_today:"x" uuid:"2d8e08c4-b7c6-4828-87c9-d97839db54d8"]
+---
+time 1732736762
+old [description:"sett inn i vaskemaskin" entry:"1732700378" modified:"1732700378" status:"pending" tags:"today" tags_today:"x" uuid:"f7001c2a-f495-4c2c-9afb-e0c8280a5600"]
+new [description:"sett inn i vaskemaskin" end:"1732736762" entry:"1732700378" modified:"1732736762" status:"completed" tags:"today" tags_today:"x" uuid:"f7001c2a-f495-4c2c-9afb-e0c8280a5600"]
+---
+time 1732738351
+new [description:"inviter Hedda og Helene" entry:"1732738351" modified:"1732738351" status:"pending" tags:"week" tags_week:"x" uuid:"4e894bea-5c5c-447b-aba3-6612bcc803fa"]
+---
+time 1732738425
+new [description:"svar Hedda" entry:"1732738425" modified:"1732738425" status:"pending" tags:"week" tags_week:"x" uuid:"1e0ee07e-fb27-43e9-90da-bed107365bc8"]
+---
+time 1732738446
+new [description:"svar Mathilde" entry:"1732738446" modified:"1732738446" status:"pending" tags:"week" tags_week:"x" uuid:"2cff8d80-506a-4b8b-af6f-a82a01801f88"]
+---
+time 1732743009
+new [description:"ta ioo tråden med blikkenslager" entry:"1732743009" modified:"1732743009" status:"pending" tags:"week" tags_week:"x" uuid:"293c783f-8a7f-4156-b042-9392946a0092"]
+---
+time 1732780472
+new [description:"lag melk" entry:"1732780472" modified:"1732780472" status:"pending" tags:"today" tags_today:"x" uuid:"c3a603c7-755f-4165-99c1-281e615d8da4"]
+---
+time 1732780499
+new [description:"ta ut av vaskemaskin" entry:"1732780499" modified:"1732780499" status:"pending" tags:"today" tags_today:"x" uuid:"19e98cf6-d65a-43cd-ac17-06402573f9f2"]
+---
+time 1732780519
+old [description:"ta ut av vaskemaskin" entry:"1732780499" modified:"1732780499" status:"pending" tags:"today" tags_today:"x" uuid:"19e98cf6-d65a-43cd-ac17-06402573f9f2"]
+new [description:"ta ut av oppvaskemaskin" entry:"1732780499" modified:"1732780519" status:"pending" tags:"today" tags_today:"x" uuid:"19e98cf6-d65a-43cd-ac17-06402573f9f2"]
+---
+time 1732780555
+old [description:"svar Hedda" entry:"1732738425" modified:"1732738425" status:"pending" tags:"week" tags_week:"x" uuid:"1e0ee07e-fb27-43e9-90da-bed107365bc8"]
+new [description:"svar Hedda" entry:"1732738425" modified:"1732780555" status:"pending" tags:"today" tags_today:"x" uuid:"1e0ee07e-fb27-43e9-90da-bed107365bc8"]
+---
+time 1732780868
+new [description:"mld mamma" entry:"1732780868" modified:"1732780868" status:"pending" tags:"today" tags_today:"x" uuid:"120435bf-ab08-46ff-8b29-dfe0760f09d8"]
+---
+time 1732787065
+new [description:"tøm bæsj" entry:"1732787065" modified:"1732787065" status:"pending" tags:"today" tags_today:"x" uuid:"055a887f-7429-4440-9f64-7baf5e238b85"]
+---
+time 1733050490
+old [description:"svar Hedda" entry:"1732738425" modified:"1732780555" status:"pending" tags:"today" tags_today:"x" uuid:"1e0ee07e-fb27-43e9-90da-bed107365bc8"]
+new [description:"svar Hedda" end:"1733050490" entry:"1732738425" modified:"1733050490" status:"completed" tags:"today" tags_today:"x" uuid:"1e0ee07e-fb27-43e9-90da-bed107365bc8"]
+---
+time 1733050499
+old [description:"lag melk" entry:"1732780472" modified:"1732780472" status:"pending" tags:"today" tags_today:"x" uuid:"c3a603c7-755f-4165-99c1-281e615d8da4"]
+new [description:"lag melk" end:"1733050499" entry:"1732780472" modified:"1733050499" status:"deleted" tags:"today" tags_today:"x" uuid:"c3a603c7-755f-4165-99c1-281e615d8da4"]
+---
+time 1733050504
+old [description:"ta ut av oppvaskemaskin" entry:"1732780499" modified:"1732780519" status:"pending" tags:"today" tags_today:"x" uuid:"19e98cf6-d65a-43cd-ac17-06402573f9f2"]
+new [description:"ta ut av oppvaskemaskin" end:"1733050504" entry:"1732780499" modified:"1733050504" status:"deleted" tags:"today" tags_today:"x" uuid:"19e98cf6-d65a-43cd-ac17-06402573f9f2"]
+---
+time 1733050506
+old [description:"mld mamma" entry:"1732780868" modified:"1732780868" status:"pending" tags:"today" tags_today:"x" uuid:"120435bf-ab08-46ff-8b29-dfe0760f09d8"]
+new [description:"mld mamma" end:"1733050506" entry:"1732780868" modified:"1733050506" status:"completed" tags:"today" tags_today:"x" uuid:"120435bf-ab08-46ff-8b29-dfe0760f09d8"]
+---
+time 1733050507
+old [description:"tøm bæsj" entry:"1732787065" modified:"1732787065" status:"pending" tags:"today" tags_today:"x" uuid:"055a887f-7429-4440-9f64-7baf5e238b85"]
+new [description:"tøm bæsj" end:"1733050507" entry:"1732787065" modified:"1733050507" status:"completed" tags:"today" tags_today:"x" uuid:"055a887f-7429-4440-9f64-7baf5e238b85"]
+---
+time 1733050528
+old [description:"neste step shot in the dark" entry:"1732694805" modified:"1732694825" status:"pending" tags:"week" tags_week:"x" uuid:"4245d0f9-c4c1-405c-9d20-b8f5fa28c47e"]
+new [description:"neste step shot in the dark" end:"1733050528" entry:"1732694805" modified:"1733050528" status:"completed" tags:"week" tags_week:"x" uuid:"4245d0f9-c4c1-405c-9d20-b8f5fa28c47e"]
+---
+time 1733050534
+old [description:"inviter Hedda og Helene" entry:"1732738351" modified:"1732738351" status:"pending" tags:"week" tags_week:"x" uuid:"4e894bea-5c5c-447b-aba3-6612bcc803fa"]
+new [description:"inviter Hedda og Helene" end:"1733050534" entry:"1732738351" modified:"1733050534" status:"completed" tags:"week" tags_week:"x" uuid:"4e894bea-5c5c-447b-aba3-6612bcc803fa"]
+---
+time 1733050610
+new [description:"sett inn i vaskemaskin" entry:"1733050610" modified:"1733050610" status:"pending" tags:"today" tags_today:"x" uuid:"ceb623ac-dd91-424d-ae4b-7d4f67cb32e2"]
+---
+time 1733050631
+new [description:"ta verktøy ned i kjelleren" entry:"1733050631" modified:"1733050631" status:"pending" tags:"today" tags_today:"x" uuid:"fb74b169-84d2-4492-bcf5-d090953a39f1"]
+---
+time 1733051259
+new [description:"glass" entry:"1733051259" modified:"1733051259" status:"pending" tags:"today" tags_today:"x" uuid:"7ac61fd1-b570-483c-a456-62be8d0cef7d"]
+---
+time 1733062186
+old [description:"sett inn i vaskemaskin" entry:"1733050610" modified:"1733050610" status:"pending" tags:"today" tags_today:"x" uuid:"ceb623ac-dd91-424d-ae4b-7d4f67cb32e2"]
+new [description:"sett inn i vaskemaskin" end:"1733062186" entry:"1733050610" modified:"1733062186" status:"completed" tags:"today" tags_today:"x" uuid:"ceb623ac-dd91-424d-ae4b-7d4f67cb32e2"]
+---
+time 1733062187
+old [description:"ta verktøy ned i kjelleren" entry:"1733050631" modified:"1733050631" status:"pending" tags:"today" tags_today:"x" uuid:"fb74b169-84d2-4492-bcf5-d090953a39f1"]
+new [description:"ta verktøy ned i kjelleren" end:"1733062187" entry:"1733050631" modified:"1733062187" status:"completed" tags:"today" tags_today:"x" uuid:"fb74b169-84d2-4492-bcf5-d090953a39f1"]
+---
+time 1733062204
+old [description:"glass" entry:"1733051259" modified:"1733051259" status:"pending" tags:"today" tags_today:"x" uuid:"7ac61fd1-b570-483c-a456-62be8d0cef7d"]
+new [description:"glass" end:"1733062204" entry:"1733051259" modified:"1733062204" status:"deleted" tags:"today" tags_today:"x" uuid:"7ac61fd1-b570-483c-a456-62be8d0cef7d"]
+---
+time 1733062238
+new [description:"fiks 4 stikkontakt kjøkken" entry:"1733062238" modified:"1733062238" status:"pending" tags:"today" tags_today:"x" uuid:"203b0e8d-65a1-4622-901f-b2000168dcef"]
+---
+time 1733062254
+new [description:"støvsuge stue" entry:"1733062254" modified:"1733062254" status:"pending" tags:"today" tags_today:"x" uuid:"01c3e002-a457-46ca-8210-8cfe175ca620"]
+---
+time 1733062267
+new [description:"støvsuge trapp" entry:"1733062267" modified:"1733062267" status:"pending" tags:"today" tags_today:"x" uuid:"9e194cb1-0a54-4ec3-9ce5-0a37596d59a1"]
+---
+time 1733062357
+old [description:"fiks ledninger gitar stue" entry:"1731959272" modified:"1731959849" status:"pending" tags:"week" tags_week:"x" uuid:"cf818129-b470-4da7-b4dd-7de3a5859e34"]
+new [description:"fiks ledninger gitar stue" entry:"1731959272" modified:"1733062357" status:"pending" tags:"today" tags_today:"x" uuid:"cf818129-b470-4da7-b4dd-7de3a5859e34"]
+---
+time 1733062402
+new [description:"eksperimenter med tegnemaskin" entry:"1733062402" modified:"1733062402" status:"pending" tags:"today" tags_today:"x" uuid:"02d9e510-5a67-4c4b-a2b4-31c40352b1d7"]
+---
+time 1733062858
+new [description:"ta ned boks i kjelleren" entry:"1733062858" modified:"1733062858" status:"pending" tags:"today" tags_today:"x" uuid:"354e8fb2-88f1-4de6-be32-4e719f1e3f98"]
+---
+time 1733062864
+new [description:"vanne planter" entry:"1733062864" modified:"1733062864" status:"pending" tags:"today" tags_today:"x" uuid:"924f9adf-2a88-49f4-9a00-9e6f62792430"]
+---
+time 1733062872
+old [description:"støvsuge trapp" entry:"1733062267" modified:"1733062267" status:"pending" tags:"today" tags_today:"x" uuid:"9e194cb1-0a54-4ec3-9ce5-0a37596d59a1"]
+new [description:"støvsuge trapp" end:"1733062872" entry:"1733062267" modified:"1733062872" status:"completed" tags:"today" tags_today:"x" uuid:"9e194cb1-0a54-4ec3-9ce5-0a37596d59a1"]
+---
+time 1733062889
+old [description:"støvsuge stue" entry:"1733062254" modified:"1733062254" status:"pending" tags:"today" tags_today:"x" uuid:"01c3e002-a457-46ca-8210-8cfe175ca620"]
+new [description:"støvsuge stue" end:"1733062889" entry:"1733062254" modified:"1733062889" status:"completed" tags:"today" tags_today:"x" uuid:"01c3e002-a457-46ca-8210-8cfe175ca620"]
+---
+time 1733062903
+new [description:"støvsuge kjøkken" entry:"1733062903" modified:"1733062903" status:"pending" tags:"today" tags_today:"x" uuid:"dd253571-5a79-4b84-8974-b5b40f25b78a"]
+---
+time 1733063843
+old [description:"støvsuge kjøkken" entry:"1733062903" modified:"1733062903" status:"pending" tags:"today" tags_today:"x" uuid:"dd253571-5a79-4b84-8974-b5b40f25b78a"]
+new [description:"støvsuge kjøkken" end:"1733063843" entry:"1733062903" modified:"1733063843" status:"deleted" tags:"today" tags_today:"x" uuid:"dd253571-5a79-4b84-8974-b5b40f25b78a"]
+---
+time 1733063845
+old [description:"vanne planter" entry:"1733062864" modified:"1733062864" status:"pending" tags:"today" tags_today:"x" uuid:"924f9adf-2a88-49f4-9a00-9e6f62792430"]
+new [description:"vanne planter" end:"1733063845" entry:"1733062864" modified:"1733063845" status:"completed" tags:"today" tags_today:"x" uuid:"924f9adf-2a88-49f4-9a00-9e6f62792430"]
+---
+time 1733063852
+new [description:"rydde nede" entry:"1733063852" modified:"1733063852" status:"pending" tags:"today" tags_today:"x" uuid:"3d7fb82c-c492-48ad-8c3e-a53358828863"]
+---
+time 1733064377
+old [description:"fiks 4 stikkontakt kjøkken" entry:"1733062238" modified:"1733062238" status:"pending" tags:"today" tags_today:"x" uuid:"203b0e8d-65a1-4622-901f-b2000168dcef"]
+new [description:"fiks 4 stikkontakt kjøkken" end:"1733064377" entry:"1733062238" modified:"1733064377" status:"completed" tags:"today" tags_today:"x" uuid:"203b0e8d-65a1-4622-901f-b2000168dcef"]
+---
+time 1733065706
+old [description:"fiks ledninger gitar stue" entry:"1731959272" modified:"1733062357" status:"pending" tags:"today" tags_today:"x" uuid:"cf818129-b470-4da7-b4dd-7de3a5859e34"]
+new [description:"fiks ledninger gitar stue" end:"1733065706" entry:"1731959272" modified:"1733065706" status:"completed" tags:"today" tags_today:"x" uuid:"cf818129-b470-4da7-b4dd-7de3a5859e34"]
+---
+time 1733065709
+old [description:"ta ned boks i kjelleren" entry:"1733062858" modified:"1733062858" status:"pending" tags:"today" tags_today:"x" uuid:"354e8fb2-88f1-4de6-be32-4e719f1e3f98"]
+new [description:"ta ned boks i kjelleren" end:"1733065709" entry:"1733062858" modified:"1733065709" status:"completed" tags:"today" tags_today:"x" uuid:"354e8fb2-88f1-4de6-be32-4e719f1e3f98"]
+---
+time 1733065710
+old [description:"rydde nede" entry:"1733063852" modified:"1733063852" status:"pending" tags:"today" tags_today:"x" uuid:"3d7fb82c-c492-48ad-8c3e-a53358828863"]
+new [description:"rydde nede" end:"1733065710" entry:"1733063852" modified:"1733065710" status:"completed" tags:"today" tags_today:"x" uuid:"3d7fb82c-c492-48ad-8c3e-a53358828863"]
+---
+time 1733124828
+old [description:"eksperimenter med tegnemaskin" entry:"1733062402" modified:"1733062402" status:"pending" tags:"today" tags_today:"x" uuid:"02d9e510-5a67-4c4b-a2b4-31c40352b1d7"]
+new [description:"eksperimenter med tegnemaskin" end:"1733124828" entry:"1733062402" modified:"1733124828" status:"completed" tags:"today" tags_today:"x" uuid:"02d9e510-5a67-4c4b-a2b4-31c40352b1d7"]
+---
+time 1733124837
+new [description:"vann til kattene" entry:"1733124837" modified:"1733124837" status:"pending" tags:"today" tags_today:"x" uuid:"e3f4af7d-d133-4265-be8e-751c24697873"]
+---
+time 1733124843
+new [description:"lage melk" entry:"1733124843" modified:"1733124843" status:"pending" tags:"today" tags_today:"x" uuid:"43d7e4d0-aa98-4ffb-b39b-11e725e04f32"]
+---
+time 1733125317
+new [description:"hente marihøne" entry:"1733125317" modified:"1733125317" status:"pending" tags:"today,wait" tags_today:"x" tags_wait:"x" uuid:"a062b000-424c-48a4-b48f-e50008b6bdc1"]
+---
+time 1733125343
+new [description:"greenkids" entry:"1733125343" modified:"1733125343" status:"pending" tags:"later,today" tags_later:"x" tags_today:"x" uuid:"bd920873-4449-413d-8af7-e806e0332aa4"]
+---
+time 1733125622
+old [description:"lage melk" entry:"1733124843" modified:"1733124843" status:"pending" tags:"today" tags_today:"x" uuid:"43d7e4d0-aa98-4ffb-b39b-11e725e04f32"]
+new [description:"lage melk" entry:"1733124843" modified:"1733125622" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"43d7e4d0-aa98-4ffb-b39b-11e725e04f32"]
+---
+time 1733130441
+old [description:"vann til kattene" entry:"1733124837" modified:"1733124837" status:"pending" tags:"today" tags_today:"x" uuid:"e3f4af7d-d133-4265-be8e-751c24697873"]
+new [description:"vann til kattene" end:"1733130441" entry:"1733124837" modified:"1733130441" status:"completed" tags:"today" tags_today:"x" uuid:"e3f4af7d-d133-4265-be8e-751c24697873"]
+---
+time 1733132005
+old [description:"lage melk" entry:"1733124843" modified:"1733125622" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"43d7e4d0-aa98-4ffb-b39b-11e725e04f32"]
+new [description:"lage melk" end:"1733132005" entry:"1733124843" modified:"1733132005" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"43d7e4d0-aa98-4ffb-b39b-11e725e04f32"]
+---
+time 1733162192
+old [description:"hente marihøne" entry:"1733125317" modified:"1733125317" status:"pending" tags:"today,wait" tags_today:"x" tags_wait:"x" uuid:"a062b000-424c-48a4-b48f-e50008b6bdc1"]
+new [description:"hente marihøne" end:"1733162192" entry:"1733125317" modified:"1733162192" status:"completed" tags:"today,wait" tags_today:"x" tags_wait:"x" uuid:"a062b000-424c-48a4-b48f-e50008b6bdc1"]
+---
+time 1733162192
+old [description:"greenkids" entry:"1733125343" modified:"1733125343" status:"pending" tags:"later,today" tags_later:"x" tags_today:"x" uuid:"bd920873-4449-413d-8af7-e806e0332aa4"]
+new [description:"greenkids" end:"1733162192" entry:"1733125343" modified:"1733162192" status:"completed" tags:"later,today" tags_later:"x" tags_today:"x" uuid:"bd920873-4449-413d-8af7-e806e0332aa4"]
+---
+time 1733162199
+new [description:"lag melk" entry:"1733162199" modified:"1733162199" status:"pending" tags:"today" tags_today:"x" uuid:"83a36ef9-8c1d-4563-b052-28c66ab880f8"]
+---
+time 1733162200
+old [description:"lag melk" entry:"1733162199" modified:"1733162199" status:"pending" tags:"today" tags_today:"x" uuid:"83a36ef9-8c1d-4563-b052-28c66ab880f8"]
+new [description:"lag melk" entry:"1733162199" modified:"1733162200" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"83a36ef9-8c1d-4563-b052-28c66ab880f8"]
+---
+time 1733162669
+old [description:"lag melk" entry:"1733162199" modified:"1733162200" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"83a36ef9-8c1d-4563-b052-28c66ab880f8"]
+new [description:"lag melk" entry:"1733162199" modified:"1733162669" start:"1733162669" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"83a36ef9-8c1d-4563-b052-28c66ab880f8"]
+---
+time 1733163415
+old [description:"lag melk" entry:"1733162199" modified:"1733162669" start:"1733162669" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"83a36ef9-8c1d-4563-b052-28c66ab880f8"]
+new [description:"lag melk" end:"1733163415" entry:"1733162199" modified:"1733163415" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"83a36ef9-8c1d-4563-b052-28c66ab880f8"]
+---
+time 1733163469
+new [description:"hent pakke" entry:"1733163469" modified:"1733163469" status:"pending" tags:"today" tags_today:"x" uuid:"8f256867-1bf2-4b62-ada9-2c5ee36d7d6f"]
+---
+time 1733164930
+old [description:"hent pakke" entry:"1733163469" modified:"1733163469" status:"pending" tags:"today" tags_today:"x" uuid:"8f256867-1bf2-4b62-ada9-2c5ee36d7d6f"]
+new [description:"hent pakke" end:"1733164930" entry:"1733163469" modified:"1733164930" status:"deleted" tags:"today" tags_today:"x" uuid:"8f256867-1bf2-4b62-ada9-2c5ee36d7d6f"]
+---
+time 1733165001
+new [description:"hent pakke" entry:"1733165001" modified:"1733165001" scheduled:"1733180400" status:"pending" tags:"today" tags_today:"x" uuid:"88acb64b-747f-4ee9-b15d-3aac41bde12d"]
+---
+time 1733165022
+old [description:"hent pakke" entry:"1733165001" modified:"1733165001" scheduled:"1733180400" status:"pending" tags:"today" tags_today:"x" uuid:"88acb64b-747f-4ee9-b15d-3aac41bde12d"]
+new [description:"hent pakke" entry:"1733165001" modified:"1733165022" scheduled:"1733180400" status:"pending" tags:"week" tags_week:"x" uuid:"88acb64b-747f-4ee9-b15d-3aac41bde12d"]
+---
+time 1733211140
+new [description:"lag melk" entry:"1733211140" modified:"1733211140" status:"pending" tags:"today" tags_today:"x" uuid:"1a73da36-6fe9-43d3-90c8-132b56bc384b"]
+---
+time 1733211149
+new [description:"fiks nøkler" entry:"1733211149" modified:"1733211149" status:"pending" tags:"today" tags_today:"x" uuid:"6e72f2fd-f6ec-498b-a1fd-b095f010a6dc"]
+---
+time 1733211164
+new [description:"tøm bleiepose" entry:"1733211164" modified:"1733211164" status:"pending" tags:"today" tags_today:"x" uuid:"56cb8bd2-4b8c-4094-ba1b-42fce093e9ac"]
+---
+time 1733211405
+new [description:"test tegnemaskin" entry:"1733211405" modified:"1733211405" status:"pending" tags:"today" tags_today:"x" uuid:"b132f44e-316c-4543-84ba-fa9eea67af5d"]
+---
+time 1733211543
+new [description:"tannpuss og øye til Hilma" entry:"1733211543" modified:"1733211543" status:"pending" tags:"today" tags_today:"x" uuid:"5b9cd504-9e49-451d-8702-ea2bdf7f8365"]
+---
+time 1733211587
+new [description:"frokost til Hilma og Stian" entry:"1733211587" modified:"1733211587" status:"pending" tags:"today" tags_today:"x" uuid:"79d8c0e2-5132-4b4c-b505-622f6deb2197"]
+---
+time 1733214496
+old [description:"frokost til Hilma og Stian" entry:"1733211587" modified:"1733211587" status:"pending" tags:"today" tags_today:"x" uuid:"79d8c0e2-5132-4b4c-b505-622f6deb2197"]
+new [description:"frokost til Hilma og Stian" end:"1733214496" entry:"1733211587" modified:"1733214496" status:"completed" tags:"today" tags_today:"x" uuid:"79d8c0e2-5132-4b4c-b505-622f6deb2197"]
+---
+time 1733214502
+old [description:"lag melk" entry:"1733211140" modified:"1733211140" status:"pending" tags:"today" tags_today:"x" uuid:"1a73da36-6fe9-43d3-90c8-132b56bc384b"]
+new [description:"lag melk" entry:"1733211140" modified:"1733214502" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"1a73da36-6fe9-43d3-90c8-132b56bc384b"]
+---
+time 1733214552
+new [description:"rydde kjøkken" entry:"1733214552" modified:"1733214552" status:"pending" tags:"today" tags_today:"x" uuid:"5d70b256-db5e-407a-a930-842330e60918"]
+---
+time 1733214555
+old [description:"rydde kjøkken" entry:"1733214552" modified:"1733214552" status:"pending" tags:"today" tags_today:"x" uuid:"5d70b256-db5e-407a-a930-842330e60918"]
+new [description:"rydde kjøkken" entry:"1733214552" modified:"1733214555" start:"1733214555" status:"pending" tags:"today" tags_today:"x" uuid:"5d70b256-db5e-407a-a930-842330e60918"]
+---
+time 1733214871
+old [description:"lag melk" entry:"1733211140" modified:"1733214502" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"1a73da36-6fe9-43d3-90c8-132b56bc384b"]
+new [description:"lag melk" entry:"1733211140" modified:"1733214871" status:"pending" tags:"today" tags_today:"x" uuid:"1a73da36-6fe9-43d3-90c8-132b56bc384b"]
+---
+time 1733214874
+old [description:"lag melk" entry:"1733211140" modified:"1733214871" status:"pending" tags:"today" tags_today:"x" uuid:"1a73da36-6fe9-43d3-90c8-132b56bc384b"]
+new [description:"lag melk" entry:"1733211140" modified:"1733214874" start:"1733214874" status:"pending" tags:"today" tags_today:"x" uuid:"1a73da36-6fe9-43d3-90c8-132b56bc384b"]
+---
+time 1733215277
+old [description:"lag melk" entry:"1733211140" modified:"1733214874" start:"1733214874" status:"pending" tags:"today" tags_today:"x" uuid:"1a73da36-6fe9-43d3-90c8-132b56bc384b"]
+new [description:"lag melk" end:"1733215277" entry:"1733211140" modified:"1733215277" status:"completed" tags:"today" tags_today:"x" uuid:"1a73da36-6fe9-43d3-90c8-132b56bc384b"]
+---
+time 1733216547
+old [description:"test tegnemaskin" entry:"1733211405" modified:"1733211405" status:"pending" tags:"today" tags_today:"x" uuid:"b132f44e-316c-4543-84ba-fa9eea67af5d"]
+new [description:"test tegnemaskin" entry:"1733211405" modified:"1733216547" start:"1733216547" status:"pending" tags:"today" tags_today:"x" uuid:"b132f44e-316c-4543-84ba-fa9eea67af5d"]
+---
+time 1733217408
+old [description:"test tegnemaskin" entry:"1733211405" modified:"1733216547" start:"1733216547" status:"pending" tags:"today" tags_today:"x" uuid:"b132f44e-316c-4543-84ba-fa9eea67af5d"]
+new [description:"test tegnemaskin" entry:"1733211405" modified:"1733217408" status:"pending" tags:"today" tags_today:"x" uuid:"b132f44e-316c-4543-84ba-fa9eea67af5d"]
+---
+time 1733218450
+old [description:"rydde kjøkken" entry:"1733214552" modified:"1733214555" start:"1733214555" status:"pending" tags:"today" tags_today:"x" uuid:"5d70b256-db5e-407a-a930-842330e60918"]
+new [description:"rydde kjøkken" end:"1733218450" entry:"1733214552" modified:"1733218450" status:"completed" tags:"today" tags_today:"x" uuid:"5d70b256-db5e-407a-a930-842330e60918"]
+---
+time 1733218470
+old [description:"test tegnemaskin" entry:"1733211405" modified:"1733217408" status:"pending" tags:"today" tags_today:"x" uuid:"b132f44e-316c-4543-84ba-fa9eea67af5d"]
+new [description:"test tegnemaskin" entry:"1733211405" modified:"1733218470" status:"pending" tags:"later,today" tags_later:"x" tags_today:"x" uuid:"b132f44e-316c-4543-84ba-fa9eea67af5d"]
+---
+time 1733218695
+old [description:"tøm bleiepose" entry:"1733211164" modified:"1733211164" status:"pending" tags:"today" tags_today:"x" uuid:"56cb8bd2-4b8c-4094-ba1b-42fce093e9ac"]
+new [description:"tøm bleiepose" entry:"1733211164" modified:"1733218695" start:"1733218695" status:"pending" tags:"today" tags_today:"x" uuid:"56cb8bd2-4b8c-4094-ba1b-42fce093e9ac"]
+---
+time 1733218697
+old [description:"tøm bleiepose" entry:"1733211164" modified:"1733218695" start:"1733218695" status:"pending" tags:"today" tags_today:"x" uuid:"56cb8bd2-4b8c-4094-ba1b-42fce093e9ac"]
+new [description:"tøm bleiepose" entry:"1733211164" modified:"1733218697" status:"pending" tags:"today" tags_today:"x" uuid:"56cb8bd2-4b8c-4094-ba1b-42fce093e9ac"]
+---
+time 1733218700
+old [description:"tøm bleiepose" entry:"1733211164" modified:"1733218697" status:"pending" tags:"today" tags_today:"x" uuid:"56cb8bd2-4b8c-4094-ba1b-42fce093e9ac"]
+new [description:"tøm bleiepose" end:"1733218700" entry:"1733211164" modified:"1733218700" status:"completed" tags:"today" tags_today:"x" uuid:"56cb8bd2-4b8c-4094-ba1b-42fce093e9ac"]
+---
+time 1733218707
+new [description:"gjør klar til å dra" entry:"1733218707" modified:"1733218707" status:"pending" tags:"today" tags_today:"x" uuid:"6e97ba22-65cd-4b63-89d6-75705d244d30"]
+---
+time 1733236824
+old [description:"gjør klar til å dra" entry:"1733218707" modified:"1733218707" status:"pending" tags:"today" tags_today:"x" uuid:"6e97ba22-65cd-4b63-89d6-75705d244d30"]
+new [description:"gjør klar til å dra" end:"1733236824" entry:"1733218707" modified:"1733236824" status:"completed" tags:"today" tags_today:"x" uuid:"6e97ba22-65cd-4b63-89d6-75705d244d30"]
+---
+time 1733236826
+old [description:"tannpuss og øye til Hilma" entry:"1733211543" modified:"1733211543" status:"pending" tags:"today" tags_today:"x" uuid:"5b9cd504-9e49-451d-8702-ea2bdf7f8365"]
+new [description:"tannpuss og øye til Hilma" end:"1733236826" entry:"1733211543" modified:"1733236826" status:"completed" tags:"today" tags_today:"x" uuid:"5b9cd504-9e49-451d-8702-ea2bdf7f8365"]
+---
+time 1733236828
+old [description:"fiks nøkler" entry:"1733211149" modified:"1733211149" status:"pending" tags:"today" tags_today:"x" uuid:"6e72f2fd-f6ec-498b-a1fd-b095f010a6dc"]
+new [description:"fiks nøkler" end:"1733236828" entry:"1733211149" modified:"1733236828" status:"completed" tags:"today" tags_today:"x" uuid:"6e72f2fd-f6ec-498b-a1fd-b095f010a6dc"]
+---
+time 1733260565
+old [description:"test tegnemaskin" entry:"1733211405" modified:"1733218470" status:"pending" tags:"later,today" tags_later:"x" tags_today:"x" uuid:"b132f44e-316c-4543-84ba-fa9eea67af5d"]
+new [description:"test tegnemaskin" end:"1733260565" entry:"1733211405" modified:"1733260565" status:"completed" tags:"later,today" tags_later:"x" tags_today:"x" uuid:"b132f44e-316c-4543-84ba-fa9eea67af5d"]
+---
+time 1733297666
+new [description:"lag melk" entry:"1733297666" modified:"1733297666" status:"pending" tags:"today" tags_today:"x" uuid:"23f65b4f-e7c6-4c01-8e72-a15bfae62575"]
+---
+time 1733297679
+new [description:"fiks øye til Hilma" entry:"1733297679" modified:"1733297679" status:"pending" tags:"today" tags_today:"x" uuid:"814519fa-91e3-462c-ab3f-c80b8afc2803"]
+---
+time 1733297694
+new [description:"frokost til meg og hiilma" entry:"1733297694" modified:"1733297694" status:"pending" tags:"today" tags_today:"x" uuid:"58614e07-d1fa-49f2-92e4-207ec0f13354"]
+---
+time 1733297714
+new [description:"gjør klar til å dra til åpen barnehage" entry:"1733297714" modified:"1733297714" status:"pending" tags:"today" tags_today:"x" uuid:"6fd3d126-473e-4d31-8cd3-b4895c6813f8"]
+---
+time 1733297875
+new [description:"kattemat" entry:"1733297875" modified:"1733297875" status:"pending" tags:"today" tags_today:"x" uuid:"6f14f969-c6b3-4980-bd09-07de3bc738d5"]
+---
+time 1733297894
+new [description:"kjøp kattemat" entry:"1733297894" modified:"1733297894" status:"pending" tags:"today" tags_today:"x" uuid:"81ec3136-35ba-4048-8efe-1687125a3beb"]
+---
+time 1733298548
+new [description:"research dagmamma" entry:"1733298548" modified:"1733298548" status:"pending" tags:"today" tags_today:"x" uuid:"f04c666d-91b0-467d-98ae-8674a4024250"]
+---
+time 1733298580
+new [description:"lag dokument for planlegging av jul og Hilmas bursdag" entry:"1733298580" modified:"1733298580" status:"pending" tags:"today" tags_today:"x" uuid:"07eaf97f-cfc7-447b-992e-9651f0c6f094"]
+---
+time 1733298699
+new [description:"handle" entry:"1733298699" modified:"1733298699" status:"pending" tags:"today" tags_today:"x" uuid:"4505d498-9b8f-4c86-89fd-11b7de3d04b7"]
+---
+time 1733298709
+new [description:"test" entry:"1733298709" modified:"1733298709" status:"pending" tags:"today" tags_today:"x" uuid:"d2bf9d57-8111-45fc-8b9c-2863b7936c2a"]
+---
+time 1733298712
+new [description:"test" entry:"1733298712" modified:"1733298712" status:"pending" tags:"today" tags_today:"x" uuid:"b3812093-144a-43d3-ae55-03d395e763ab"]
+---
+time 1733298729
+old [description:"test" entry:"1733298712" modified:"1733298712" status:"pending" tags:"today" tags_today:"x" uuid:"b3812093-144a-43d3-ae55-03d395e763ab"]
+new [description:"test" end:"1733298729" entry:"1733298712" modified:"1733298729" status:"deleted" tags:"today" tags_today:"x" uuid:"b3812093-144a-43d3-ae55-03d395e763ab"]
+---
+time 1733298730
+old [description:"test" entry:"1733298709" modified:"1733298709" status:"pending" tags:"today" tags_today:"x" uuid:"d2bf9d57-8111-45fc-8b9c-2863b7936c2a"]
+new [description:"test" end:"1733298730" entry:"1733298709" modified:"1733298730" status:"deleted" tags:"today" tags_today:"x" uuid:"d2bf9d57-8111-45fc-8b9c-2863b7936c2a"]
+---
+time 1733301383
+new [description:"ring mamma" entry:"1733301383" modified:"1733301383" status:"pending" tags:"today" tags_today:"x" uuid:"9c2bc0dc-d0b0-4198-9ed9-6135b1c05291"]
+---
+time 1733301973
+new [description:"test og rydd vekk gassovn" entry:"1733301973" modified:"1733301973" status:"pending" tags:"week" tags_week:"x" uuid:"5832f095-f3bb-4927-8a0f-850038873324"]
+---
+time 1733301999
+old [description:"selg frakk" entry:"1732567640" modified:"1732567662" status:"pending" tags:"week" tags_week:"x" uuid:"a900da76-7cea-480a-87e5-eb627fb46a15"]
+new [description:"selg frakk" entry:"1732567640" modified:"1733301999" status:"pending" tags:"today" tags_today:"x" uuid:"a900da76-7cea-480a-87e5-eb627fb46a15"]
+---
+time 1733302142
+old [description:"frokost til meg og hiilma" entry:"1733297694" modified:"1733297694" status:"pending" tags:"today" tags_today:"x" uuid:"58614e07-d1fa-49f2-92e4-207ec0f13354"]
+new [description:"frokost til meg og hiilma" end:"1733302142" entry:"1733297694" modified:"1733302142" status:"completed" tags:"today" tags_today:"x" uuid:"58614e07-d1fa-49f2-92e4-207ec0f13354"]
+---
+time 1733302209
+old [description:"kattemat" entry:"1733297875" modified:"1733297875" status:"pending" tags:"today" tags_today:"x" uuid:"6f14f969-c6b3-4980-bd09-07de3bc738d5"]
+new [description:"kattemat" end:"1733302209" entry:"1733297875" modified:"1733302209" status:"completed" tags:"today" tags_today:"x" uuid:"6f14f969-c6b3-4980-bd09-07de3bc738d5"]
+---
+time 1733302226
+new [description:"rydde kjøkken" entry:"1733302226" modified:"1733302226" status:"pending" tags:"today" tags_today:"x" uuid:"c3f8014d-3499-468a-a89e-44feb387c925"]
+---
+time 1733302385
+new [description:"fiks vifter" entry:"1733302385" modified:"1733302385" status:"pending" tags:"today" tags_today:"x" uuid:"158bd4ef-f7b4-4bda-8966-cc5b4a7a38f8"]
+---
+time 1733304534
+old [description:"gjør klar til å dra til åpen barnehage" entry:"1733297714" modified:"1733297714" status:"pending" tags:"today" tags_today:"x" uuid:"6fd3d126-473e-4d31-8cd3-b4895c6813f8"]
+new [description:"gjør klar til å dra til åpen barnehage" entry:"1733297714" modified:"1733304534" start:"1733304534" status:"pending" tags:"today" tags_today:"x" uuid:"6fd3d126-473e-4d31-8cd3-b4895c6813f8"]
+---
+time 1733305565
+old [description:"gjør klar til å dra til åpen barnehage" entry:"1733297714" modified:"1733304534" start:"1733304534" status:"pending" tags:"today" tags_today:"x" uuid:"6fd3d126-473e-4d31-8cd3-b4895c6813f8"]
+new [description:"gjør klar til å dra til åpen barnehage" end:"1733305565" entry:"1733297714" modified:"1733305565" status:"completed" tags:"today" tags_today:"x" uuid:"6fd3d126-473e-4d31-8cd3-b4895c6813f8"]
+---
+time 1733323623
+old [description:"research dagmamma" entry:"1733298548" modified:"1733298548" status:"pending" tags:"today" tags_today:"x" uuid:"f04c666d-91b0-467d-98ae-8674a4024250"]
+new [description:"research dagmamma" entry:"1733298548" modified:"1733323623" status:"pending" tags:"week" tags_week:"x" uuid:"f04c666d-91b0-467d-98ae-8674a4024250"]
+---
+time 1733323658
+old [description:"research dagmamma" entry:"1733298548" modified:"1733323623" status:"pending" tags:"week" tags_week:"x" uuid:"f04c666d-91b0-467d-98ae-8674a4024250"]
+new [description:"research dagmamma" entry:"1733298548" modified:"1733323658" start:"1733323658" status:"pending" tags:"week" tags_week:"x" uuid:"f04c666d-91b0-467d-98ae-8674a4024250"]
+---
+time 1733323663
+old [description:"hent pakke" entry:"1733165001" modified:"1733165022" scheduled:"1733180400" status:"pending" tags:"week" tags_week:"x" uuid:"88acb64b-747f-4ee9-b15d-3aac41bde12d"]
+new [description:"hent pakke" end:"1733323663" entry:"1733165001" modified:"1733323663" scheduled:"1733180400" status:"completed" tags:"week" tags_week:"x" uuid:"88acb64b-747f-4ee9-b15d-3aac41bde12d"]
+---
+time 1733323682
+old [description:"lag dokument for planlegging av jul og Hilmas bursdag" entry:"1733298580" modified:"1733298580" status:"pending" tags:"today" tags_today:"x" uuid:"07eaf97f-cfc7-447b-992e-9651f0c6f094"]
+new [description:"lag dokument for planlegging av jul og Hilmas bursdag" end:"1733323682" entry:"1733298580" modified:"1733323682" status:"completed" tags:"today" tags_today:"x" uuid:"07eaf97f-cfc7-447b-992e-9651f0c6f094"]
+---
+time 1733323724
+old [description:"fiks øye til Hilma" entry:"1733297679" modified:"1733297679" status:"pending" tags:"today" tags_today:"x" uuid:"814519fa-91e3-462c-ab3f-c80b8afc2803"]
+new [description:"fiks øye til Hilma" end:"1733323724" entry:"1733297679" modified:"1733323724" status:"completed" tags:"today" tags_today:"x" uuid:"814519fa-91e3-462c-ab3f-c80b8afc2803"]
+---
+time 1733323839
+new [description:"rydde vaskemaskin" entry:"1733323839" modified:"1733323839" status:"pending" tags:"today" tags_today:"x" uuid:"cefeaf2f-8d0e-466b-a22c-3c7de48fd02a"]
+---
+time 1733323880
+old [description:"lag melk" entry:"1733297666" modified:"1733297666" status:"pending" tags:"today" tags_today:"x" uuid:"23f65b4f-e7c6-4c01-8e72-a15bfae62575"]
+new [description:"lag melk" entry:"1733297666" modified:"1733323880" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"23f65b4f-e7c6-4c01-8e72-a15bfae62575"]
+---
+time 1733324304
+new [description:"betal bot" entry:"1733324304" modified:"1733324304" priority:"H" status:"pending" tags:"today" tags_today:"x" uuid:"af49dd9c-b488-48ea-9e33-d2a863516aed"]
+---
+time 1733324793
+old [description:"rydde vaskemaskin" entry:"1733323839" modified:"1733323839" status:"pending" tags:"today" tags_today:"x" uuid:"cefeaf2f-8d0e-466b-a22c-3c7de48fd02a"]
+new [description:"rydde vaskemaskin" end:"1733324793" entry:"1733323839" modified:"1733324793" status:"deleted" tags:"today" tags_today:"x" uuid:"cefeaf2f-8d0e-466b-a22c-3c7de48fd02a"]
+---
+time 1733325020
+old [description:"lag melk" entry:"1733297666" modified:"1733323880" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"23f65b4f-e7c6-4c01-8e72-a15bfae62575"]
+new [description:"lag melk" end:"1733325020" entry:"1733297666" modified:"1733325020" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"23f65b4f-e7c6-4c01-8e72-a15bfae62575"]
+---
+time 1733325046
+old [description:"kjøp kattemat" entry:"1733297894" modified:"1733297894" status:"pending" tags:"today" tags_today:"x" uuid:"81ec3136-35ba-4048-8efe-1687125a3beb"]
+new [description:"kjøp kattemat" entry:"1733297894" modified:"1733325046" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"81ec3136-35ba-4048-8efe-1687125a3beb"]
+---
+time 1733325048
+old [description:"handle" entry:"1733298699" modified:"1733298699" status:"pending" tags:"today" tags_today:"x" uuid:"4505d498-9b8f-4c86-89fd-11b7de3d04b7"]
+new [description:"handle" entry:"1733298699" modified:"1733325048" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"4505d498-9b8f-4c86-89fd-11b7de3d04b7"]
+---
+time 1733325051
+old [description:"rydde kjøkken" entry:"1733302226" modified:"1733302226" status:"pending" tags:"today" tags_today:"x" uuid:"c3f8014d-3499-468a-a89e-44feb387c925"]
+new [description:"rydde kjøkken" entry:"1733302226" modified:"1733325051" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"c3f8014d-3499-468a-a89e-44feb387c925"]
+---
+time 1733325478
+old [description:"betal bot" entry:"1733324304" modified:"1733324304" priority:"H" status:"pending" tags:"today" tags_today:"x" uuid:"af49dd9c-b488-48ea-9e33-d2a863516aed"]
+new [description:"betal bot" entry:"1733324304" modified:"1733325478" priority:"H" status:"pending" tags:"week" tags_week:"x" uuid:"af49dd9c-b488-48ea-9e33-d2a863516aed"]
+---
+time 1733328137
+old [description:"kjøp kattemat" entry:"1733297894" modified:"1733325046" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"81ec3136-35ba-4048-8efe-1687125a3beb"]
+new [description:"kjøp kattemat" end:"1733328137" entry:"1733297894" modified:"1733328137" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"81ec3136-35ba-4048-8efe-1687125a3beb"]
+---
+time 1733328138
+old [description:"handle" entry:"1733298699" modified:"1733325048" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"4505d498-9b8f-4c86-89fd-11b7de3d04b7"]
+new [description:"handle" end:"1733328138" entry:"1733298699" modified:"1733328138" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"4505d498-9b8f-4c86-89fd-11b7de3d04b7"]
+---
+time 1733329250
+old [description:"rydde kjøkken" entry:"1733302226" modified:"1733325051" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"c3f8014d-3499-468a-a89e-44feb387c925"]
+new [description:"rydde kjøkken" entry:"1733302226" modified:"1733329250" start:"1733329250" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"c3f8014d-3499-468a-a89e-44feb387c925"]
+---
+time 1733331767
+old [description:"fiks vifter" entry:"1733302385" modified:"1733302385" status:"pending" tags:"today" tags_today:"x" uuid:"158bd4ef-f7b4-4bda-8966-cc5b4a7a38f8"]
+new [description:"fiks vifter" entry:"1733302385" modified:"1733331767" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"158bd4ef-f7b4-4bda-8966-cc5b4a7a38f8"]
+---
+time 1733342497
+new [description:"tøm kattedo" entry:"1733342497" modified:"1733342497" status:"pending" tags:"today" tags_today:"x" uuid:"67057a9b-ad2f-412a-9acd-ad011b7b2f65"]
+---
+time 1733342510
+new [description:"klippe negler Hilma" entry:"1733342510" modified:"1733342510" status:"pending" tags:"today" tags_today:"x" uuid:"5f710cef-be33-49a3-ab8c-58e3d7e72b4f"]
+---
+time 1733384244
+old [description:"fiks vifter" entry:"1733302385" modified:"1733331767" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"158bd4ef-f7b4-4bda-8966-cc5b4a7a38f8"]
+new [description:"fiks vifter" end:"1733384244" entry:"1733302385" modified:"1733384244" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"158bd4ef-f7b4-4bda-8966-cc5b4a7a38f8"]
+---
+time 1733384251
+old [description:"rydde kjøkken" entry:"1733302226" modified:"1733329250" start:"1733329250" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"c3f8014d-3499-468a-a89e-44feb387c925"]
+new [description:"rydde kjøkken" end:"1733384251" entry:"1733302226" modified:"1733384251" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"c3f8014d-3499-468a-a89e-44feb387c925"]
+---
+time 1733384255
+old [description:"tøm kattedo" entry:"1733342497" modified:"1733342497" status:"pending" tags:"today" tags_today:"x" uuid:"67057a9b-ad2f-412a-9acd-ad011b7b2f65"]
+new [description:"tøm kattedo" end:"1733384255" entry:"1733342497" modified:"1733384255" status:"completed" tags:"today" tags_today:"x" uuid:"67057a9b-ad2f-412a-9acd-ad011b7b2f65"]
+---
+time 1733384284
+new [description:"henge opp ull" entry:"1733384284" modified:"1733384284" status:"pending" tags:"today" tags_today:"x" uuid:"9334aa41-2ee4-41e5-bf55-413309294b45"]
+---
+time 1733384308
+new [description:"planlegging av tegnemaskinbilder" entry:"1733384308" modified:"1733384308" status:"pending" tags:"today" tags_today:"x" uuid:"96d31a47-d71d-4d4f-95e5-958b0752e744"]
+---
+time 1733384339
+new [description:"gi kattene mat" entry:"1733384339" modified:"1733384339" status:"pending" tags:"today" tags_today:"x" uuid:"fdac74da-0237-4046-8e9e-bb78aa6a55bd"]
+---
+time 1733384350
+new [description:"hente ting i bilen" entry:"1733384350" modified:"1733384350" status:"pending" tags:"today" tags_today:"x" uuid:"d67dd886-7843-4372-863f-c9c1614f4a83"]
+---
+time 1733384377
+new [description:"lag melk" entry:"1733384377" modified:"1733384377" status:"pending" tags:"today" tags_today:"x" uuid:"14689cc5-4036-4225-97e4-5a18f0d59853"]
+---
+time 1733384379
+old [description:"lag melk" entry:"1733384377" modified:"1733384377" status:"pending" tags:"today" tags_today:"x" uuid:"14689cc5-4036-4225-97e4-5a18f0d59853"]
+new [description:"lag melk" entry:"1733384377" modified:"1733384379" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"14689cc5-4036-4225-97e4-5a18f0d59853"]
+---
+time 1733384391
+new [description:"frokost til hilma og meg" entry:"1733384391" modified:"1733384391" status:"pending" tags:"today" tags_today:"x" uuid:"4227e6dd-be8d-467b-918d-20a5072a3be4"]
+---
+time 1733384394
+old [description:"frokost til hilma og meg" entry:"1733384391" modified:"1733384391" status:"pending" tags:"today" tags_today:"x" uuid:"4227e6dd-be8d-467b-918d-20a5072a3be4"]
+new [description:"frokost til hilma og meg" entry:"1733384391" modified:"1733384394" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"4227e6dd-be8d-467b-918d-20a5072a3be4"]
+---
+time 1733384795
+new [description:"vaske håret" entry:"1733384795" modified:"1733384795" status:"pending" tags:"today" tags_today:"x" uuid:"209513ae-2f4b-48fa-b70f-c71ea9085a53"]
+---
+time 1733385279
+new [description:"pusse tenner og fiks øye på Hilma" entry:"1733385279" modified:"1733385279" status:"pending" tags:"today" tags_today:"x" uuid:"0304f1e5-98d0-4500-b24c-ae0ce39a70b2"]
+---
+time 1733385290
+old [description:"pusse tenner og fiks øye på Hilma" entry:"1733385279" modified:"1733385279" status:"pending" tags:"today" tags_today:"x" uuid:"0304f1e5-98d0-4500-b24c-ae0ce39a70b2"]
+new [description:"pusse tenner og fiks øye på Hilma" entry:"1733385279" modified:"1733385290" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"0304f1e5-98d0-4500-b24c-ae0ce39a70b2"]
+---
+time 1733385884
+old [description:"pusse tenner og fiks øye på Hilma" entry:"1733385279" modified:"1733385290" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"0304f1e5-98d0-4500-b24c-ae0ce39a70b2"]
+new [description:"pusse tenner og fiks øye på Hilma" end:"1733385884" entry:"1733385279" modified:"1733385884" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"0304f1e5-98d0-4500-b24c-ae0ce39a70b2"]
+---
+time 1733391380
+old [description:"lag melk" entry:"1733384377" modified:"1733384379" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"14689cc5-4036-4225-97e4-5a18f0d59853"]
+new [description:"lag melk" end:"1733391380" entry:"1733384377" modified:"1733391380" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"14689cc5-4036-4225-97e4-5a18f0d59853"]
+---
+time 1733391381
+old [description:"frokost til hilma og meg" entry:"1733384391" modified:"1733384394" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"4227e6dd-be8d-467b-918d-20a5072a3be4"]
+new [description:"frokost til hilma og meg" end:"1733391381" entry:"1733384391" modified:"1733391381" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"4227e6dd-be8d-467b-918d-20a5072a3be4"]
+---
+time 1733391389
+old [description:"gi kattene mat" entry:"1733384339" modified:"1733384339" status:"pending" tags:"today" tags_today:"x" uuid:"fdac74da-0237-4046-8e9e-bb78aa6a55bd"]
+new [description:"gi kattene mat" end:"1733391389" entry:"1733384339" modified:"1733391389" status:"completed" tags:"today" tags_today:"x" uuid:"fdac74da-0237-4046-8e9e-bb78aa6a55bd"]
+---
+time 1733391393
+old [description:"henge opp ull" entry:"1733384284" modified:"1733384284" status:"pending" tags:"today" tags_today:"x" uuid:"9334aa41-2ee4-41e5-bf55-413309294b45"]
+new [description:"henge opp ull" entry:"1733384284" modified:"1733391393" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"9334aa41-2ee4-41e5-bf55-413309294b45"]
+---
+time 1733404034
+old [description:"henge opp ull" entry:"1733384284" modified:"1733391393" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"9334aa41-2ee4-41e5-bf55-413309294b45"]
+new [description:"henge opp ull" end:"1733404034" entry:"1733384284" modified:"1733404034" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"9334aa41-2ee4-41e5-bf55-413309294b45"]
+---
+time 1733405758
+new [description:"lag melk" entry:"1733405758" modified:"1733405758" status:"pending" tags:"today" tags_today:"x" uuid:"d191858d-5f5a-4629-ad4c-fe2d3971fe4d"]
+---
+time 1733405990
+old [description:"lag melk" entry:"1733405758" modified:"1733405758" status:"pending" tags:"today" tags_today:"x" uuid:"d191858d-5f5a-4629-ad4c-fe2d3971fe4d"]
+new [description:"lag melk" entry:"1733405758" modified:"1733405990" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"d191858d-5f5a-4629-ad4c-fe2d3971fe4d"]
+---
+time 1733405993
+old [description:"vaske håret" entry:"1733384795" modified:"1733384795" status:"pending" tags:"today" tags_today:"x" uuid:"209513ae-2f4b-48fa-b70f-c71ea9085a53"]
+new [description:"vaske håret" entry:"1733384795" modified:"1733405993" start:"1733405993" status:"pending" tags:"today" tags_today:"x" uuid:"209513ae-2f4b-48fa-b70f-c71ea9085a53"]
+---
+time 1733405995
+old [description:"vaske håret" entry:"1733384795" modified:"1733405993" start:"1733405993" status:"pending" tags:"today" tags_today:"x" uuid:"209513ae-2f4b-48fa-b70f-c71ea9085a53"]
+new [description:"vaske håret" entry:"1733384795" modified:"1733405995" status:"pending" tags:"today" tags_today:"x" uuid:"209513ae-2f4b-48fa-b70f-c71ea9085a53"]
+---
+time 1733405996
+old [description:"vaske håret" entry:"1733384795" modified:"1733405995" status:"pending" tags:"today" tags_today:"x" uuid:"209513ae-2f4b-48fa-b70f-c71ea9085a53"]
+new [description:"vaske håret" end:"1733405996" entry:"1733384795" modified:"1733405996" status:"completed" tags:"today" tags_today:"x" uuid:"209513ae-2f4b-48fa-b70f-c71ea9085a53"]
+---
+time 1733406013
+new [description:"sette inn i vaskemaskin" entry:"1733406013" modified:"1733406013" status:"pending" tags:"today" tags_today:"x" uuid:"d6fdfacb-400d-4729-bf1f-69a60559b56a"]
+---
+time 1733406257
+old [description:"sette inn i vaskemaskin" entry:"1733406013" modified:"1733406013" status:"pending" tags:"today" tags_today:"x" uuid:"d6fdfacb-400d-4729-bf1f-69a60559b56a"]
+new [description:"sette inn i vaskemaskin" entry:"1733406013" modified:"1733406257" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"d6fdfacb-400d-4729-bf1f-69a60559b56a"]
+---
+time 1733411395
+old [description:"lag melk" entry:"1733405758" modified:"1733405990" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"d191858d-5f5a-4629-ad4c-fe2d3971fe4d"]
+new [description:"lag melk" end:"1733411395" entry:"1733405758" modified:"1733411395" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"d191858d-5f5a-4629-ad4c-fe2d3971fe4d"]
+---
+time 1733411398
+old [description:"sette inn i vaskemaskin" entry:"1733406013" modified:"1733406257" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"d6fdfacb-400d-4729-bf1f-69a60559b56a"]
+new [description:"sette inn i vaskemaskin" end:"1733411398" entry:"1733406013" modified:"1733411398" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"d6fdfacb-400d-4729-bf1f-69a60559b56a"]
+---
+time 1733411579
+new [description:"kjøpe mat" entry:"1733411579" modified:"1733411579" status:"pending" tags:"today" tags_today:"x" uuid:"042c22ac-8679-4e54-80bd-b0a34f3b77e9"]
+---
+time 1733411581
+old [description:"kjøpe mat" entry:"1733411579" modified:"1733411579" status:"pending" tags:"today" tags_today:"x" uuid:"042c22ac-8679-4e54-80bd-b0a34f3b77e9"]
+new [description:"kjøpe mat" entry:"1733411579" modified:"1733411581" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"042c22ac-8679-4e54-80bd-b0a34f3b77e9"]
+---
+time 1733411588
+old [description:"hente ting i bilen" entry:"1733384350" modified:"1733384350" status:"pending" tags:"today" tags_today:"x" uuid:"d67dd886-7843-4372-863f-c9c1614f4a83"]
+new [description:"hente ting i bilen" entry:"1733384350" modified:"1733411588" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"d67dd886-7843-4372-863f-c9c1614f4a83"]
+---
+time 1733411598
+old [description:"planlegging av tegnemaskinbilder" entry:"1733384308" modified:"1733384308" status:"pending" tags:"today" tags_today:"x" uuid:"96d31a47-d71d-4d4f-95e5-958b0752e744"]
+new [description:"planlegging av tegnemaskinbilder" entry:"1733384308" modified:"1733411598" start:"1733411598" status:"pending" tags:"today" tags_today:"x" uuid:"96d31a47-d71d-4d4f-95e5-958b0752e744"]
+---
+time 1733414486
+old [description:"kjøpe mat" entry:"1733411579" modified:"1733411581" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"042c22ac-8679-4e54-80bd-b0a34f3b77e9"]
+new [description:"kjøpe mat" end:"1733414486" entry:"1733411579" modified:"1733414486" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"042c22ac-8679-4e54-80bd-b0a34f3b77e9"]
+---
+time 1733427156
+old [description:"klippe negler Hilma" entry:"1733342510" modified:"1733342510" status:"pending" tags:"today" tags_today:"x" uuid:"5f710cef-be33-49a3-ab8c-58e3d7e72b4f"]
+new [description:"klippe negler Hilma" end:"1733427156" entry:"1733342510" modified:"1733427156" status:"deleted" tags:"today" tags_today:"x" uuid:"5f710cef-be33-49a3-ab8c-58e3d7e72b4f"]
+---
+time 1733427218
+old [description:"test og rydd vekk gassovn" entry:"1733301973" modified:"1733301973" status:"pending" tags:"week" tags_week:"x" uuid:"5832f095-f3bb-4927-8a0f-850038873324"]
+new [description:"test og rydd vekk gassovn" entry:"1733301973" modified:"1733427218" status:"pending" tags:"today" tags_today:"x" uuid:"5832f095-f3bb-4927-8a0f-850038873324"]
+---
+time 1733427234
+new [description:"rydd kjøkken" entry:"1733427234" modified:"1733427234" status:"pending" tags:"today" tags_today:"x" uuid:"4f3ae401-bb9f-4b01-b913-3792856ceef9"]
+---
+time 1733427265
+old [description:"hente ting i bilen" entry:"1733384350" modified:"1733411588" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"d67dd886-7843-4372-863f-c9c1614f4a83"]
+new [description:"hente ting i bilen" entry:"1733384350" modified:"1733427265" status:"pending" tags:"today" tags_today:"x" uuid:"d67dd886-7843-4372-863f-c9c1614f4a83"]
+---
+time 1733427267
+old [description:"rydd kjøkken" entry:"1733427234" modified:"1733427234" status:"pending" tags:"today" tags_today:"x" uuid:"4f3ae401-bb9f-4b01-b913-3792856ceef9"]
+new [description:"rydd kjøkken" entry:"1733427234" modified:"1733427267" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"4f3ae401-bb9f-4b01-b913-3792856ceef9"]
+---
+time 1733427287
+old [description:"ring mamma" entry:"1733301383" modified:"1733301383" status:"pending" tags:"today" tags_today:"x" uuid:"9c2bc0dc-d0b0-4198-9ed9-6135b1c05291"]
+new [description:"ring mamma" entry:"1733301383" modified:"1733427287" status:"pending" tags:"later,today" tags_later:"x" tags_today:"x" uuid:"9c2bc0dc-d0b0-4198-9ed9-6135b1c05291"]
+---
+time 1733475599
+old [description:"hente ting i bilen" entry:"1733384350" modified:"1733427265" status:"pending" tags:"today" tags_today:"x" uuid:"d67dd886-7843-4372-863f-c9c1614f4a83"]
+new [description:"hente ting i bilen" end:"1733475599" entry:"1733384350" modified:"1733475599" status:"completed" tags:"today" tags_today:"x" uuid:"d67dd886-7843-4372-863f-c9c1614f4a83"]
+---
+time 1733475612
+old [description:"rydd kjøkken" entry:"1733427234" modified:"1733427267" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"4f3ae401-bb9f-4b01-b913-3792856ceef9"]
+new [description:"rydd kjøkken" end:"1733475612" entry:"1733427234" modified:"1733475612" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"4f3ae401-bb9f-4b01-b913-3792856ceef9"]
+---
+time 1733475697
+new [description:"ta opp kattemat" entry:"1733475697" modified:"1733475697" status:"pending" tags:"today" tags_today:"x" uuid:"3ef97861-863f-4bce-847b-ced58ddcd0a8"]
+---
+time 1733477912
+new [description:"rydd kjøkken" entry:"1733477912" modified:"1733477912" status:"pending" tags:"today" tags_today:"x" uuid:"14b2c3b7-ea8e-419e-985d-d46a825fecc6"]
+---
+time 1733477925
+new [description:"frokost til Hilma og meg" entry:"1733477925" modified:"1733477925" status:"pending" tags:"today" tags_today:"x" uuid:"5c3bb147-d023-4286-8985-1d256ca58fd7"]
+---
+time 1733477926
+old [description:"frokost til Hilma og meg" entry:"1733477925" modified:"1733477925" status:"pending" tags:"today" tags_today:"x" uuid:"5c3bb147-d023-4286-8985-1d256ca58fd7"]
+new [description:"frokost til Hilma og meg" entry:"1733477925" modified:"1733477926" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"5c3bb147-d023-4286-8985-1d256ca58fd7"]
+---
+time 1733490096
+old [description:"frokost til Hilma og meg" entry:"1733477925" modified:"1733477926" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"5c3bb147-d023-4286-8985-1d256ca58fd7"]
+new [description:"frokost til Hilma og meg" end:"1733490096" entry:"1733477925" modified:"1733490096" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"5c3bb147-d023-4286-8985-1d256ca58fd7"]
+---
+time 1733490188
+new [description:"klippe negler Hilma" entry:"1733490188" modified:"1733490188" status:"pending" tags:"today" tags_today:"x" uuid:"4bacf563-c2e1-486f-8f51-865ec0652c99"]
+---
+time 1733505359
+old [description:"ta opp kattemat" entry:"1733475697" modified:"1733475697" status:"pending" tags:"today" tags_today:"x" uuid:"3ef97861-863f-4bce-847b-ced58ddcd0a8"]
+new [description:"ta opp kattemat" end:"1733505359" entry:"1733475697" modified:"1733505359" status:"completed" tags:"today" tags_today:"x" uuid:"3ef97861-863f-4bce-847b-ced58ddcd0a8"]
+---
+time 1733506685
+old [description:"planlegging av tegnemaskinbilder" entry:"1733384308" modified:"1733411598" start:"1733411598" status:"pending" tags:"today" tags_today:"x" uuid:"96d31a47-d71d-4d4f-95e5-958b0752e744"]
+new [description:"planlegging av tegnemaskinbilder" end:"1733506685" entry:"1733384308" modified:"1733506685" status:"completed" tags:"today" tags_today:"x" uuid:"96d31a47-d71d-4d4f-95e5-958b0752e744"]
+---
+time 1733506717
+new [description:"heng opp badeklær" entry:"1733506717" modified:"1733506717" priority:"H" status:"pending" tags:"today" tags_today:"x" uuid:"ab19ea3f-9248-459a-94c9-23460df29275"]
+---
+time 1733506735
+old [description:"test og rydd vekk gassovn" entry:"1733301973" modified:"1733427218" status:"pending" tags:"today" tags_today:"x" uuid:"5832f095-f3bb-4927-8a0f-850038873324"]
+new [annotation_1733506735:"Test" description:"test og rydd vekk gassovn" entry:"1733301973" modified:"1733506735" status:"pending" tags:"today" tags_today:"x" uuid:"5832f095-f3bb-4927-8a0f-850038873324"]
+---
+time 1733506763
+old [annotation_1733506735:"Test" description:"test og rydd vekk gassovn" entry:"1733301973" modified:"1733506735" status:"pending" tags:"today" tags_today:"x" uuid:"5832f095-f3bb-4927-8a0f-850038873324"]
+new [annotation_1733506735:"Test" annotation_1733506763:"Test 2" description:"test og rydd vekk gassovn" entry:"1733301973" modified:"1733506763" status:"pending" tags:"today" tags_today:"x" uuid:"5832f095-f3bb-4927-8a0f-850038873324"]
+---
+time 1733528672
+old [description:"heng opp badeklær" entry:"1733506717" modified:"1733506717" priority:"H" status:"pending" tags:"today" tags_today:"x" uuid:"ab19ea3f-9248-459a-94c9-23460df29275"]
+new [description:"heng opp badeklær" end:"1733528672" entry:"1733506717" modified:"1733528672" priority:"H" status:"completed" tags:"today" tags_today:"x" uuid:"ab19ea3f-9248-459a-94c9-23460df29275"]
+---
+time 1733528677
+old [description:"rydd kjøkken" entry:"1733477912" modified:"1733477912" status:"pending" tags:"today" tags_today:"x" uuid:"14b2c3b7-ea8e-419e-985d-d46a825fecc6"]
+new [description:"rydd kjøkken" end:"1733528677" entry:"1733477912" modified:"1733528677" status:"completed" tags:"today" tags_today:"x" uuid:"14b2c3b7-ea8e-419e-985d-d46a825fecc6"]
+---
+time 1733562761
+new [description:"Kjøp krem til Hilma" entry:"1733562761" modified:"1733562761" priority:"H" status:"pending" tags:"today" tags_today:"x" uuid:"a1a84c4a-90ad-48f6-8073-b55e050cdece"]
+---
+time 1733570110
+new [description:"Planlegging for jul og bursdag" entry:"1733570110" modified:"1733570110" status:"pending" tags:"today" tags_today:"x" uuid:"43a01690-f60a-48c5-901c-f11015cc8500"]
+---
+time 1733584888
+old [description:"Kjøp krem til Hilma" entry:"1733562761" modified:"1733562761" priority:"H" status:"pending" tags:"today" tags_today:"x" uuid:"a1a84c4a-90ad-48f6-8073-b55e050cdece"]
+new [description:"Kjøp krem til Hilma" end:"1733584888" entry:"1733562761" modified:"1733584888" priority:"H" status:"completed" tags:"today" tags_today:"x" uuid:"a1a84c4a-90ad-48f6-8073-b55e050cdece"]
+---
+time 1733584890
+old [description:"ring mamma" entry:"1733301383" modified:"1733427287" status:"pending" tags:"later,today" tags_later:"x" tags_today:"x" uuid:"9c2bc0dc-d0b0-4198-9ed9-6135b1c05291"]
+new [description:"ring mamma" end:"1733584890" entry:"1733301383" modified:"1733584890" status:"completed" tags:"later,today" tags_later:"x" tags_today:"x" uuid:"9c2bc0dc-d0b0-4198-9ed9-6135b1c05291"]
+---
+time 1733607303
+old [description:"klippe negler Hilma" entry:"1733490188" modified:"1733490188" status:"pending" tags:"today" tags_today:"x" uuid:"4bacf563-c2e1-486f-8f51-865ec0652c99"]
+new [description:"klippe negler Hilma" end:"1733607303" entry:"1733490188" modified:"1733607303" status:"completed" tags:"today" tags_today:"x" uuid:"4bacf563-c2e1-486f-8f51-865ec0652c99"]
+---
+time 1733660059
+new [description:"støvsuge rommet til Hilma" entry:"1733660059" modified:"1733660059" status:"pending" tags:"today" tags_today:"x" uuid:"07d8ee23-97cb-4a68-9026-60b879a58281"]
+---
+time 1733689207
+new [description:"kontakt jobb og nav om juleferie" entry:"1733689207" modified:"1733689207" status:"pending" tags:"today" tags_today:"x" uuid:"c1ed3f22-1122-4678-b103-d34bc4e4ff56"]
+---
+time 1733689219
+old [description:"kontakt jobb og nav om juleferie" entry:"1733689207" modified:"1733689207" status:"pending" tags:"today" tags_today:"x" uuid:"c1ed3f22-1122-4678-b103-d34bc4e4ff56"]
+new [description:"kontakt jobb og nav om juleferie" entry:"1733689207" modified:"1733689219" priority:"H" status:"pending" tags:"today" tags_today:"x" uuid:"c1ed3f22-1122-4678-b103-d34bc4e4ff56"]
+---
+time 1733728954
+old [annotation_1733506735:"Test" annotation_1733506763:"Test 2" description:"test og rydd vekk gassovn" entry:"1733301973" modified:"1733506763" status:"pending" tags:"today" tags_today:"x" uuid:"5832f095-f3bb-4927-8a0f-850038873324"]
+new [annotation_1733506735:"Test" annotation_1733506763:"Test 2" description:"test og rydd vekk gassovn" entry:"1733301973" modified:"1733728954" start:"1733728954" status:"pending" tags:"today" tags_today:"x" uuid:"5832f095-f3bb-4927-8a0f-850038873324"]
+---
+time 1733728957
+old [description:"selg frakk" entry:"1732567640" modified:"1733301999" status:"pending" tags:"today" tags_today:"x" uuid:"a900da76-7cea-480a-87e5-eb627fb46a15"]
+new [description:"selg frakk" entry:"1732567640" modified:"1733728957" start:"1733728957" status:"pending" tags:"today" tags_today:"x" uuid:"a900da76-7cea-480a-87e5-eb627fb46a15"]
+---
+time 1733728959
+old [description:"selg frakk" entry:"1732567640" modified:"1733728957" start:"1733728957" status:"pending" tags:"today" tags_today:"x" uuid:"a900da76-7cea-480a-87e5-eb627fb46a15"]
+new [description:"selg frakk" entry:"1732567640" modified:"1733728959" status:"pending" tags:"today" tags_today:"x" uuid:"a900da76-7cea-480a-87e5-eb627fb46a15"]
+---
+time 1733728960
+old [description:"selg frakk" entry:"1732567640" modified:"1733728959" status:"pending" tags:"today" tags_today:"x" uuid:"a900da76-7cea-480a-87e5-eb627fb46a15"]
+new [description:"selg frakk" entry:"1732567640" modified:"1733728960" start:"1733728960" status:"pending" tags:"today" tags_today:"x" uuid:"a900da76-7cea-480a-87e5-eb627fb46a15"]
+---
+time 1733728961
+old [description:"selg frakk" entry:"1732567640" modified:"1733728960" start:"1733728960" status:"pending" tags:"today" tags_today:"x" uuid:"a900da76-7cea-480a-87e5-eb627fb46a15"]
+new [description:"selg frakk" entry:"1732567640" modified:"1733728961" status:"pending" tags:"today" tags_today:"x" uuid:"a900da76-7cea-480a-87e5-eb627fb46a15"]
+---
+time 1733728980
+old [description:"selg frakk" entry:"1732567640" modified:"1733728961" status:"pending" tags:"today" tags_today:"x" uuid:"a900da76-7cea-480a-87e5-eb627fb46a15"]
+new [description:"selg frakk" entry:"1732567640" modified:"1733728980" status:"pending" tags:"week" tags_week:"x" uuid:"a900da76-7cea-480a-87e5-eb627fb46a15"]
+---
+time 1733731006
+new [description:"kjøp melkepulver priority;H" entry:"1733731006" modified:"1733731006" status:"pending" tags:"today" tags_today:"x" uuid:"08f9f1c4-cd1e-461d-84c1-a9151228ed4f"]
+---
+time 1733731171
+old [description:"kjøp melkepulver priority;H" entry:"1733731006" modified:"1733731006" status:"pending" tags:"today" tags_today:"x" uuid:"08f9f1c4-cd1e-461d-84c1-a9151228ed4f"]
+new [description:"kjøp melkepulver" entry:"1733731006" modified:"1733731171" priority:"H" status:"pending" tags:"today" tags_today:"x" uuid:"08f9f1c4-cd1e-461d-84c1-a9151228ed4f"]
+---
+time 1733731540
+new [description:"mat til kattene" entry:"1733731540" modified:"1733731540" status:"pending" tags:"today" tags_today:"x" uuid:"a74b8be1-2176-4752-8990-c89b5e4c94dd"]
+---
+time 1733731565
+old [description:"Planlegging for jul og bursdag" entry:"1733570110" modified:"1733570110" status:"pending" tags:"today" tags_today:"x" uuid:"43a01690-f60a-48c5-901c-f11015cc8500"]
+new [description:"Planlegging for jul og bursdag" entry:"1733570110" modified:"1733731565" status:"pending" tags:"week" tags_week:"x" uuid:"43a01690-f60a-48c5-901c-f11015cc8500"]
+---
+time 1733734180
+new [description:"kattebjørnen" entry:"1733734180" modified:"1733734180" status:"pending" tags:"today" tags_today:"x" uuid:"87581e8e-921a-4800-9292-1da7eac230e0"]
+---
+time 1733756058
+old [description:"kattebjørnen" entry:"1733734180" modified:"1733734180" status:"pending" tags:"today" tags_today:"x" uuid:"87581e8e-921a-4800-9292-1da7eac230e0"]
+new [description:"kattebjørnen" end:"1733756058" entry:"1733734180" modified:"1733756058" status:"completed" tags:"today" tags_today:"x" uuid:"87581e8e-921a-4800-9292-1da7eac230e0"]
+---
+time 1733756060
+old [description:"mat til kattene" entry:"1733731540" modified:"1733731540" status:"pending" tags:"today" tags_today:"x" uuid:"a74b8be1-2176-4752-8990-c89b5e4c94dd"]
+new [description:"mat til kattene" end:"1733756060" entry:"1733731540" modified:"1733756060" status:"completed" tags:"today" tags_today:"x" uuid:"a74b8be1-2176-4752-8990-c89b5e4c94dd"]
+---
+time 1733815599
+old [description:"kjøp melkepulver" entry:"1733731006" modified:"1733731171" priority:"H" status:"pending" tags:"today" tags_today:"x" uuid:"08f9f1c4-cd1e-461d-84c1-a9151228ed4f"]
+new [description:"kjøp melkepulver" end:"1733815599" entry:"1733731006" modified:"1733815599" priority:"H" status:"completed" tags:"today" tags_today:"x" uuid:"08f9f1c4-cd1e-461d-84c1-a9151228ed4f"]
+---
+time 1733815753
+new [description:"se over todoist" entry:"1733815753" modified:"1733815753" status:"pending" tags:"today" tags_today:"x" uuid:"15428eb2-2dc1-4179-974f-996c1b83c41b"]
+---
+time 1733815763
+new [description:"lag melk" entry:"1733815763" modified:"1733815763" status:"pending" tags:"today" tags_today:"x" uuid:"7f7b1207-ad19-45af-b858-b0625c8ce1f8"]
+---
+time 1733815764
+old [description:"lag melk" entry:"1733815763" modified:"1733815763" status:"pending" tags:"today" tags_today:"x" uuid:"7f7b1207-ad19-45af-b858-b0625c8ce1f8"]
+new [description:"lag melk" entry:"1733815763" modified:"1733815764" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"7f7b1207-ad19-45af-b858-b0625c8ce1f8"]
+---
+time 1733815844
+new [description:"start på nytt med tegning" entry:"1733815844" modified:"1733815844" status:"pending" tags:"today" tags_today:"x" uuid:"bec52b53-54a0-4804-88e8-05d7a278c31a"]
+---
+time 1733815889
+new [description:"gjør klar for avreise" entry:"1733815889" modified:"1733815889" status:"pending" tags:"today" tags_today:"x" uuid:"351548d5-da28-41aa-bfe0-685d4d933760"]
+---
+time 1733816127
+new [description:"svar jonas" entry:"1733816127" modified:"1733816127" status:"pending" tags:"today" tags_today:"x" uuid:"21241e18-cb7d-4ad2-881a-e9064635bdfd"]
+---
+time 1733816132
+new [description:"svar Helene" entry:"1733816132" modified:"1733816132" status:"pending" tags:"today" tags_today:"x" uuid:"c50566e2-c9ae-41da-adfb-9343315bf926"]
+---
+time 1733816501
+old [description:"lag melk" entry:"1733815763" modified:"1733815764" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"7f7b1207-ad19-45af-b858-b0625c8ce1f8"]
+new [description:"lag melk" end:"1733816501" entry:"1733815763" modified:"1733816501" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"7f7b1207-ad19-45af-b858-b0625c8ce1f8"]
+---
+time 1733820431
+old [description:"start på nytt med tegning" entry:"1733815844" modified:"1733815844" status:"pending" tags:"today" tags_today:"x" uuid:"bec52b53-54a0-4804-88e8-05d7a278c31a"]
+new [description:"start på nytt med tegning" end:"1733820431" entry:"1733815844" modified:"1733820431" status:"completed" tags:"today" tags_today:"x" uuid:"bec52b53-54a0-4804-88e8-05d7a278c31a"]
+---
+time 1733820441
+old [description:"gjør klar for avreise" entry:"1733815889" modified:"1733815889" status:"pending" tags:"today" tags_today:"x" uuid:"351548d5-da28-41aa-bfe0-685d4d933760"]
+new [description:"gjør klar for avreise" entry:"1733815889" modified:"1733820441" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"351548d5-da28-41aa-bfe0-685d4d933760"]
+---
+time 1733821636
+new [description:"tøm kattedoer" entry:"1733821636" modified:"1733821636" status:"pending" tags:"today" tags_today:"x" uuid:"f445b8c5-33ea-4692-8853-350f009075e5"]
+---
+time 1733841988
+old [description:"svar jonas" entry:"1733816127" modified:"1733816127" status:"pending" tags:"today" tags_today:"x" uuid:"21241e18-cb7d-4ad2-881a-e9064635bdfd"]
+new [description:"svar jonas" end:"1733841988" entry:"1733816127" modified:"1733841988" status:"completed" tags:"today" tags_today:"x" uuid:"21241e18-cb7d-4ad2-881a-e9064635bdfd"]
+---
+time 1733841995
+old [description:"gjør klar for avreise" entry:"1733815889" modified:"1733820441" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"351548d5-da28-41aa-bfe0-685d4d933760"]
+new [description:"gjør klar for avreise" end:"1733841995" entry:"1733815889" modified:"1733841995" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"351548d5-da28-41aa-bfe0-685d4d933760"]
+---
+time 1733842013
+old [description:"kontakt jobb og nav om juleferie" entry:"1733689207" modified:"1733689219" priority:"H" status:"pending" tags:"today" tags_today:"x" uuid:"c1ed3f22-1122-4678-b103-d34bc4e4ff56"]
+new [description:"kontakt jobb og nav om juleferie" entry:"1733689207" modified:"1733842013" priority:"H" start:"1733842013" status:"pending" tags:"today" tags_today:"x" uuid:"c1ed3f22-1122-4678-b103-d34bc4e4ff56"]
+---
+time 1733844350
+new [description:"vanne planter" entry:"1733844350" modified:"1733844350" status:"pending" tags:"today" tags_today:"x" uuid:"f05340cf-7de8-44b0-9ab9-5e76c1f35443"]
+---
+time 1733852522
+new [description:"finn stereoidekrem" entry:"1733852522" modified:"1733852522" status:"pending" tags:"today" tags_today:"x" uuid:"d26d86f4-ad1e-4bba-a391-43a13fd50ed9"]
+---
+time 1733852525
+old [description:"tøm kattedoer" entry:"1733821636" modified:"1733821636" status:"pending" tags:"today" tags_today:"x" uuid:"f445b8c5-33ea-4692-8853-350f009075e5"]
+new [description:"tøm kattedoer" end:"1733852525" entry:"1733821636" modified:"1733852525" status:"completed" tags:"today" tags_today:"x" uuid:"f445b8c5-33ea-4692-8853-350f009075e5"]
+---
+time 1733852527
+old [description:"se over todoist" entry:"1733815753" modified:"1733815753" status:"pending" tags:"today" tags_today:"x" uuid:"15428eb2-2dc1-4179-974f-996c1b83c41b"]
+new [description:"se over todoist" end:"1733852527" entry:"1733815753" modified:"1733852527" status:"completed" tags:"today" tags_today:"x" uuid:"15428eb2-2dc1-4179-974f-996c1b83c41b"]
+---
+time 1733854708
+old [description:"vanne planter" entry:"1733844350" modified:"1733844350" status:"pending" tags:"today" tags_today:"x" uuid:"f05340cf-7de8-44b0-9ab9-5e76c1f35443"]
+new [description:"vanne planter" entry:"1733844350" modified:"1733854708" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"f05340cf-7de8-44b0-9ab9-5e76c1f35443"]
+---
+time 1733908801
+old [description:"kontakt jobb og nav om juleferie" entry:"1733689207" modified:"1733842013" priority:"H" start:"1733842013" status:"pending" tags:"today" tags_today:"x" uuid:"c1ed3f22-1122-4678-b103-d34bc4e4ff56"]
+new [description:"kontakt jobb og nav om juleferie" end:"1733908801" entry:"1733689207" modified:"1733908801" priority:"H" status:"completed" tags:"today" tags_today:"x" uuid:"c1ed3f22-1122-4678-b103-d34bc4e4ff56"]
+---
+time 1733908802
+old [description:"vanne planter" entry:"1733844350" modified:"1733854708" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"f05340cf-7de8-44b0-9ab9-5e76c1f35443"]
+new [description:"vanne planter" end:"1733908802" entry:"1733844350" modified:"1733908802" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"f05340cf-7de8-44b0-9ab9-5e76c1f35443"]
+---
+time 1733908813
+new [description:"svar jonas" entry:"1733908813" modified:"1733908813" status:"pending" tags:"today" tags_today:"x" uuid:"8dcede7c-85a3-4b09-8863-a41f0d1249ce"]
+---
+time 1733911512
+new [description:"kjøp melk til Hilma" entry:"1733911512" modified:"1733911512" status:"pending" tags:"today" tags_today:"x" uuid:"d9acfb02-f562-4c89-8616-f4acb85311bb"]
+---
+time 1733989937
+old [description:"kjøp melk til Hilma" entry:"1733911512" modified:"1733911512" status:"pending" tags:"today" tags_today:"x" uuid:"d9acfb02-f562-4c89-8616-f4acb85311bb"]
+new [description:"kjøp melk til Hilma" end:"1733989937" entry:"1733911512" modified:"1733989937" status:"completed" tags:"today" tags_today:"x" uuid:"d9acfb02-f562-4c89-8616-f4acb85311bb"]
+---
+time 1733990645
+new [description:"ta ut pappir" entry:"1733990645" modified:"1733990645" status:"pending" tags:"today" tags_today:"x" uuid:"3f7bf22e-d60d-4ef7-ad1a-4aae42fe0f18"]
+---
+time 1734027347
+new [description:"fjern nupper genser" entry:"1734027347" modified:"1734027347" status:"pending" tags:"today" tags_today:"x" uuid:"6634aaca-8700-43cd-b0d0-681322d43d67"]
+---
+time 1734037388
+new [description:"lag melk" entry:"1734037388" modified:"1734037388" status:"pending" tags:"today" tags_today:"x" uuid:"5f08115c-b7b0-4131-9ecb-d5d872e7dc08"]
+---
+time 1734037392
+old [description:"fjern nupper genser" entry:"1734027347" modified:"1734027347" status:"pending" tags:"today" tags_today:"x" uuid:"6634aaca-8700-43cd-b0d0-681322d43d67"]
+new [description:"fjern nupper genser" end:"1734037392" entry:"1734027347" modified:"1734037392" status:"deleted" tags:"today" tags_today:"x" uuid:"6634aaca-8700-43cd-b0d0-681322d43d67"]
+---
+time 1734037395
+old [description:"ta ut pappir" entry:"1733990645" modified:"1733990645" status:"pending" tags:"today" tags_today:"x" uuid:"3f7bf22e-d60d-4ef7-ad1a-4aae42fe0f18"]
+new [description:"ta ut pappir" end:"1734037395" entry:"1733990645" modified:"1734037395" status:"completed" tags:"today" tags_today:"x" uuid:"3f7bf22e-d60d-4ef7-ad1a-4aae42fe0f18"]
+---
+time 1734037451
+old [description:"lag melk" entry:"1734037388" modified:"1734037388" status:"pending" tags:"today" tags_today:"x" uuid:"5f08115c-b7b0-4131-9ecb-d5d872e7dc08"]
+new [description:"lag melk" entry:"1734037388" modified:"1734037451" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"5f08115c-b7b0-4131-9ecb-d5d872e7dc08"]
+---
+time 1734041301
+new [description:"rydde" entry:"1734041301" modified:"1734041301" status:"pending" tags:"today" tags_today:"x" uuid:"03eda2b9-c8b0-49ce-817c-8e599fa29778"]
+---
+time 1734041306
+old [description:"rydde" entry:"1734041301" modified:"1734041301" status:"pending" tags:"today" tags_today:"x" uuid:"03eda2b9-c8b0-49ce-817c-8e599fa29778"]
+new [description:"rydde" entry:"1734041301" modified:"1734041306" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"03eda2b9-c8b0-49ce-817c-8e599fa29778"]
+---
+time 1734041311
+new [description:"lader" entry:"1734041311" modified:"1734041311" status:"pending" tags:"today" tags_today:"x" uuid:"3fc84338-1eab-40ff-925b-58a7213619a9"]
+---
+time 1734041313
+old [description:"lader" entry:"1734041311" modified:"1734041311" status:"pending" tags:"today" tags_today:"x" uuid:"3fc84338-1eab-40ff-925b-58a7213619a9"]
+new [description:"lader" entry:"1734041311" modified:"1734041313" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"3fc84338-1eab-40ff-925b-58a7213619a9"]
+---
+time 1734044284
+old [description:"lag melk" entry:"1734037388" modified:"1734037451" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"5f08115c-b7b0-4131-9ecb-d5d872e7dc08"]
+new [description:"lag melk" end:"1734044284" entry:"1734037388" modified:"1734044284" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"5f08115c-b7b0-4131-9ecb-d5d872e7dc08"]
+---
+time 1734044285
+old [description:"rydde" entry:"1734041301" modified:"1734041306" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"03eda2b9-c8b0-49ce-817c-8e599fa29778"]
+new [description:"rydde" end:"1734044285" entry:"1734041301" modified:"1734044285" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"03eda2b9-c8b0-49ce-817c-8e599fa29778"]
+---
+time 1734047967
+old [description:"lader" entry:"1734041311" modified:"1734041313" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"3fc84338-1eab-40ff-925b-58a7213619a9"]
+new [description:"lader" end:"1734047967" entry:"1734041311" modified:"1734047967" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"3fc84338-1eab-40ff-925b-58a7213619a9"]
+---
+time 1734072149
+new [description:"tøm kattedo" entry:"1734072149" modified:"1734072149" status:"pending" tags:"today" tags_today:"x" uuid:"0a6c5591-2d28-4aca-97e6-48ddef4b8cb8"]
+---
+time 1734078773
+old [description:"svar Helene" entry:"1733816132" modified:"1733816132" status:"pending" tags:"today" tags_today:"x" uuid:"c50566e2-c9ae-41da-adfb-9343315bf926"]
+new [description:"svar Helene" end:"1734078773" entry:"1733816132" modified:"1734078773" status:"completed" tags:"today" tags_today:"x" uuid:"c50566e2-c9ae-41da-adfb-9343315bf926"]
+---
+time 1734079277
+new [description:"kontakt dusjdør forhandler" entry:"1734079277" modified:"1734079277" status:"pending" tags:"today" tags_today:"x" uuid:"49dd0fd0-65e8-4252-aa68-943b62c588ca"]
+---
+time 1734079354
+new [description:"hent i bilen" entry:"1734079354" modified:"1734079354" status:"pending" tags:"today" tags_today:"x" uuid:"d560ba00-44d4-409f-b534-511fb07f311a"]
+---
+time 1734079393
+new [description:"lag bilde i tegnemaskin" entry:"1734079393" modified:"1734079393" status:"pending" tags:"today" tags_today:"x" uuid:"7637ede6-dcc9-4e79-a3a0-9fd9a32879bf"]
+---
+time 1734079399
+old [description:"lag bilde i tegnemaskin" entry:"1734079393" modified:"1734079393" status:"pending" tags:"today" tags_today:"x" uuid:"7637ede6-dcc9-4e79-a3a0-9fd9a32879bf"]
+new [description:"lag bilde i tegnemaskin" entry:"1734079393" modified:"1734079399" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"7637ede6-dcc9-4e79-a3a0-9fd9a32879bf"]
+---
+time 1734079425
+new [description:"se over tasks i dokument og todoist" entry:"1734079425" modified:"1734079425" status:"pending" tags:"today" tags_today:"x" uuid:"c46334ee-18b3-49b3-9e77-5fe873332020"]
+---
+time 1734083384
+old [description:"lag bilde i tegnemaskin" entry:"1734079393" modified:"1734079399" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"7637ede6-dcc9-4e79-a3a0-9fd9a32879bf"]
+new [description:"lag bilde i tegnemaskin" entry:"1734079393" modified:"1734083384" start:"1734083384" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"7637ede6-dcc9-4e79-a3a0-9fd9a32879bf"]
+---
+time 1734083385
+old [description:"lag bilde i tegnemaskin" entry:"1734079393" modified:"1734083384" start:"1734083384" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"7637ede6-dcc9-4e79-a3a0-9fd9a32879bf"]
+new [description:"lag bilde i tegnemaskin" entry:"1734079393" modified:"1734083385" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"7637ede6-dcc9-4e79-a3a0-9fd9a32879bf"]
+---
+time 1734083386
+old [description:"lag bilde i tegnemaskin" entry:"1734079393" modified:"1734083385" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"7637ede6-dcc9-4e79-a3a0-9fd9a32879bf"]
+new [description:"lag bilde i tegnemaskin" entry:"1734079393" modified:"1734083386" status:"pending" tags:"today" tags_today:"x" uuid:"7637ede6-dcc9-4e79-a3a0-9fd9a32879bf"]
+---
+time 1734083388
+old [description:"lag bilde i tegnemaskin" entry:"1734079393" modified:"1734083386" status:"pending" tags:"today" tags_today:"x" uuid:"7637ede6-dcc9-4e79-a3a0-9fd9a32879bf"]
+new [description:"lag bilde i tegnemaskin" entry:"1734079393" modified:"1734083388" start:"1734083388" status:"pending" tags:"today" tags_today:"x" uuid:"7637ede6-dcc9-4e79-a3a0-9fd9a32879bf"]
+---
+time 1734083396
+new [description:"lag melk" entry:"1734083396" modified:"1734083396" status:"pending" tags:"today" tags_today:"x" uuid:"73089d63-1bcd-4987-b32a-9c038aa2865a"]
+---
+time 1734083397
+old [description:"lag melk" entry:"1734083396" modified:"1734083396" status:"pending" tags:"today" tags_today:"x" uuid:"73089d63-1bcd-4987-b32a-9c038aa2865a"]
+new [description:"lag melk" entry:"1734083396" modified:"1734083397" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"73089d63-1bcd-4987-b32a-9c038aa2865a"]
+---
+time 1734093732
+old [description:"lag melk" entry:"1734083396" modified:"1734083397" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"73089d63-1bcd-4987-b32a-9c038aa2865a"]
+new [description:"lag melk" end:"1734093732" entry:"1734083396" modified:"1734093732" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"73089d63-1bcd-4987-b32a-9c038aa2865a"]
+---
+time 1734095216
+new [description:"rydd kjøkken" entry:"1734095216" modified:"1734095216" status:"pending" tags:"today" tags_today:"x" uuid:"11a22817-0b8d-4d49-a73f-7f17845448c5"]
+---
+time 1734095230
+new [description:"send liste for Hilma og oss til Mari" entry:"1734095230" modified:"1734095230" status:"pending" tags:"today" tags_today:"x" uuid:"41cd67be-d728-43f6-971a-56c35168adc8"]
+---
+time 1734095255
+old [description:"lag bilde i tegnemaskin" entry:"1734079393" modified:"1734083388" start:"1734083388" status:"pending" tags:"today" tags_today:"x" uuid:"7637ede6-dcc9-4e79-a3a0-9fd9a32879bf"]
+new [description:"lag bilde i tegnemaskin" entry:"1734079393" modified:"1734095255" status:"pending" tags:"today" tags_today:"x" uuid:"7637ede6-dcc9-4e79-a3a0-9fd9a32879bf"]
+---
+time 1734095256
+old [description:"lag bilde i tegnemaskin" entry:"1734079393" modified:"1734095255" status:"pending" tags:"today" tags_today:"x" uuid:"7637ede6-dcc9-4e79-a3a0-9fd9a32879bf"]
+new [description:"lag bilde i tegnemaskin" entry:"1734079393" modified:"1734095256" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"7637ede6-dcc9-4e79-a3a0-9fd9a32879bf"]
+---
+time 1734095413
+old [description:"rydd kjøkken" entry:"1734095216" modified:"1734095216" status:"pending" tags:"today" tags_today:"x" uuid:"11a22817-0b8d-4d49-a73f-7f17845448c5"]
+new [description:"rydd kjøkken" entry:"1734095216" modified:"1734095413" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"11a22817-0b8d-4d49-a73f-7f17845448c5"]
+---
+time 1734095966
+new [description:"stell hilma" entry:"1734095966" modified:"1734095966" status:"pending" tags:"today" tags_today:"x" uuid:"0c894102-9195-4777-a25c-5bd2a643ef38"]
+---
+time 1734095977
+old [description:"stell hilma" entry:"1734095966" modified:"1734095966" status:"pending" tags:"today" tags_today:"x" uuid:"0c894102-9195-4777-a25c-5bd2a643ef38"]
+new [description:"stell hilma" entry:"1734095966" modified:"1734095977" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"0c894102-9195-4777-a25c-5bd2a643ef38"]
+---
+time 1734103867
+old [description:"lag bilde i tegnemaskin" entry:"1734079393" modified:"1734095256" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"7637ede6-dcc9-4e79-a3a0-9fd9a32879bf"]
+new [description:"lag bilde i tegnemaskin" entry:"1734079393" modified:"1734103867" status:"pending" tags:"today" tags_today:"x" uuid:"7637ede6-dcc9-4e79-a3a0-9fd9a32879bf"]
+---
+time 1734103870
+old [description:"lag bilde i tegnemaskin" entry:"1734079393" modified:"1734103867" status:"pending" tags:"today" tags_today:"x" uuid:"7637ede6-dcc9-4e79-a3a0-9fd9a32879bf"]
+new [description:"lag bilde i tegnemaskin" end:"1734103870" entry:"1734079393" modified:"1734103870" status:"completed" tags:"today" tags_today:"x" uuid:"7637ede6-dcc9-4e79-a3a0-9fd9a32879bf"]
+---
+time 1734103874
+old [description:"stell hilma" entry:"1734095966" modified:"1734095977" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"0c894102-9195-4777-a25c-5bd2a643ef38"]
+new [description:"stell hilma" end:"1734103874" entry:"1734095966" modified:"1734103874" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"0c894102-9195-4777-a25c-5bd2a643ef38"]
+---
+time 1734103881
+old [description:"tøm kattedo" entry:"1734072149" modified:"1734072149" status:"pending" tags:"today" tags_today:"x" uuid:"0a6c5591-2d28-4aca-97e6-48ddef4b8cb8"]
+new [description:"tøm kattedo" entry:"1734072149" modified:"1734103881" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"0a6c5591-2d28-4aca-97e6-48ddef4b8cb8"]
+---
+time 1734103885
+old [description:"rydd kjøkken" entry:"1734095216" modified:"1734095413" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"11a22817-0b8d-4d49-a73f-7f17845448c5"]
+new [description:"rydd kjøkken" entry:"1734095216" modified:"1734103885" status:"pending" tags:"today" tags_today:"x" uuid:"11a22817-0b8d-4d49-a73f-7f17845448c5"]
+---
+time 1734103889
+old [description:"rydd kjøkken" entry:"1734095216" modified:"1734103885" status:"pending" tags:"today" tags_today:"x" uuid:"11a22817-0b8d-4d49-a73f-7f17845448c5"]
+new [description:"rydd kjøkken" entry:"1734095216" modified:"1734103889" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"11a22817-0b8d-4d49-a73f-7f17845448c5"]
+---
+time 1734103897
+old [description:"send liste for Hilma og oss til Mari" entry:"1734095230" modified:"1734095230" status:"pending" tags:"today" tags_today:"x" uuid:"41cd67be-d728-43f6-971a-56c35168adc8"]
+new [description:"send liste for Hilma og oss til Mari" end:"1734103897" entry:"1734095230" modified:"1734103897" status:"completed" tags:"today" tags_today:"x" uuid:"41cd67be-d728-43f6-971a-56c35168adc8"]
+---
+time 1734103911
+new [description:"Trene" entry:"1734103911" modified:"1734103911" status:"pending" tags:"today" tags_today:"x" uuid:"8f1cbb4c-956a-435c-88d5-49402fff038b"]
+---
+time 1734103913
+old [description:"Trene" entry:"1734103911" modified:"1734103911" status:"pending" tags:"today" tags_today:"x" uuid:"8f1cbb4c-956a-435c-88d5-49402fff038b"]
+new [description:"Trene" entry:"1734103911" modified:"1734103913" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"8f1cbb4c-956a-435c-88d5-49402fff038b"]
+---
+time 1734103922
+new [description:"gå i butikken" entry:"1734103922" modified:"1734103922" status:"pending" tags:"today" tags_today:"x" uuid:"e32e42af-8da4-42cc-834b-e6f3b85740ec"]
+---
+time 1734103926
+old [description:"gå i butikken" entry:"1734103922" modified:"1734103922" status:"pending" tags:"today" tags_today:"x" uuid:"e32e42af-8da4-42cc-834b-e6f3b85740ec"]
+new [description:"gå i butikken" entry:"1734103922" modified:"1734103926" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"e32e42af-8da4-42cc-834b-e6f3b85740ec"]
+---
+time 1734176071
+old [description:"rydd kjøkken" entry:"1734095216" modified:"1734103889" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"11a22817-0b8d-4d49-a73f-7f17845448c5"]
+new [description:"rydd kjøkken" end:"1734176071" entry:"1734095216" modified:"1734176071" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"11a22817-0b8d-4d49-a73f-7f17845448c5"]
+---
+time 1734176075
+old [description:"tøm kattedo" entry:"1734072149" modified:"1734103881" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"0a6c5591-2d28-4aca-97e6-48ddef4b8cb8"]
+new [description:"tøm kattedo" end:"1734176075" entry:"1734072149" modified:"1734176075" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"0a6c5591-2d28-4aca-97e6-48ddef4b8cb8"]
+---
+time 1734176076
+old [description:"gå i butikken" entry:"1734103922" modified:"1734103926" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"e32e42af-8da4-42cc-834b-e6f3b85740ec"]
+new [description:"gå i butikken" end:"1734176076" entry:"1734103922" modified:"1734176076" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"e32e42af-8da4-42cc-834b-e6f3b85740ec"]
+---
+time 1734176088
+old [description:"se over tasks i dokument og todoist" entry:"1734079425" modified:"1734079425" status:"pending" tags:"today" tags_today:"x" uuid:"c46334ee-18b3-49b3-9e77-5fe873332020"]
+new [description:"se over tasks i dokument og todoist" end:"1734176088" entry:"1734079425" modified:"1734176088" status:"completed" tags:"today" tags_today:"x" uuid:"c46334ee-18b3-49b3-9e77-5fe873332020"]
+---
+time 1734176090
+old [description:"hent i bilen" entry:"1734079354" modified:"1734079354" status:"pending" tags:"today" tags_today:"x" uuid:"d560ba00-44d4-409f-b534-511fb07f311a"]
+new [description:"hent i bilen" end:"1734176090" entry:"1734079354" modified:"1734176090" status:"completed" tags:"today" tags_today:"x" uuid:"d560ba00-44d4-409f-b534-511fb07f311a"]
+---
+time 1734187243
+old [description:"Trene" entry:"1734103911" modified:"1734103913" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"8f1cbb4c-956a-435c-88d5-49402fff038b"]
+new [description:"Trene" entry:"1734103911" modified:"1734187243" status:"pending" tags:"today" tags_today:"x" uuid:"8f1cbb4c-956a-435c-88d5-49402fff038b"]
+---
+time 1734187247
+old [annotation_1733506735:"Test" annotation_1733506763:"Test 2" description:"test og rydd vekk gassovn" entry:"1733301973" modified:"1733728954" start:"1733728954" status:"pending" tags:"today" tags_today:"x" uuid:"5832f095-f3bb-4927-8a0f-850038873324"]
+new [annotation_1733506735:"Test" annotation_1733506763:"Test 2" description:"test og rydd vekk gassovn" end:"1734187247" entry:"1733301973" modified:"1734187247" status:"completed" tags:"today" tags_today:"x" uuid:"5832f095-f3bb-4927-8a0f-850038873324"]
+---
+time 1734187255
+old [description:"research dagmamma" entry:"1733298548" modified:"1733323658" start:"1733323658" status:"pending" tags:"week" tags_week:"x" uuid:"f04c666d-91b0-467d-98ae-8674a4024250"]
+new [description:"research dagmamma" end:"1734187255" entry:"1733298548" modified:"1734187255" start:"1733323658" status:"deleted" tags:"week" tags_week:"x" uuid:"f04c666d-91b0-467d-98ae-8674a4024250"]
+---
+time 1734335008
+old [description:"støvsuge rommet til Hilma" entry:"1733660059" modified:"1733660059" status:"pending" tags:"today" tags_today:"x" uuid:"07d8ee23-97cb-4a68-9026-60b879a58281"]
+new [description:"støvsuge rommet til Hilma" end:"1734335008" entry:"1733660059" modified:"1734335008" status:"completed" tags:"today" tags_today:"x" uuid:"07d8ee23-97cb-4a68-9026-60b879a58281"]
+---
+time 1734335015
+old [description:"svar jonas" entry:"1733908813" modified:"1733908813" status:"pending" tags:"today" tags_today:"x" uuid:"8dcede7c-85a3-4b09-8863-a41f0d1249ce"]
+new [description:"svar jonas" entry:"1733908813" modified:"1734335015" start:"1734335015" status:"pending" tags:"today" tags_today:"x" uuid:"8dcede7c-85a3-4b09-8863-a41f0d1249ce"]
+---
+time 1734335020
+old [description:"Trene" entry:"1734103911" modified:"1734187243" status:"pending" tags:"today" tags_today:"x" uuid:"8f1cbb4c-956a-435c-88d5-49402fff038b"]
+new [description:"Trene" end:"1734335020" entry:"1734103911" modified:"1734335020" status:"deleted" tags:"today" tags_today:"x" uuid:"8f1cbb4c-956a-435c-88d5-49402fff038b"]
+---
+time 1734335065
+new [description:"batterier til lading" entry:"1734335065" modified:"1734335065" status:"pending" tags:"today" tags_today:"x" uuid:"985da723-5e50-4a76-9984-f42e2c44230b"]
+---
+time 1734335071
+new [description:"rydde klær" entry:"1734335071" modified:"1734335071" status:"pending" tags:"today" tags_today:"x" uuid:"dd113420-247f-47be-8f6f-8fd43219febf"]
+---
+time 1734335088
+new [description:"lag melk" entry:"1734335088" modified:"1734335088" status:"pending" tags:"today" tags_today:"x" uuid:"32596ae9-abd2-4308-a26f-5d32b98c1595"]
+---
+time 1734335101
+new [description:"vaskemaskin" entry:"1734335101" modified:"1734335101" status:"pending" tags:"today" tags_today:"x" uuid:"9029eeb7-add7-40da-a6c2-cc3a6ed37f75"]
+---
+time 1734335327
+new [description:"frokost" entry:"1734335327" modified:"1734335327" status:"pending" tags:"today" tags_today:"x" uuid:"d1d00bb9-2d55-4f22-bb6b-10638d16e9d2"]
+---
+time 1734335337
+old [description:"lag melk" entry:"1734335088" modified:"1734335088" status:"pending" tags:"today" tags_today:"x" uuid:"32596ae9-abd2-4308-a26f-5d32b98c1595"]
+new [description:"lag melk" entry:"1734335088" modified:"1734335337" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"32596ae9-abd2-4308-a26f-5d32b98c1595"]
+---
+time 1734358611
+old [description:"lag melk" entry:"1734335088" modified:"1734335337" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"32596ae9-abd2-4308-a26f-5d32b98c1595"]
+new [description:"lag melk" entry:"1734335088" modified:"1734358611" status:"pending" tags:"today" tags_today:"x" uuid:"32596ae9-abd2-4308-a26f-5d32b98c1595"]
+---
+time 1734358618
+old [description:"frokost" entry:"1734335327" modified:"1734335327" status:"pending" tags:"today" tags_today:"x" uuid:"d1d00bb9-2d55-4f22-bb6b-10638d16e9d2"]
+new [description:"frokost" end:"1734358618" entry:"1734335327" modified:"1734358618" status:"completed" tags:"today" tags_today:"x" uuid:"d1d00bb9-2d55-4f22-bb6b-10638d16e9d2"]
+---
+time 1734358625
+old [description:"lag melk" entry:"1734335088" modified:"1734358611" status:"pending" tags:"today" tags_today:"x" uuid:"32596ae9-abd2-4308-a26f-5d32b98c1595"]
+new [description:"lag melk" end:"1734358625" entry:"1734335088" modified:"1734358625" status:"completed" tags:"today" tags_today:"x" uuid:"32596ae9-abd2-4308-a26f-5d32b98c1595"]
+---
+time 1734358628
+old [description:"batterier til lading" entry:"1734335065" modified:"1734335065" status:"pending" tags:"today" tags_today:"x" uuid:"985da723-5e50-4a76-9984-f42e2c44230b"]
+new [description:"batterier til lading" end:"1734358628" entry:"1734335065" modified:"1734358628" status:"completed" tags:"today" tags_today:"x" uuid:"985da723-5e50-4a76-9984-f42e2c44230b"]
+---
+time 1734358642
+new [description:"svar Helene" entry:"1734358642" modified:"1734358642" status:"pending" tags:"today" tags_today:"x" uuid:"b3325966-a045-4ce7-906d-dc5423688ba2"]
+---
+time 1734358820
+old [description:"svar Helene" entry:"1734358642" modified:"1734358642" status:"pending" tags:"today" tags_today:"x" uuid:"b3325966-a045-4ce7-906d-dc5423688ba2"]
+new [description:"bursdagsmelding Helene" entry:"1734358642" modified:"1734358820" status:"pending" tags:"today" tags_today:"x" uuid:"b3325966-a045-4ce7-906d-dc5423688ba2"]
+---
+time 1734358830
+old [description:"bursdagsmelding Helene" entry:"1734358642" modified:"1734358820" status:"pending" tags:"today" tags_today:"x" uuid:"b3325966-a045-4ce7-906d-dc5423688ba2"]
+new [description:"bursdagsmelding Helene" entry:"1734358642" modified:"1734358830" priority:"H" status:"pending" tags:"today" tags_today:"x" uuid:"b3325966-a045-4ce7-906d-dc5423688ba2"]
+---
+time 1734358834
+old [description:"svar jonas" entry:"1733908813" modified:"1734335015" start:"1734335015" status:"pending" tags:"today" tags_today:"x" uuid:"8dcede7c-85a3-4b09-8863-a41f0d1249ce"]
+new [description:"svar jonas" end:"1734358834" entry:"1733908813" modified:"1734358834" status:"completed" tags:"today" tags_today:"x" uuid:"8dcede7c-85a3-4b09-8863-a41f0d1249ce"]
+---
+time 1734360985
+new [description:"vann til kattene" entry:"1734360985" modified:"1734360985" status:"pending" tags:"today" tags_today:"x" uuid:"50808d21-0bec-42d3-934a-60994dad3395"]
+---
+time 1734360992
+new [description:"rydde i klær oppe" entry:"1734360992" modified:"1734360992" status:"pending" tags:"today" tags_today:"x" uuid:"1f8b38f2-54c3-44a7-8644-9938e04570db"]
+---
+time 1734373700
+new [description:"planlegg ribbe" entry:"1734373700" modified:"1734373700" status:"pending" tags:"today" tags_today:"x" uuid:"df91ef23-71f7-4342-8c6b-a206ff39eb87"]
+---
+time 1734373708
+old [description:"vaskemaskin" entry:"1734335101" modified:"1734335101" status:"pending" tags:"today" tags_today:"x" uuid:"9029eeb7-add7-40da-a6c2-cc3a6ed37f75"]
+new [description:"vaskemaskin" end:"1734373708" entry:"1734335101" modified:"1734373708" status:"completed" tags:"today" tags_today:"x" uuid:"9029eeb7-add7-40da-a6c2-cc3a6ed37f75"]
+---
+time 1734373714
+old [description:"rydde klær" entry:"1734335071" modified:"1734335071" status:"pending" tags:"today" tags_today:"x" uuid:"dd113420-247f-47be-8f6f-8fd43219febf"]
+new [description:"rydde klær" end:"1734373714" entry:"1734335071" modified:"1734373714" status:"completed" tags:"today" tags_today:"x" uuid:"dd113420-247f-47be-8f6f-8fd43219febf"]
+---
+time 1734381096
+old [description:"bursdagsmelding Helene" entry:"1734358642" modified:"1734358830" priority:"H" status:"pending" tags:"today" tags_today:"x" uuid:"b3325966-a045-4ce7-906d-dc5423688ba2"]
+new [description:"bursdagsmelding Helene" end:"1734381096" entry:"1734358642" modified:"1734381096" priority:"H" status:"completed" tags:"today" tags_today:"x" uuid:"b3325966-a045-4ce7-906d-dc5423688ba2"]
+---
+time 1734420101
+new [description:"finn babydan" entry:"1734420101" modified:"1734420101" status:"pending" tags:"today" tags_today:"x" uuid:"892e641e-2c08-49e1-8326-5db3e5a31c52"]
+---
+time 1734420117
+new [description:"finn sovepose" entry:"1734420117" modified:"1734420117" status:"pending" tags:"today" tags_today:"x" uuid:"408b885a-9780-4b76-a81a-ad797c3824fe"]
+---
+time 1734428393
+new [description:"fyll på med vann til i morgen" due:"1734476400" entry:"1734428393" modified:"1734428393" status:"pending" tags:"today" tags_today:"x" uuid:"6ffee2e0-41eb-4f6c-a710-f0d1855e5924"]
+---
+time 1734509360
+old [description:"fyll på med vann til i morgen" due:"1734476400" entry:"1734428393" modified:"1734428393" status:"pending" tags:"today" tags_today:"x" uuid:"6ffee2e0-41eb-4f6c-a710-f0d1855e5924"]
+new [description:"fyll på med vann til i morgen" due:"1734476400" end:"1734509360" entry:"1734428393" modified:"1734509360" status:"completed" tags:"today" tags_today:"x" uuid:"6ffee2e0-41eb-4f6c-a710-f0d1855e5924"]
+---
+time 1734509374
+old [description:"vann til kattene" entry:"1734360985" modified:"1734360985" status:"pending" tags:"today" tags_today:"x" uuid:"50808d21-0bec-42d3-934a-60994dad3395"]
+new [description:"vann til kattene" end:"1734509374" entry:"1734360985" modified:"1734509374" status:"completed" tags:"today" tags_today:"x" uuid:"50808d21-0bec-42d3-934a-60994dad3395"]
+---
+time 1734509384
+new [description:"mat og vann til katter" entry:"1734509384" modified:"1734509384" status:"pending" tags:"today" tags_today:"x" uuid:"2f5839d5-e32a-4a3f-8cd3-a0e6a58311c8"]
+---
+time 1734509401
+new [description:"frokost" entry:"1734509401" modified:"1734509401" status:"pending" tags:"today" tags_today:"x" uuid:"8e1dcdcd-5e72-4137-8584-c7bb0c442c2e"]
+---
+time 1734509402
+old [description:"frokost" entry:"1734509401" modified:"1734509401" status:"pending" tags:"today" tags_today:"x" uuid:"8e1dcdcd-5e72-4137-8584-c7bb0c442c2e"]
+new [description:"frokost" entry:"1734509401" modified:"1734509402" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"8e1dcdcd-5e72-4137-8584-c7bb0c442c2e"]
+---
+time 1734509413
+new [description:"finn opptaker" entry:"1734509413" modified:"1734509413" status:"pending" tags:"today" tags_today:"x" uuid:"9b911af8-421d-4c20-a698-3711160e3ab4"]
+---
+time 1734509425
+old [description:"finn stereoidekrem" entry:"1733852522" modified:"1733852522" status:"pending" tags:"today" tags_today:"x" uuid:"d26d86f4-ad1e-4bba-a391-43a13fd50ed9"]
+new [description:"finn stereoidekrem" entry:"1733852522" modified:"1734509425" status:"pending" tags:"week" tags_week:"x" uuid:"d26d86f4-ad1e-4bba-a391-43a13fd50ed9"]
+---
+time 1734509460
+old [description:"selg frakk" entry:"1732567640" modified:"1733728980" status:"pending" tags:"week" tags_week:"x" uuid:"a900da76-7cea-480a-87e5-eb627fb46a15"]
+new [description:"selg frakk" entry:"1732567640" modified:"1734509460" status:"pending" tags:"month" tags_month:"x" uuid:"a900da76-7cea-480a-87e5-eb627fb46a15"]
+---
+time 1734509466
+old [description:"fjern nupper fra gensere" entry:"1732694943" modified:"1732694981" status:"pending" tags:"week" tags_week:"x" uuid:"542d1d02-7102-4ae3-bd4d-42503e65b1a4"]
+new [description:"fjern nupper fra gensere" end:"1734509466" entry:"1732694943" modified:"1734509466" status:"completed" tags:"week" tags_week:"x" uuid:"542d1d02-7102-4ae3-bd4d-42503e65b1a4"]
+---
+time 1734509479
+old [description:"ta ioo tråden med blikkenslager" entry:"1732743009" modified:"1732743009" status:"pending" tags:"week" tags_week:"x" uuid:"293c783f-8a7f-4156-b042-9392946a0092"]
+new [description:"ta opp tråden med blikkenslager" entry:"1732743009" modified:"1734509479" status:"pending" tags:"week" tags_week:"x" uuid:"293c783f-8a7f-4156-b042-9392946a0092"]
+---
+time 1734509487
+old [description:"ta opp tråden med blikkenslager" entry:"1732743009" modified:"1734509479" status:"pending" tags:"week" tags_week:"x" uuid:"293c783f-8a7f-4156-b042-9392946a0092"]
+new [description:"ta opp tråden med blikkenslager" entry:"1732743009" modified:"1734509487" status:"pending" tags:"month" tags_month:"x" uuid:"293c783f-8a7f-4156-b042-9392946a0092"]
+---
+time 1734509507
+old [description:"rense projektor" entry:"1731865764" modified:"1731865797" status:"pending" tags:"month" tags_month:"x" uuid:"2f40b1bf-7a97-4826-b2af-d423b1b521a8"]
+new [description:"rense projektor" end:"1734509507" entry:"1731865764" modified:"1734509507" status:"completed" tags:"month" tags_month:"x" uuid:"2f40b1bf-7a97-4826-b2af-d423b1b521a8"]
+---
+time 1734510022
+new [description:"svar Ruben" entry:"1734510022" modified:"1734510022" status:"pending" tags:"today" tags_today:"x" uuid:"af19f1ec-d412-4eac-9e9f-88ba777203ca"]
+---
+time 1734510026
+new [description:"svar Jonas" entry:"1734510026" modified:"1734510026" status:"pending" tags:"today" tags_today:"x" uuid:"e39845df-514f-44f3-a452-0d2d97f5494e"]
+---
+time 1734510320
+new [description:"planlegg resterende julegaver" entry:"1734510320" modified:"1734510320" status:"pending" tags:"today" tags_today:"x" uuid:"3b5bc86f-0267-46a9-bccf-2f57d54535a3"]
+---
+time 1734510584
+new [description:"tåteflasker til vask" entry:"1734510584" modified:"1734510584" status:"pending" tags:"today" tags_today:"x" uuid:"d140bfaa-4fa8-4fb4-87c4-9ccd1559b120"]
+---
+time 1734510586
+old [description:"tåteflasker til vask" entry:"1734510584" modified:"1734510584" status:"pending" tags:"today" tags_today:"x" uuid:"d140bfaa-4fa8-4fb4-87c4-9ccd1559b120"]
+new [description:"tåteflasker til vask" entry:"1734510584" modified:"1734510586" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"d140bfaa-4fa8-4fb4-87c4-9ccd1559b120"]
+---
+time 1734515823
+new [description:"squash i romjula?" entry:"1734515823" modified:"1734515823" status:"pending" tags:"today" tags_today:"x" uuid:"f248cb45-dc47-43d2-8f28-51a0adc15e07"]
+---
+time 1734515907
+new [description:"klippe negler" entry:"1734515907" modified:"1734515907" status:"pending" tags:"today" tags_today:"x" uuid:"4434a252-32d4-4b2c-89f7-88e8cf0ac4db"]
+---
+time 1734515954
+new [description:"faktura til jonas" entry:"1734515954" modified:"1734515954" priority:"H" status:"pending" tags:"today" tags_today:"x" uuid:"5671ba1c-aa6d-4c08-a3fb-80c7672ddb23"]
+---
+time 1734515958
+old [description:"frokost" entry:"1734509401" modified:"1734509402" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"8e1dcdcd-5e72-4137-8584-c7bb0c442c2e"]
+new [description:"frokost" end:"1734515958" entry:"1734509401" modified:"1734515958" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"8e1dcdcd-5e72-4137-8584-c7bb0c442c2e"]
+---
+time 1734516054
+new [description:"heng opp ull" entry:"1734516054" modified:"1734516054" priority:"H" status:"pending" tags:"today" tags_today:"x" uuid:"a9ee2a1c-7cfc-4ce7-9260-5dcaeeab6ce8"]
+---
+time 1734522621
+old [description:"faktura til jonas" entry:"1734515954" modified:"1734515954" priority:"H" status:"pending" tags:"today" tags_today:"x" uuid:"5671ba1c-aa6d-4c08-a3fb-80c7672ddb23"]
+new [description:"faktura til jonas" end:"1734522621" entry:"1734515954" modified:"1734522621" priority:"H" status:"completed" tags:"today" tags_today:"x" uuid:"5671ba1c-aa6d-4c08-a3fb-80c7672ddb23"]
+---
+time 1734522623
+old [description:"heng opp ull" entry:"1734516054" modified:"1734516054" priority:"H" status:"pending" tags:"today" tags_today:"x" uuid:"a9ee2a1c-7cfc-4ce7-9260-5dcaeeab6ce8"]
+new [description:"heng opp ull" end:"1734522623" entry:"1734516054" modified:"1734522623" priority:"H" status:"completed" tags:"today" tags_today:"x" uuid:"a9ee2a1c-7cfc-4ce7-9260-5dcaeeab6ce8"]
+---
+time 1734522644
+old [description:"mat og vann til katter" entry:"1734509384" modified:"1734509384" status:"pending" tags:"today" tags_today:"x" uuid:"2f5839d5-e32a-4a3f-8cd3-a0e6a58311c8"]
+new [description:"mat og vann til katter" end:"1734522644" entry:"1734509384" modified:"1734522644" status:"completed" tags:"today" tags_today:"x" uuid:"2f5839d5-e32a-4a3f-8cd3-a0e6a58311c8"]
+---
+time 1734522646
+old [description:"finn opptaker" entry:"1734509413" modified:"1734509413" status:"pending" tags:"today" tags_today:"x" uuid:"9b911af8-421d-4c20-a698-3711160e3ab4"]
+new [description:"finn opptaker" end:"1734522646" entry:"1734509413" modified:"1734522646" status:"completed" tags:"today" tags_today:"x" uuid:"9b911af8-421d-4c20-a698-3711160e3ab4"]
+---
+time 1734522886
+old [description:"squash i romjula?" entry:"1734515823" modified:"1734515823" status:"pending" tags:"today" tags_today:"x" uuid:"f248cb45-dc47-43d2-8f28-51a0adc15e07"]
+new [description:"squash i romjula?" end:"1734522886" entry:"1734515823" modified:"1734522886" status:"completed" tags:"today" tags_today:"x" uuid:"f248cb45-dc47-43d2-8f28-51a0adc15e07"]
+---
+time 1734537456
+new [description:"dokumentasjon fra Matilda" entry:"1734537456" modified:"1734537456" priority:"H" status:"pending" tags:"today" tags_today:"x" uuid:"152b00de-19c9-4dd9-8e0a-50dd71dfd34a"]
+---
+time 1734684323
+old [description:"tåteflasker til vask" entry:"1734510584" modified:"1734510586" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"d140bfaa-4fa8-4fb4-87c4-9ccd1559b120"]
+new [description:"tåteflasker til vask" end:"1734684323" entry:"1734510584" modified:"1734684323" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"d140bfaa-4fa8-4fb4-87c4-9ccd1559b120"]
+---
+time 1734684380
+old [description:"finn sovepose" entry:"1734420117" modified:"1734420117" status:"pending" tags:"today" tags_today:"x" uuid:"408b885a-9780-4b76-a81a-ad797c3824fe"]
+new [description:"finn sovepose" end:"1734684380" entry:"1734420117" modified:"1734684380" status:"deleted" tags:"today" tags_today:"x" uuid:"408b885a-9780-4b76-a81a-ad797c3824fe"]
+---
+time 1734778505
+old [description:"svar Jonas" entry:"1734510026" modified:"1734510026" status:"pending" tags:"today" tags_today:"x" uuid:"e39845df-514f-44f3-a452-0d2d97f5494e"]
+new [description:"svar Jonas" entry:"1734510026" modified:"1734778505" status:"pending" tags:"week" tags_week:"x" uuid:"e39845df-514f-44f3-a452-0d2d97f5494e"]
+---
+time 1734778505
+old [description:"svar Ruben" entry:"1734510022" modified:"1734510022" status:"pending" tags:"today" tags_today:"x" uuid:"af19f1ec-d412-4eac-9e9f-88ba777203ca"]
+new [description:"svar Ruben" entry:"1734510022" modified:"1734778505" status:"pending" tags:"week" tags_week:"x" uuid:"af19f1ec-d412-4eac-9e9f-88ba777203ca"]
+---
+time 1734778505
+old [description:"kontakt dusjdør forhandler" entry:"1734079277" modified:"1734079277" status:"pending" tags:"today" tags_today:"x" uuid:"49dd0fd0-65e8-4252-aa68-943b62c588ca"]
+new [description:"kontakt dusjdør forhandler" entry:"1734079277" modified:"1734778505" status:"pending" tags:"week" tags_week:"x" uuid:"49dd0fd0-65e8-4252-aa68-943b62c588ca"]
+---
+time 1734778505
+old [description:"finn babydan" entry:"1734420101" modified:"1734420101" status:"pending" tags:"today" tags_today:"x" uuid:"892e641e-2c08-49e1-8326-5db3e5a31c52"]
+new [description:"finn babydan" entry:"1734420101" modified:"1734778505" status:"pending" tags:"week" tags_week:"x" uuid:"892e641e-2c08-49e1-8326-5db3e5a31c52"]
+---
+time 1734778505
+old [description:"planlegg ribbe" entry:"1734373700" modified:"1734373700" status:"pending" tags:"today" tags_today:"x" uuid:"df91ef23-71f7-4342-8c6b-a206ff39eb87"]
+new [description:"planlegg ribbe" entry:"1734373700" modified:"1734778505" status:"pending" tags:"week" tags_week:"x" uuid:"df91ef23-71f7-4342-8c6b-a206ff39eb87"]
+---
+time 1734778508
+old [description:"klippe negler" entry:"1734515907" modified:"1734515907" status:"pending" tags:"today" tags_today:"x" uuid:"4434a252-32d4-4b2c-89f7-88e8cf0ac4db"]
+new [description:"klippe negler" end:"1734778508" entry:"1734515907" modified:"1734778508" status:"completed" tags:"today" tags_today:"x" uuid:"4434a252-32d4-4b2c-89f7-88e8cf0ac4db"]
+---
+time 1734778510
+old [description:"planlegg resterende julegaver" entry:"1734510320" modified:"1734510320" status:"pending" tags:"today" tags_today:"x" uuid:"3b5bc86f-0267-46a9-bccf-2f57d54535a3"]
+new [description:"planlegg resterende julegaver" end:"1734778510" entry:"1734510320" modified:"1734778510" status:"completed" tags:"today" tags_today:"x" uuid:"3b5bc86f-0267-46a9-bccf-2f57d54535a3"]
+---
+time 1734778515
+new [description:"støvsuge" entry:"1734778515" modified:"1734778515" status:"pending" tags:"today" tags_today:"x" uuid:"4aa36735-41e1-4e1d-9e9f-f4d26c0de6f1"]
+---
+time 1734778530
+new [description:"ta av klær av tørkestativet" entry:"1734778530" modified:"1734778530" status:"pending" tags:"today" tags_today:"x" uuid:"f0d6594b-8f6f-4b64-84cb-5508b6886352"]
+---
+time 1734778536
+old [description:"støvsuge" entry:"1734778515" modified:"1734778515" status:"pending" tags:"today" tags_today:"x" uuid:"4aa36735-41e1-4e1d-9e9f-f4d26c0de6f1"]
+new [description:"støvsuge" end:"1734778536" entry:"1734778515" modified:"1734778536" status:"deleted" tags:"today" tags_today:"x" uuid:"4aa36735-41e1-4e1d-9e9f-f4d26c0de6f1"]
+---
+time 1734778543
+new [description:"støvsuge stue" entry:"1734778543" modified:"1734778543" status:"pending" tags:"today" tags_today:"x" uuid:"68b8c727-37d4-4ef4-8ef9-de843742c23a"]
+---
+time 1734778551
+new [description:"støvsuge kjøkken" entry:"1734778551" modified:"1734778551" status:"pending" tags:"today" tags_today:"x" uuid:"ee999ea2-64d8-4ffb-8c8d-3e1c880e709a"]
+---
+time 1734778569
+old [description:"dokumentasjon fra Matilda" entry:"1734537456" modified:"1734537456" priority:"H" status:"pending" tags:"today" tags_today:"x" uuid:"152b00de-19c9-4dd9-8e0a-50dd71dfd34a"]
+new [description:"dokumentasjon fra Matilda" entry:"1734537456" modified:"1734778569" priority:"H" status:"pending" tags:"week" tags_week:"x" uuid:"152b00de-19c9-4dd9-8e0a-50dd71dfd34a"]
+---
+time 1734778581
+new [description:"støvsuge trapp" entry:"1734778581" modified:"1734778581" status:"pending" tags:"today" tags_today:"x" uuid:"83ef340d-e050-4a95-b90b-dd44a94944cf"]
+---
+time 1734778590
+new [description:"sette på vask" entry:"1734778590" modified:"1734778590" status:"pending" tags:"today" tags_today:"x" uuid:"94facbaf-60cc-4f5c-b39c-350e19b54f69"]
+---
+time 1734778602
+new [description:"støvtørking nede" entry:"1734778602" modified:"1734778602" status:"pending" tags:"today" tags_today:"x" uuid:"2beb6df8-2382-4ea4-953d-a4653366908e"]
+---
+time 1734778604
+old [description:"støvtørking nede" entry:"1734778602" modified:"1734778602" status:"pending" tags:"today" tags_today:"x" uuid:"2beb6df8-2382-4ea4-953d-a4653366908e"]
+new [description:"støvtørking nede" entry:"1734778602" modified:"1734778604" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"2beb6df8-2382-4ea4-953d-a4653366908e"]
+---
+time 1734778613
+old [description:"støvsuge stue" entry:"1734778543" modified:"1734778543" status:"pending" tags:"today" tags_today:"x" uuid:"68b8c727-37d4-4ef4-8ef9-de843742c23a"]
+new [description:"støvsuge stue" entry:"1734778543" modified:"1734778613" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"68b8c727-37d4-4ef4-8ef9-de843742c23a"]
+---
+time 1734778615
+old [description:"støvsuge kjøkken" entry:"1734778551" modified:"1734778551" status:"pending" tags:"today" tags_today:"x" uuid:"ee999ea2-64d8-4ffb-8c8d-3e1c880e709a"]
+new [description:"støvsuge kjøkken" entry:"1734778551" modified:"1734778615" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"ee999ea2-64d8-4ffb-8c8d-3e1c880e709a"]
+---
+time 1734778926
+new [description:"mld fam om jul" entry:"1734778926" modified:"1734778926" status:"pending" tags:"today" tags_today:"x" uuid:"c091fda2-bbbd-436c-b682-ec20d1c71016"]
+---
+time 1735498464
+old [description:"støvsuge stue" entry:"1734778543" modified:"1734778613" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"68b8c727-37d4-4ef4-8ef9-de843742c23a"]
+new [description:"støvsuge stue" end:"1735498464" entry:"1734778543" modified:"1735498464" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"68b8c727-37d4-4ef4-8ef9-de843742c23a"]
+---
+time 1735498465
+old [description:"støvsuge kjøkken" entry:"1734778551" modified:"1734778615" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"ee999ea2-64d8-4ffb-8c8d-3e1c880e709a"]
+new [description:"støvsuge kjøkken" end:"1735498465" entry:"1734778551" modified:"1735498465" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"ee999ea2-64d8-4ffb-8c8d-3e1c880e709a"]
+---
+time 1735498466
+old [description:"støvtørking nede" entry:"1734778602" modified:"1734778604" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"2beb6df8-2382-4ea4-953d-a4653366908e"]
+new [description:"støvtørking nede" end:"1735498466" entry:"1734778602" modified:"1735498466" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"2beb6df8-2382-4ea4-953d-a4653366908e"]
+---
+time 1735498467
+old [description:"rydde i klær oppe" entry:"1734360992" modified:"1734360992" status:"pending" tags:"today" tags_today:"x" uuid:"1f8b38f2-54c3-44a7-8644-9938e04570db"]
+new [description:"rydde i klær oppe" end:"1735498467" entry:"1734360992" modified:"1735498467" status:"completed" tags:"today" tags_today:"x" uuid:"1f8b38f2-54c3-44a7-8644-9938e04570db"]
+---
+time 1735498468
+old [description:"ta av klær av tørkestativet" entry:"1734778530" modified:"1734778530" status:"pending" tags:"today" tags_today:"x" uuid:"f0d6594b-8f6f-4b64-84cb-5508b6886352"]
+new [description:"ta av klær av tørkestativet" end:"1735498468" entry:"1734778530" modified:"1735498468" status:"completed" tags:"today" tags_today:"x" uuid:"f0d6594b-8f6f-4b64-84cb-5508b6886352"]
+---
+time 1735498469
+old [description:"støvsuge trapp" entry:"1734778581" modified:"1734778581" status:"pending" tags:"today" tags_today:"x" uuid:"83ef340d-e050-4a95-b90b-dd44a94944cf"]
+new [description:"støvsuge trapp" end:"1735498469" entry:"1734778581" modified:"1735498469" status:"completed" tags:"today" tags_today:"x" uuid:"83ef340d-e050-4a95-b90b-dd44a94944cf"]
+---
+time 1735498470
+old [description:"sette på vask" entry:"1734778590" modified:"1734778590" status:"pending" tags:"today" tags_today:"x" uuid:"94facbaf-60cc-4f5c-b39c-350e19b54f69"]
+new [description:"sette på vask" end:"1735498470" entry:"1734778590" modified:"1735498470" status:"completed" tags:"today" tags_today:"x" uuid:"94facbaf-60cc-4f5c-b39c-350e19b54f69"]
+---
+time 1735498471
+old [description:"mld fam om jul" entry:"1734778926" modified:"1734778926" status:"pending" tags:"today" tags_today:"x" uuid:"c091fda2-bbbd-436c-b682-ec20d1c71016"]
+new [description:"mld fam om jul" end:"1735498471" entry:"1734778926" modified:"1735498471" status:"completed" tags:"today" tags_today:"x" uuid:"c091fda2-bbbd-436c-b682-ec20d1c71016"]
+---
+time 1735498483
+new [description:"aktørportalen" entry:"1735498483" modified:"1735498483" priority:"H" status:"pending" tags:"today" tags_today:"x" uuid:"a71401f8-65c9-4bc5-8e58-7daec144aa91"]
+---
+time 1735498553
+new [description:"gjensidige" entry:"1735498553" modified:"1735498553" status:"pending" tags:"today" tags_today:"x" uuid:"cb9e8c76-dc76-4045-86dd-e926024168d3"]
+---
+time 1735498567
+new [description:"last ned fra audible" entry:"1735498567" modified:"1735498567" status:"pending" tags:"today" tags_today:"x" uuid:"775c61b3-ad2a-462b-9699-972c5209748d"]
+---
+time 1735550222
+new [description:"fiks timer" entry:"1735550222" modified:"1735550222" status:"pending" tags:"today" tags_today:"x" uuid:"0a1a799d-8f4b-4b26-af0c-bc074d703f1e"]
+---
+time 1735550243
+old [description:"last ned fra audible" entry:"1735498567" modified:"1735498567" status:"pending" tags:"today" tags_today:"x" uuid:"775c61b3-ad2a-462b-9699-972c5209748d"]
+new [description:"last ned fra audible" end:"1735550243" entry:"1735498567" modified:"1735550243" status:"deleted" tags:"today" tags_today:"x" uuid:"775c61b3-ad2a-462b-9699-972c5209748d"]
+---
+time 1735551320
+new [description:"fiks vifte" entry:"1735551320" modified:"1735551320" status:"pending" tags:"today" tags_today:"x" uuid:"169daf6a-c353-42f5-97c7-50999e5532b6"]
+---
+time 1735665087
+new [description:"oppdater jonas" entry:"1735665087" modified:"1735665087" status:"pending" tags:"today" tags_today:"x" uuid:"2f7f0224-8eb5-476e-8ba5-6a001cb8b25e"]
+---
+time 1735665090
+old [description:"fiks vifte" entry:"1735551320" modified:"1735551320" status:"pending" tags:"today" tags_today:"x" uuid:"169daf6a-c353-42f5-97c7-50999e5532b6"]
+new [description:"fiks vifte" end:"1735665090" entry:"1735551320" modified:"1735665090" status:"completed" tags:"today" tags_today:"x" uuid:"169daf6a-c353-42f5-97c7-50999e5532b6"]
+---
+time 1735665093
+old [description:"fiks timer" entry:"1735550222" modified:"1735550222" status:"pending" tags:"today" tags_today:"x" uuid:"0a1a799d-8f4b-4b26-af0c-bc074d703f1e"]
+new [description:"fiks timer" end:"1735665093" entry:"1735550222" modified:"1735665093" status:"completed" tags:"today" tags_today:"x" uuid:"0a1a799d-8f4b-4b26-af0c-bc074d703f1e"]
+---
+time 1735666641
+old [description:"aktørportalen" entry:"1735498483" modified:"1735498483" priority:"H" status:"pending" tags:"today" tags_today:"x" uuid:"a71401f8-65c9-4bc5-8e58-7daec144aa91"]
+new [description:"aktørportalen" end:"1735666641" entry:"1735498483" modified:"1735666641" priority:"H" status:"completed" tags:"today" tags_today:"x" uuid:"a71401f8-65c9-4bc5-8e58-7daec144aa91"]
+---
+time 1735666643
+old [description:"oppdater jonas" entry:"1735665087" modified:"1735665087" status:"pending" tags:"today" tags_today:"x" uuid:"2f7f0224-8eb5-476e-8ba5-6a001cb8b25e"]
+new [description:"oppdater jonas" end:"1735666643" entry:"1735665087" modified:"1735666643" status:"completed" tags:"today" tags_today:"x" uuid:"2f7f0224-8eb5-476e-8ba5-6a001cb8b25e"]
+---
+time 1735669682
+new [description:"fiks grind i gang" entry:"1735669682" modified:"1735669682" status:"pending" tags:"today" tags_today:"x" uuid:"49ab8b00-79fa-4a36-b7dd-38550f088242"]
+---
+time 1735669687
+new [description:"fiks grind i trapp" entry:"1735669687" modified:"1735669687" status:"pending" tags:"today" tags_today:"x" uuid:"f69ceac9-9b33-49b1-b280-61def932aeea"]
+---
+time 1735672344
+new [description:"frys hummus" entry:"1735672344" modified:"1735672344" status:"pending" tags:"today" tags_today:"x" uuid:"6eecb08b-88dc-4917-890d-73ab86b21bf9"]
+---
+time 1735802980
+old [description:"frys hummus" entry:"1735672344" modified:"1735672344" status:"pending" tags:"today" tags_today:"x" uuid:"6eecb08b-88dc-4917-890d-73ab86b21bf9"]
+new [description:"frys hummus" end:"1735802980" entry:"1735672344" modified:"1735802980" status:"completed" tags:"today" tags_today:"x" uuid:"6eecb08b-88dc-4917-890d-73ab86b21bf9"]
+---
+time 1735802988
+new [description:"lag melk" entry:"1735802988" modified:"1735802988" status:"pending" tags:"today" tags_today:"x" uuid:"d47616e9-f69a-4d12-abcb-a7f93b71da65"]
+---
+time 1735803249
+new [description:"mat til Hilma" entry:"1735803249" modified:"1735803249" status:"pending" tags:"today" tags_today:"x" uuid:"e414097b-5c3c-411d-97f3-ca73a592dd97"]
+---
+time 1735803856
+new [description:"ta ut av vaskemaskin" entry:"1735803856" modified:"1735803856" status:"pending" tags:"today" tags_today:"x" uuid:"9c9f9fca-60f4-4e98-bab2-da1cccfdee93"]
+---
+time 1735824108
+old [description:"gjensidige" entry:"1735498553" modified:"1735498553" status:"pending" tags:"today" tags_today:"x" uuid:"cb9e8c76-dc76-4045-86dd-e926024168d3"]
+new [description:"gjensidige" end:"1735824108" entry:"1735498553" modified:"1735824108" status:"completed" tags:"today" tags_today:"x" uuid:"cb9e8c76-dc76-4045-86dd-e926024168d3"]
+---
+time 1735824117
+old [description:"betal bot" entry:"1733324304" modified:"1733325478" priority:"H" status:"pending" tags:"week" tags_week:"x" uuid:"af49dd9c-b488-48ea-9e33-d2a863516aed"]
+new [description:"betal bot" end:"1735824117" entry:"1733324304" modified:"1735824117" priority:"H" status:"completed" tags:"week" tags_week:"x" uuid:"af49dd9c-b488-48ea-9e33-d2a863516aed"]
+---
+time 1735824123
+old [description:"lag melk" entry:"1735802988" modified:"1735802988" status:"pending" tags:"today" tags_today:"x" uuid:"d47616e9-f69a-4d12-abcb-a7f93b71da65"]
+new [description:"lag melk" end:"1735824123" entry:"1735802988" modified:"1735824123" status:"completed" tags:"today" tags_today:"x" uuid:"d47616e9-f69a-4d12-abcb-a7f93b71da65"]
+---
+time 1735824124
+old [description:"mat til Hilma" entry:"1735803249" modified:"1735803249" status:"pending" tags:"today" tags_today:"x" uuid:"e414097b-5c3c-411d-97f3-ca73a592dd97"]
+new [description:"mat til Hilma" end:"1735824124" entry:"1735803249" modified:"1735824124" status:"completed" tags:"today" tags_today:"x" uuid:"e414097b-5c3c-411d-97f3-ca73a592dd97"]
+---
+time 1735824126
+old [description:"ta ut av vaskemaskin" entry:"1735803856" modified:"1735803856" status:"pending" tags:"today" tags_today:"x" uuid:"9c9f9fca-60f4-4e98-bab2-da1cccfdee93"]
+new [description:"ta ut av vaskemaskin" end:"1735824126" entry:"1735803856" modified:"1735824126" status:"deleted" tags:"today" tags_today:"x" uuid:"9c9f9fca-60f4-4e98-bab2-da1cccfdee93"]
+---
+time 1735824144
+old [description:"planlegg ribbe" entry:"1734373700" modified:"1734778505" status:"pending" tags:"week" tags_week:"x" uuid:"df91ef23-71f7-4342-8c6b-a206ff39eb87"]
+new [description:"planlegg ribbe" end:"1735824144" entry:"1734373700" modified:"1735824144" status:"completed" tags:"week" tags_week:"x" uuid:"df91ef23-71f7-4342-8c6b-a206ff39eb87"]
+---
+time 1735824153
+old [description:"svar Ruben" entry:"1734510022" modified:"1734778505" status:"pending" tags:"week" tags_week:"x" uuid:"af19f1ec-d412-4eac-9e9f-88ba777203ca"]
+new [description:"svar Ruben" end:"1735824153" entry:"1734510022" modified:"1735824153" status:"deleted" tags:"week" tags_week:"x" uuid:"af19f1ec-d412-4eac-9e9f-88ba777203ca"]
+---
+time 1735824168
+new [description:"Sjekk gjernsidige sak" entry:"1735824168" modified:"1735824168" status:"pending" tags:"week" tags_week:"x" uuid:"92cc9cc8-f8db-495f-8815-dc2885a1bab0"]
+---
+time 1736151199
+new [description:"lade babycall" entry:"1736151199" modified:"1736151199" status:"pending" tags:"today" tags_today:"x" uuid:"c55460ea-e5be-463a-b16b-20d863b1d46f"]
+---
+time 1736151209
+new [description:"fiks persienne" entry:"1736151209" modified:"1736151209" status:"pending" tags:"today" tags_today:"x" uuid:"02ffca10-77d3-444e-a0dd-dec4556359bd"]
+---
+time 1736151220
+old [description:"fiks grind i trapp" entry:"1735669687" modified:"1735669687" status:"pending" tags:"today" tags_today:"x" uuid:"f69ceac9-9b33-49b1-b280-61def932aeea"]
+new [description:"fiks grind i trapp" entry:"1735669687" modified:"1736151220" status:"pending" tags:"week" tags_week:"x" uuid:"f69ceac9-9b33-49b1-b280-61def932aeea"]
+---
+time 1736151234
+old [description:"fiks grind i gang" entry:"1735669682" modified:"1735669682" status:"pending" tags:"today" tags_today:"x" uuid:"49ab8b00-79fa-4a36-b7dd-38550f088242"]
+new [description:"fiks grind i gang" entry:"1735669682" modified:"1736151234" status:"pending" tags:"week" tags_week:"x" uuid:"49ab8b00-79fa-4a36-b7dd-38550f088242"]
+---
+time 1736154620
+new [description:"rydd ut av bag" entry:"1736154620" modified:"1736154620" status:"pending" tags:"today" tags_today:"x" uuid:"51d217cf-a002-41f7-a74f-5962af7184e3"]
+---
+time 1736154903
+new [description:"handle på butikken" entry:"1736154903" modified:"1736154903" status:"pending" tags:"today" tags_today:"x" uuid:"40fb03db-27eb-47c7-96d1-054362c4f0ad"]
+---
+time 1736155789
+new [description:"fiks puttekasse" entry:"1736155789" modified:"1736155789" status:"pending" tags:"today" tags_today:"x" uuid:"67fa9bb4-e718-49a9-b81e-a4f9792ef41b"]
+---
