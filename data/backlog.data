@@ -19,3 +19,4 @@
 {"description":"test","end":"20250106T190851Z","entry":"20250106T190844Z","modified":"20250106T190851Z","status":"deleted","uuid":"012ea411-efc5-4d60-aa88-8cd68304ce5e","tags":["today"]}
 {"description":"zero test","entry":"20250106T192112Z","modified":"20250106T192112Z","status":"pending","uuid":"a1d87662-b497-4e02-93db-0ea2db94149e","tags":["today"]}
 {"description":"zero test","entry":"20250107T074939Z","modified":"20250107T074939Z","status":"pending","uuid":"2ba2fa52-57d3-4519-a719-b299f9cd8752","tags":["today"]}
+{"description":"mac test","entry":"20250107T075443Z","modified":"20250107T075443Z","status":"pending","uuid":"9a1dba30-2914-43c8-bc68-2230f10e1264","tags":["today"]}

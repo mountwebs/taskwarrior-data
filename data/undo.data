@@ -2139,3 +2139,6 @@ new [description:"zero test" entry:"1736191272" modified:"1736191272" status:"pe
 time 1736236179
 new [description:"zero test" entry:"1736236179" modified:"1736236179" status:"pending" tags:"today" tags_today:"x" uuid:"2ba2fa52-57d3-4519-a719-b299f9cd8752"]
 ---
+time 1736236483
+new [description:"mac test" entry:"1736236483" modified:"1736236483" status:"pending" tags:"today" tags_today:"x" uuid:"9a1dba30-2914-43c8-bc68-2230f10e1264"]
+---
