@@ -2169,3 +2169,7 @@ time 1736261464
 old [description:"lade babycall" entry:"1736151199" modified:"1736151199" status:"pending" tags:"today" tags_today:"x" uuid:"c55460ea-e5be-463a-b16b-20d863b1d46f"]
 new [description:"lade babycall" end:"1736261464" entry:"1736151199" modified:"1736261464" status:"completed" tags:"today" tags_today:"x" uuid:"c55460ea-e5be-463a-b16b-20d863b1d46f"]
 ---
+time 1736277136
+old [description:"rydd ut av bag" entry:"1736154620" modified:"1736154620" status:"pending" tags:"today" tags_today:"x" uuid:"51d217cf-a002-41f7-a74f-5962af7184e3"]
+new [description:"rydd ut av bag" end:"1736277136" entry:"1736154620" modified:"1736277136" status:"completed" tags:"today" tags_today:"x" uuid:"51d217cf-a002-41f7-a74f-5962af7184e3"]
+---
