@@ -2142,3 +2142,15 @@ new [description:"zero test" entry:"1736236179" modified:"1736236179" status:"pe
 time 1736236483
 new [description:"mac test" entry:"1736236483" modified:"1736236483" status:"pending" tags:"today" tags_today:"x" uuid:"9a1dba30-2914-43c8-bc68-2230f10e1264"]
 ---
+time 1736242273
+old [description:"zero test" entry:"1736191272" modified:"1736191272" status:"pending" tags:"today" tags_today:"x" uuid:"a1d87662-b497-4e02-93db-0ea2db94149e"]
+new [description:"zero test" end:"1736242273" entry:"1736191272" modified:"1736242273" status:"deleted" tags:"today" tags_today:"x" uuid:"a1d87662-b497-4e02-93db-0ea2db94149e"]
+---
+time 1736242273
+old [description:"zero test" entry:"1736236179" modified:"1736236179" status:"pending" tags:"today" tags_today:"x" uuid:"2ba2fa52-57d3-4519-a719-b299f9cd8752"]
+new [description:"zero test" end:"1736242273" entry:"1736236179" modified:"1736242273" status:"deleted" tags:"today" tags_today:"x" uuid:"2ba2fa52-57d3-4519-a719-b299f9cd8752"]
+---
+time 1736242273
+old [description:"mac test" entry:"1736236483" modified:"1736236483" status:"pending" tags:"today" tags_today:"x" uuid:"9a1dba30-2914-43c8-bc68-2230f10e1264"]
+new [description:"mac test" end:"1736242273" entry:"1736236483" modified:"1736242273" status:"deleted" tags:"today" tags_today:"x" uuid:"9a1dba30-2914-43c8-bc68-2230f10e1264"]
+---
