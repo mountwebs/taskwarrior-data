@@ -2136,3 +2136,6 @@ new [description:"test" end:"1736190531" entry:"1736190524" modified:"1736190531
 time 1736191272
 new [description:"zero test" entry:"1736191272" modified:"1736191272" status:"pending" tags:"today" tags_today:"x" uuid:"a1d87662-b497-4e02-93db-0ea2db94149e"]
 ---
+time 1736236179
+new [description:"zero test" entry:"1736236179" modified:"1736236179" status:"pending" tags:"today" tags_today:"x" uuid:"2ba2fa52-57d3-4519-a719-b299f9cd8752"]
+---
