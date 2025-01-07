@@ -2154,3 +2154,6 @@ time 1736242273
 old [description:"mac test" entry:"1736236483" modified:"1736236483" status:"pending" tags:"today" tags_today:"x" uuid:"9a1dba30-2914-43c8-bc68-2230f10e1264"]
 new [description:"mac test" end:"1736242273" entry:"1736236483" modified:"1736242273" status:"deleted" tags:"today" tags_today:"x" uuid:"9a1dba30-2914-43c8-bc68-2230f10e1264"]
 ---
+time 1736242317
+new [description:"send dokumentasjon til nav" entry:"1736242317" modified:"1736242317" priority:"H" status:"pending" tags:"today" tags_today:"x" uuid:"f3324cd6-70fa-4088-bfe8-92a392cdb693"]
+---
