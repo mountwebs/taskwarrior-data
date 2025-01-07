@@ -2161,3 +2161,7 @@ time 1736261447
 old [description:"handle på butikken" entry:"1736154903" modified:"1736154903" status:"pending" tags:"today" tags_today:"x" uuid:"40fb03db-27eb-47c7-96d1-054362c4f0ad"]
 new [description:"handle på butikken" end:"1736261447" entry:"1736154903" modified:"1736261447" status:"deleted" tags:"today" tags_today:"x" uuid:"40fb03db-27eb-47c7-96d1-054362c4f0ad"]
 ---
+time 1736261460
+old [description:"send dokumentasjon til nav" entry:"1736242317" modified:"1736242317" priority:"H" status:"pending" tags:"today" tags_today:"x" uuid:"f3324cd6-70fa-4088-bfe8-92a392cdb693"]
+new [description:"send dokumentasjon til nav" end:"1736261460" entry:"1736242317" modified:"1736261460" priority:"H" status:"completed" tags:"today" tags_today:"x" uuid:"f3324cd6-70fa-4088-bfe8-92a392cdb693"]
+---

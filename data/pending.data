@@ -16,4 +16,4 @@
 [description:"fiks persienne" entry:"1736151209" modified:"1736151209" status:"pending" tags:"today" tags_today:"x" uuid:"02ffca10-77d3-444e-a0dd-dec4556359bd"]
 [description:"rydd ut av bag" entry:"1736154620" modified:"1736154620" status:"pending" tags:"today" tags_today:"x" uuid:"51d217cf-a002-41f7-a74f-5962af7184e3"]
 [description:"fiks puttekasse" entry:"1736155789" modified:"1736155789" status:"pending" tags:"today" tags_today:"x" uuid:"67fa9bb4-e718-49a9-b81e-a4f9792ef41b"]
-[description:"send dokumentasjon til nav" entry:"1736242317" modified:"1736242317" priority:"H" status:"pending" tags:"today" tags_today:"x" uuid:"f3324cd6-70fa-4088-bfe8-92a392cdb693"]
+[description:"send dokumentasjon til nav" end:"1736261460" entry:"1736242317" modified:"1736261460" priority:"H" status:"completed" tags:"today" tags_today:"x" uuid:"f3324cd6-70fa-4088-bfe8-92a392cdb693"]
