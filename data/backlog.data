@@ -33,3 +33,4 @@
 {"description":"rydde kjøkken","entry":"20250108T150346Z","modified":"20250108T150346Z","status":"pending","uuid":"e14f8295-ad41-4486-8f3c-48103fc889c9","tags":["today"]}
 {"description":"rydde kjøkken","entry":"20250108T150346Z","modified":"20250108T150352Z","status":"pending","uuid":"e14f8295-ad41-4486-8f3c-48103fc889c9","tags":["next","today"]}
 {"description":"rydde kjøkken","end":"20250108T163826Z","entry":"20250108T150346Z","modified":"20250108T163826Z","status":"completed","uuid":"e14f8295-ad41-4486-8f3c-48103fc889c9","tags":["next","today"]}
+{"description":"mat katter","end":"20250108T163833Z","entry":"20250108T092302Z","modified":"20250108T163833Z","status":"completed","uuid":"aff0dbc7-5973-4894-a4cf-f85af80d9b29","tags":["today"]}
