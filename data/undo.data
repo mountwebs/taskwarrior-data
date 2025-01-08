@@ -2186,3 +2186,7 @@ time 1736348632
 old [description:"rydde kjøkken" entry:"1736348626" modified:"1736348626" status:"pending" tags:"today" tags_today:"x" uuid:"e14f8295-ad41-4486-8f3c-48103fc889c9"]
 new [description:"rydde kjøkken" entry:"1736348626" modified:"1736348632" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"e14f8295-ad41-4486-8f3c-48103fc889c9"]
 ---
+time 1736354306
+old [description:"rydde kjøkken" entry:"1736348626" modified:"1736348632" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"e14f8295-ad41-4486-8f3c-48103fc889c9"]
+new [description:"rydde kjøkken" end:"1736354306" entry:"1736348626" modified:"1736354306" status:"completed" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"e14f8295-ad41-4486-8f3c-48103fc889c9"]
+---
