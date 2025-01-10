@@ -35,3 +35,4 @@
 {"description":"rydde kjøkken","end":"20250108T163826Z","entry":"20250108T150346Z","modified":"20250108T163826Z","status":"completed","uuid":"e14f8295-ad41-4486-8f3c-48103fc889c9","tags":["next","today"]}
 {"description":"mat katter","end":"20250108T163833Z","entry":"20250108T092302Z","modified":"20250108T163833Z","status":"completed","uuid":"aff0dbc7-5973-4894-a4cf-f85af80d9b29","tags":["today"]}
 {"description":"kattedoer","entry":"20250109T112028Z","modified":"20250109T112028Z","status":"pending","uuid":"f1361b1e-f72c-4c99-aa74-2a2d1b18d655","tags":["today"]}
+{"description":"fiks puttekasse","entry":"20250106T092949Z","modified":"20250110T161812Z","status":"pending","uuid":"67fa9bb4-e718-49a9-b81e-a4f9792ef41b","tags":["week"]}
