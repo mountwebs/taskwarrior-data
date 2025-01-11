@@ -2204,3 +2204,6 @@ new [description:"fiks puttekasse" entry:"1736155789" modified:"1736525892" stat
 time 1736585130
 new [description:"vanne planter" entry:"1736585130" modified:"1736585130" status:"pending" tags:"today" tags_today:"x" uuid:"3c18cb18-1afe-413d-a23e-fd49ec1f1dfe"]
 ---
+time 1736585155
+new [description:"støvsuge stue" entry:"1736585155" modified:"1736585155" status:"pending" tags:"today" tags_today:"x" uuid:"c12cb5d2-abc3-4c74-a13c-a89def49227e"]
+---
