@@ -2210,3 +2210,6 @@ new [description:"støvsuge stue" entry:"1736585155" modified:"1736585155" statu
 time 1736585169
 new [description:"støvsuge kjøkken" entry:"1736585169" modified:"1736585169" status:"pending" tags:"today" tags_today:"x" uuid:"ac846298-247d-4faa-9beb-b9c3d084b939"]
 ---
+time 1736585189
+new [description:"støvsuge trapp" entry:"1736585189" modified:"1736585189" status:"pending" tags:"today" tags_today:"x" uuid:"a29ac65a-02a0-45bf-aeb4-e2e019806434"]
+---
