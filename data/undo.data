@@ -2213,3 +2213,7 @@ new [description:"støvsuge kjøkken" entry:"1736585169" modified:"1736585169" s
 time 1736585189
 new [description:"støvsuge trapp" entry:"1736585189" modified:"1736585189" status:"pending" tags:"today" tags_today:"x" uuid:"a29ac65a-02a0-45bf-aeb4-e2e019806434"]
 ---
+time 1736861791
+old [description:"kattedoer" entry:"1736421628" modified:"1736421628" status:"pending" tags:"today" tags_today:"x" uuid:"f1361b1e-f72c-4c99-aa74-2a2d1b18d655"]
+new [description:"kattedoer" end:"1736861791" entry:"1736421628" modified:"1736861791" status:"deleted" tags:"today" tags_today:"x" uuid:"f1361b1e-f72c-4c99-aa74-2a2d1b18d655"]
+---
