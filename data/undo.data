@@ -2229,3 +2229,6 @@ time 1736861805
 old [description:"støvsuge trapp" entry:"1736585189" modified:"1736585189" status:"pending" tags:"today" tags_today:"x" uuid:"a29ac65a-02a0-45bf-aeb4-e2e019806434"]
 new [description:"støvsuge trapp" end:"1736861805" entry:"1736585189" modified:"1736861805" status:"completed" tags:"today" tags_today:"x" uuid:"a29ac65a-02a0-45bf-aeb4-e2e019806434"]
 ---
+time 1736861816
+new [description:"svar jonas" entry:"1736861816" modified:"1736861816" status:"pending" tags:"today" tags_today:"x" uuid:"2c0cab7e-4618-45b4-8d5b-5726f14db7ac"]
+---
