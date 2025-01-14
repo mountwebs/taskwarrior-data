@@ -41,3 +41,6 @@
 {"description":"støvsuge kjøkken","entry":"20250111T084609Z","modified":"20250111T084609Z","status":"pending","uuid":"ac846298-247d-4faa-9beb-b9c3d084b939","tags":["today"]}
 {"description":"støvsuge trapp","entry":"20250111T084629Z","modified":"20250111T084629Z","status":"pending","uuid":"a29ac65a-02a0-45bf-aeb4-e2e019806434","tags":["today"]}
 {"description":"kattedoer","end":"20250114T133631Z","entry":"20250109T112028Z","modified":"20250114T133631Z","status":"deleted","uuid":"f1361b1e-f72c-4c99-aa74-2a2d1b18d655","tags":["today"]}
+{"description":"støvsuge stue","end":"20250114T133645Z","entry":"20250111T084555Z","modified":"20250114T133645Z","status":"completed","uuid":"c12cb5d2-abc3-4c74-a13c-a89def49227e","tags":["today"]}
+{"description":"støvsuge kjøkken","end":"20250114T133645Z","entry":"20250111T084609Z","modified":"20250114T133645Z","status":"completed","uuid":"ac846298-247d-4faa-9beb-b9c3d084b939","tags":["today"]}
+{"description":"støvsuge trapp","end":"20250114T133645Z","entry":"20250111T084629Z","modified":"20250114T133645Z","status":"completed","uuid":"a29ac65a-02a0-45bf-aeb4-e2e019806434","tags":["today"]}

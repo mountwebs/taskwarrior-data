@@ -2217,3 +2217,15 @@ time 1736861791
 old [description:"kattedoer" entry:"1736421628" modified:"1736421628" status:"pending" tags:"today" tags_today:"x" uuid:"f1361b1e-f72c-4c99-aa74-2a2d1b18d655"]
 new [description:"kattedoer" end:"1736861791" entry:"1736421628" modified:"1736861791" status:"deleted" tags:"today" tags_today:"x" uuid:"f1361b1e-f72c-4c99-aa74-2a2d1b18d655"]
 ---
+time 1736861805
+old [description:"støvsuge stue" entry:"1736585155" modified:"1736585155" status:"pending" tags:"today" tags_today:"x" uuid:"c12cb5d2-abc3-4c74-a13c-a89def49227e"]
+new [description:"støvsuge stue" end:"1736861805" entry:"1736585155" modified:"1736861805" status:"completed" tags:"today" tags_today:"x" uuid:"c12cb5d2-abc3-4c74-a13c-a89def49227e"]
+---
+time 1736861805
+old [description:"støvsuge kjøkken" entry:"1736585169" modified:"1736585169" status:"pending" tags:"today" tags_today:"x" uuid:"ac846298-247d-4faa-9beb-b9c3d084b939"]
+new [description:"støvsuge kjøkken" end:"1736861805" entry:"1736585169" modified:"1736861805" status:"completed" tags:"today" tags_today:"x" uuid:"ac846298-247d-4faa-9beb-b9c3d084b939"]
+---
+time 1736861805
+old [description:"støvsuge trapp" entry:"1736585189" modified:"1736585189" status:"pending" tags:"today" tags_today:"x" uuid:"a29ac65a-02a0-45bf-aeb4-e2e019806434"]
+new [description:"støvsuge trapp" end:"1736861805" entry:"1736585189" modified:"1736861805" status:"completed" tags:"today" tags_today:"x" uuid:"a29ac65a-02a0-45bf-aeb4-e2e019806434"]
+---
