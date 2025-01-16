@@ -2246,3 +2246,7 @@ time 1737014433
 old [description:"ta ut papp" entry:"1736865282" modified:"1736865282" status:"pending" tags:"today" tags_today:"x" uuid:"194aa6a0-530a-48b0-8994-bf2c8a1469de"]
 new [description:"ta ut papp" end:"1737014433" entry:"1736865282" modified:"1737014433" status:"completed" tags:"today" tags_today:"x" uuid:"194aa6a0-530a-48b0-8994-bf2c8a1469de"]
 ---
+time 1737014437
+old [description:"vanne planter" entry:"1736585130" modified:"1736585130" status:"pending" tags:"today" tags_today:"x" uuid:"3c18cb18-1afe-413d-a23e-fd49ec1f1dfe"]
+new [description:"vanne planter" end:"1737014437" entry:"1736585130" modified:"1737014437" status:"completed" tags:"today" tags_today:"x" uuid:"3c18cb18-1afe-413d-a23e-fd49ec1f1dfe"]
+---
