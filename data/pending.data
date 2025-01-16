@@ -18,4 +18,4 @@
 [description:"mld jeremie" entry:"1736866865" modified:"1736866865" status:"pending" tags:"today" tags_today:"x" uuid:"4d865c2a-9ce0-4c06-81a3-4475f0cb95c7"]
 [description:"kjøp kaffe" entry:"1737014463" modified:"1737014463" status:"pending" tags:"today" tags_today:"x" uuid:"f0cf1ec4-4f7c-4831-aa71-7381dfcfca47"]
 [description:"finn babydan flex" entry:"1737014556" modified:"1737014556" status:"pending" tags:"today" tags_today:"x" uuid:"f43f6763-72d7-470f-86cd-4492d15ffdab"]
-[description:"svar Anna" entry:"1737029932" modified:"1737029932" priority:"H" status:"pending" tags:"today" tags_today:"x" uuid:"0ad43a2e-1dcd-4cd9-b899-5be8d319ce5e"]
+[description:"svar Anna" end:"1737036176" entry:"1737029932" modified:"1737036176" priority:"H" status:"completed" tags:"today" tags_today:"x" uuid:"0ad43a2e-1dcd-4cd9-b899-5be8d319ce5e"]

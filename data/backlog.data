@@ -53,3 +53,4 @@
 {"description":"kjøp kaffe","entry":"20250116T080103Z","modified":"20250116T080103Z","status":"pending","uuid":"f0cf1ec4-4f7c-4831-aa71-7381dfcfca47","tags":["today"]}
 {"description":"finn babydan flex","entry":"20250116T080236Z","modified":"20250116T080236Z","status":"pending","uuid":"f43f6763-72d7-470f-86cd-4492d15ffdab","tags":["today"]}
 {"description":"svar Anna","entry":"20250116T121852Z","modified":"20250116T121852Z","priority":"H","status":"pending","uuid":"0ad43a2e-1dcd-4cd9-b899-5be8d319ce5e","tags":["today"]}
+{"description":"svar Anna","end":"20250116T140256Z","entry":"20250116T121852Z","modified":"20250116T140256Z","priority":"H","status":"completed","uuid":"0ad43a2e-1dcd-4cd9-b899-5be8d319ce5e","tags":["today"]}
