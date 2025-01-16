@@ -2242,3 +2242,7 @@ new [description:"babydan finn" end:"1736866384" entry:"1736280639" modified:"17
 time 1736866865
 new [description:"mld jeremie" entry:"1736866865" modified:"1736866865" status:"pending" tags:"today" tags_today:"x" uuid:"4d865c2a-9ce0-4c06-81a3-4475f0cb95c7"]
 ---
+time 1737014433
+old [description:"ta ut papp" entry:"1736865282" modified:"1736865282" status:"pending" tags:"today" tags_today:"x" uuid:"194aa6a0-530a-48b0-8994-bf2c8a1469de"]
+new [description:"ta ut papp" end:"1737014433" entry:"1736865282" modified:"1737014433" status:"completed" tags:"today" tags_today:"x" uuid:"194aa6a0-530a-48b0-8994-bf2c8a1469de"]
+---

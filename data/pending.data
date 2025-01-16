@@ -16,5 +16,5 @@
 [description:"fiks puttekasse" entry:"1736155789" modified:"1736525892" status:"pending" tags:"week" tags_week:"x" uuid:"67fa9bb4-e718-49a9-b81e-a4f9792ef41b"]
 [description:"vanne planter" entry:"1736585130" modified:"1736585130" status:"pending" tags:"today" tags_today:"x" uuid:"3c18cb18-1afe-413d-a23e-fd49ec1f1dfe"]
 [description:"svar jonas" entry:"1736861816" modified:"1736861816" status:"pending" tags:"today" tags_today:"x" uuid:"2c0cab7e-4618-45b4-8d5b-5726f14db7ac"]
-[description:"ta ut papp" entry:"1736865282" modified:"1736865282" status:"pending" tags:"today" tags_today:"x" uuid:"194aa6a0-530a-48b0-8994-bf2c8a1469de"]
+[description:"ta ut papp" end:"1737014433" entry:"1736865282" modified:"1737014433" status:"completed" tags:"today" tags_today:"x" uuid:"194aa6a0-530a-48b0-8994-bf2c8a1469de"]
 [description:"mld jeremie" entry:"1736866865" modified:"1736866865" status:"pending" tags:"today" tags_today:"x" uuid:"4d865c2a-9ce0-4c06-81a3-4475f0cb95c7"]

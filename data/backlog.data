@@ -48,3 +48,4 @@
 {"description":"ta ut papp","entry":"20250114T143442Z","modified":"20250114T143442Z","status":"pending","uuid":"194aa6a0-530a-48b0-8994-bf2c8a1469de","tags":["today"]}
 {"description":"babydan finn","end":"20250114T145304Z","entry":"20250107T201039Z","modified":"20250114T145304Z","status":"deleted","uuid":"b4089798-bf02-4517-9292-34621b412389","tags":["today"]}
 {"description":"mld jeremie","entry":"20250114T150105Z","modified":"20250114T150105Z","status":"pending","uuid":"4d865c2a-9ce0-4c06-81a3-4475f0cb95c7","tags":["today"]}
+{"description":"ta ut papp","end":"20250116T080033Z","entry":"20250114T143442Z","modified":"20250116T080033Z","status":"completed","uuid":"194aa6a0-530a-48b0-8994-bf2c8a1469de","tags":["today"]}
