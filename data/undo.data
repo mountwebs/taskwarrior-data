@@ -2253,3 +2253,6 @@ new [description:"vanne planter" end:"1737014437" entry:"1736585130" modified:"1
 time 1737014463
 new [description:"kjøp kaffe" entry:"1737014463" modified:"1737014463" status:"pending" tags:"today" tags_today:"x" uuid:"f0cf1ec4-4f7c-4831-aa71-7381dfcfca47"]
 ---
+time 1737014556
+new [description:"finn babydan flex" entry:"1737014556" modified:"1737014556" status:"pending" tags:"today" tags_today:"x" uuid:"f43f6763-72d7-470f-86cd-4492d15ffdab"]
+---
