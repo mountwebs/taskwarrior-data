@@ -14,7 +14,6 @@
 [description:"Sjekk gjernsidige sak" entry:"1735824168" modified:"1735824168" status:"pending" tags:"week" tags_week:"x" uuid:"92cc9cc8-f8db-495f-8815-dc2885a1bab0"]
 [description:"fiks persienne" entry:"1736151209" modified:"1736151209" status:"pending" tags:"today" tags_today:"x" uuid:"02ffca10-77d3-444e-a0dd-dec4556359bd"]
 [description:"fiks puttekasse" entry:"1736155789" modified:"1736525892" status:"pending" tags:"week" tags_week:"x" uuid:"67fa9bb4-e718-49a9-b81e-a4f9792ef41b"]
-[description:"svar jonas" end:"1737036220" entry:"1736861816" modified:"1737036220" status:"completed" tags:"today" tags_today:"x" uuid:"2c0cab7e-4618-45b4-8d5b-5726f14db7ac"]
 [description:"mld jeremie" entry:"1736866865" modified:"1736866865" status:"pending" tags:"today" tags_today:"x" uuid:"4d865c2a-9ce0-4c06-81a3-4475f0cb95c7"]
 [description:"kjøp kaffe" entry:"1737014463" modified:"1737014463" status:"pending" tags:"today" tags_today:"x" uuid:"f0cf1ec4-4f7c-4831-aa71-7381dfcfca47"]
 [description:"finn babydan flex" entry:"1737014556" modified:"1737014556" status:"pending" tags:"today" tags_today:"x" uuid:"f43f6763-72d7-470f-86cd-4492d15ffdab"]
