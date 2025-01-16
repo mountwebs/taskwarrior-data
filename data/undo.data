@@ -2250,3 +2250,6 @@ time 1737014437
 old [description:"vanne planter" entry:"1736585130" modified:"1736585130" status:"pending" tags:"today" tags_today:"x" uuid:"3c18cb18-1afe-413d-a23e-fd49ec1f1dfe"]
 new [description:"vanne planter" end:"1737014437" entry:"1736585130" modified:"1737014437" status:"completed" tags:"today" tags_today:"x" uuid:"3c18cb18-1afe-413d-a23e-fd49ec1f1dfe"]
 ---
+time 1737014463
+new [description:"kjøp kaffe" entry:"1737014463" modified:"1737014463" status:"pending" tags:"today" tags_today:"x" uuid:"f0cf1ec4-4f7c-4831-aa71-7381dfcfca47"]
+---
