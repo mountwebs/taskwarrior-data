@@ -2263,3 +2263,7 @@ time 1737036176
 old [description:"svar Anna" entry:"1737029932" modified:"1737029932" priority:"H" status:"pending" tags:"today" tags_today:"x" uuid:"0ad43a2e-1dcd-4cd9-b899-5be8d319ce5e"]
 new [description:"svar Anna" end:"1737036176" entry:"1737029932" modified:"1737036176" priority:"H" status:"completed" tags:"today" tags_today:"x" uuid:"0ad43a2e-1dcd-4cd9-b899-5be8d319ce5e"]
 ---
+time 1737036220
+old [description:"svar jonas" entry:"1736861816" modified:"1736861816" status:"pending" tags:"today" tags_today:"x" uuid:"2c0cab7e-4618-45b4-8d5b-5726f14db7ac"]
+new [description:"svar jonas" end:"1737036220" entry:"1736861816" modified:"1737036220" status:"completed" tags:"today" tags_today:"x" uuid:"2c0cab7e-4618-45b4-8d5b-5726f14db7ac"]
+---
