@@ -2292,3 +2292,7 @@ time 1737465748
 old [description:"mld jeremie" entry:"1736866865" modified:"1736866865" status:"pending" tags:"today" tags_today:"x" uuid:"4d865c2a-9ce0-4c06-81a3-4475f0cb95c7"]
 new [description:"mld jeremie" end:"1737465748" entry:"1736866865" modified:"1737465748" status:"completed" tags:"today" tags_today:"x" uuid:"4d865c2a-9ce0-4c06-81a3-4475f0cb95c7"]
 ---
+time 1737465753
+old [description:"legg leker ned i kjelleren" entry:"1737036880" modified:"1737036880" status:"pending" tags:"today" tags_today:"x" uuid:"8dc9012f-f0eb-492f-92ee-fd4fc5292000"]
+new [description:"legg leker ned i kjelleren" end:"1737465753" entry:"1737036880" modified:"1737465753" status:"deleted" tags:"today" tags_today:"x" uuid:"8dc9012f-f0eb-492f-92ee-fd4fc5292000"]
+---

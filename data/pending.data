@@ -13,6 +13,6 @@
 [description:"fiks grind i trapp" entry:"1735669687" modified:"1736151220" status:"pending" tags:"week" tags_week:"x" uuid:"f69ceac9-9b33-49b1-b280-61def932aeea"]
 [description:"Sjekk gjernsidige sak" entry:"1735824168" modified:"1735824168" status:"pending" tags:"week" tags_week:"x" uuid:"92cc9cc8-f8db-495f-8815-dc2885a1bab0"]
 [description:"fiks puttekasse" entry:"1736155789" modified:"1736525892" status:"pending" tags:"week" tags_week:"x" uuid:"67fa9bb4-e718-49a9-b81e-a4f9792ef41b"]
-[description:"legg leker ned i kjelleren" entry:"1737036880" modified:"1737036880" status:"pending" tags:"today" tags_today:"x" uuid:"8dc9012f-f0eb-492f-92ee-fd4fc5292000"]
+[description:"legg leker ned i kjelleren" end:"1737465753" entry:"1737036880" modified:"1737465753" status:"deleted" tags:"today" tags_today:"x" uuid:"8dc9012f-f0eb-492f-92ee-fd4fc5292000"]
 [description:"mld Nurgima" entry:"1737465716" modified:"1737465716" status:"pending" tags:"today" tags_today:"x" uuid:"9a27f7cf-b0b9-440c-9c3f-ffa61a5e5113"]
 [description:"mld Anna" entry:"1737465722" modified:"1737465722" status:"pending" tags:"today" tags_today:"x" uuid:"997aa83f-17b7-4a69-8ca2-5d0fe4a36861"]

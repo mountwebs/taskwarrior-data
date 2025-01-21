@@ -62,3 +62,4 @@
 {"description":"kjøp kaffe","end":"20250121T132214Z","entry":"20250116T080103Z","modified":"20250121T132214Z","status":"completed","uuid":"f0cf1ec4-4f7c-4831-aa71-7381dfcfca47","tags":["today"]}
 {"description":"fiks persienne","end":"20250121T132228Z","entry":"20250106T081329Z","modified":"20250121T132228Z","status":"completed","uuid":"02ffca10-77d3-444e-a0dd-dec4556359bd","tags":["today"]}
 {"description":"mld jeremie","end":"20250121T132228Z","entry":"20250114T150105Z","modified":"20250121T132228Z","status":"completed","uuid":"4d865c2a-9ce0-4c06-81a3-4475f0cb95c7","tags":["today"]}
+{"description":"legg leker ned i kjelleren","end":"20250121T132233Z","entry":"20250116T141440Z","modified":"20250121T132233Z","status":"deleted","uuid":"8dc9012f-f0eb-492f-92ee-fd4fc5292000","tags":["today"]}
