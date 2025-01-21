@@ -2296,3 +2296,6 @@ time 1737465753
 old [description:"legg leker ned i kjelleren" entry:"1737036880" modified:"1737036880" status:"pending" tags:"today" tags_today:"x" uuid:"8dc9012f-f0eb-492f-92ee-fd4fc5292000"]
 new [description:"legg leker ned i kjelleren" end:"1737465753" entry:"1737036880" modified:"1737465753" status:"deleted" tags:"today" tags_today:"x" uuid:"8dc9012f-f0eb-492f-92ee-fd4fc5292000"]
 ---
+time 1737465781
+new [description:"sjekk opp Gjensidige" entry:"1737465781" modified:"1737465781" status:"pending" tags:"today" tags_today:"x" uuid:"0bff8780-456e-4230-9993-1d3febfa3157"]
+---
