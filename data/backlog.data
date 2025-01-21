@@ -65,3 +65,4 @@
 {"description":"legg leker ned i kjelleren","end":"20250121T132233Z","entry":"20250116T141440Z","modified":"20250121T132233Z","status":"deleted","uuid":"8dc9012f-f0eb-492f-92ee-fd4fc5292000","tags":["today"]}
 {"description":"sjekk opp Gjensidige","entry":"20250121T132301Z","modified":"20250121T132301Z","status":"pending","uuid":"0bff8780-456e-4230-9993-1d3febfa3157","tags":["today"]}
 {"description":"sjekk opp Gjensidige","end":"20250121T133215Z","entry":"20250121T132301Z","modified":"20250121T133215Z","status":"completed","uuid":"0bff8780-456e-4230-9993-1d3febfa3157","tags":["today"]}
+{"description":"handle","entry":"20250121T133222Z","modified":"20250121T133222Z","status":"pending","uuid":"9d56170f-0006-489d-900e-4d45de8fb351","tags":["today"]}

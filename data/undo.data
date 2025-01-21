@@ -2303,3 +2303,6 @@ time 1737466335
 old [description:"sjekk opp Gjensidige" entry:"1737465781" modified:"1737465781" status:"pending" tags:"today" tags_today:"x" uuid:"0bff8780-456e-4230-9993-1d3febfa3157"]
 new [description:"sjekk opp Gjensidige" end:"1737466335" entry:"1737465781" modified:"1737466335" status:"completed" tags:"today" tags_today:"x" uuid:"0bff8780-456e-4230-9993-1d3febfa3157"]
 ---
+time 1737466342
+new [description:"handle" entry:"1737466342" modified:"1737466342" status:"pending" tags:"today" tags_today:"x" uuid:"9d56170f-0006-489d-900e-4d45de8fb351"]
+---
