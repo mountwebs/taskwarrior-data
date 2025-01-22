@@ -66,3 +66,4 @@
 {"description":"sjekk opp Gjensidige","entry":"20250121T132301Z","modified":"20250121T132301Z","status":"pending","uuid":"0bff8780-456e-4230-9993-1d3febfa3157","tags":["today"]}
 {"description":"sjekk opp Gjensidige","end":"20250121T133215Z","entry":"20250121T132301Z","modified":"20250121T133215Z","status":"completed","uuid":"0bff8780-456e-4230-9993-1d3febfa3157","tags":["today"]}
 {"description":"handle","entry":"20250121T133222Z","modified":"20250121T133222Z","status":"pending","uuid":"9d56170f-0006-489d-900e-4d45de8fb351","tags":["today"]}
+{"description":"mld Nurgima","end":"20250122T072028Z","entry":"20250121T132156Z","modified":"20250122T072028Z","status":"completed","uuid":"9a27f7cf-b0b9-440c-9c3f-ffa61a5e5113","tags":["today"]}

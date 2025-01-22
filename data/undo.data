@@ -2306,3 +2306,7 @@ new [description:"sjekk opp Gjensidige" end:"1737466335" entry:"1737465781" modi
 time 1737466342
 new [description:"handle" entry:"1737466342" modified:"1737466342" status:"pending" tags:"today" tags_today:"x" uuid:"9d56170f-0006-489d-900e-4d45de8fb351"]
 ---
+time 1737530428
+old [description:"mld Nurgima" entry:"1737465716" modified:"1737465716" status:"pending" tags:"today" tags_today:"x" uuid:"9a27f7cf-b0b9-440c-9c3f-ffa61a5e5113"]
+new [description:"mld Nurgima" end:"1737530428" entry:"1737465716" modified:"1737530428" status:"completed" tags:"today" tags_today:"x" uuid:"9a27f7cf-b0b9-440c-9c3f-ffa61a5e5113"]
+---
