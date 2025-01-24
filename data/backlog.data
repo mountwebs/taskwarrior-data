@@ -76,3 +76,4 @@
 {"description":"planlegg skapsikring","entry":"20250123T105745Z","modified":"20250123T105745Z","status":"pending","uuid":"606b21ee-d21f-4efd-b9c1-0cba38d3e4da","tags":["today"]}
 {"description":"mld dagmamma om adresse","end":"20250124T100151Z","entry":"20250122T083654Z","modified":"20250124T100151Z","status":"completed","uuid":"ebeda92c-07a4-4228-b511-7f17a7b70383","tags":["today"]}
 {"description":"kontakt dusholux","end":"20250124T100155Z","entry":"20250123T105731Z","modified":"20250124T100155Z","status":"completed","uuid":"43667663-e275-49b0-80ef-66756e3d2fe9","tags":["today"]}
+{"description":"finn ut av trumf gjeld","entry":"20250124T100212Z","modified":"20250124T100212Z","status":"pending","uuid":"5b12ace0-a71c-4a79-8c92-1bb654edfcd8","tags":["today"]}
