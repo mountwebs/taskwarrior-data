@@ -2334,3 +2334,7 @@ new [description:"kontakt dusholux" entry:"1737629851" modified:"1737629851" sta
 time 1737629865
 new [description:"planlegg skapsikring" entry:"1737629865" modified:"1737629865" status:"pending" tags:"today" tags_today:"x" uuid:"606b21ee-d21f-4efd-b9c1-0cba38d3e4da"]
 ---
+time 1737712911
+old [description:"mld dagmamma om adresse" entry:"1737535014" modified:"1737535014" status:"pending" tags:"today" tags_today:"x" uuid:"ebeda92c-07a4-4228-b511-7f17a7b70383"]
+new [description:"mld dagmamma om adresse" end:"1737712911" entry:"1737535014" modified:"1737712911" status:"completed" tags:"today" tags_today:"x" uuid:"ebeda92c-07a4-4228-b511-7f17a7b70383"]
+---
