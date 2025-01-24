@@ -2349,3 +2349,7 @@ time 1737712941
 old [description:"finn ut av trumf gjeld" entry:"1737712932" modified:"1737712932" status:"pending" tags:"today" tags_today:"x" uuid:"5b12ace0-a71c-4a79-8c92-1bb654edfcd8"]
 new [description:"finn ut av trumf kort" entry:"1737712932" modified:"1737712941" status:"pending" tags:"today" tags_today:"x" uuid:"5b12ace0-a71c-4a79-8c92-1bb654edfcd8"]
 ---
+time 1737712948
+old [description:"finn ut av trumf kort" entry:"1737712932" modified:"1737712941" status:"pending" tags:"today" tags_today:"x" uuid:"5b12ace0-a71c-4a79-8c92-1bb654edfcd8"]
+new [description:"finn ut av trumf kort" entry:"1737712932" modified:"1737712948" status:"pending" tags:"next,today" tags_next:"x" tags_today:"x" uuid:"5b12ace0-a71c-4a79-8c92-1bb654edfcd8"]
+---
