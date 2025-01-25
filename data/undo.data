@@ -2372,3 +2372,7 @@ new [description:"støvsug kjøkken" entry:"1737802483" modified:"1737802483" st
 time 1737802491
 new [description:"støvsug stue" entry:"1737802491" modified:"1737802491" status:"pending" tags:"today" tags_today:"x" uuid:"89e5480d-6560-40ef-b564-2568dedad0e5"]
 ---
+time 1737802496
+old [description:"støvsug kontoret" entry:"1737802460" modified:"1737802460" status:"pending" tags:"today" tags_today:"x" uuid:"68589ef9-eb39-40fa-abee-936856a82ab2"]
+new [description:"støvsug kontoret" end:"1737802496" entry:"1737802460" modified:"1737802496" status:"deleted" tags:"today" tags_today:"x" uuid:"68589ef9-eb39-40fa-abee-936856a82ab2"]
+---
