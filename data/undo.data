@@ -2376,3 +2376,6 @@ time 1737802496
 old [description:"støvsug kontoret" entry:"1737802460" modified:"1737802460" status:"pending" tags:"today" tags_today:"x" uuid:"68589ef9-eb39-40fa-abee-936856a82ab2"]
 new [description:"støvsug kontoret" end:"1737802496" entry:"1737802460" modified:"1737802496" status:"deleted" tags:"today" tags_today:"x" uuid:"68589ef9-eb39-40fa-abee-936856a82ab2"]
 ---
+time 1737802547
+new [description:"kattedoer" entry:"1737802547" modified:"1737802547" status:"pending" tags:"today" tags_today:"x" uuid:"37f652cd-ea07-4877-98b4-57d1b2f8d6b5"]
+---
