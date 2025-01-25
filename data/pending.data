@@ -15,7 +15,6 @@
 [description:"fiks puttekasse" entry:"1736155789" modified:"1736525892" status:"pending" tags:"week" tags_week:"x" uuid:"67fa9bb4-e718-49a9-b81e-a4f9792ef41b"]
 [description:"planlegg skapsikring" entry:"1737629865" modified:"1737629865" status:"pending" tags:"today" tags_today:"x" uuid:"606b21ee-d21f-4efd-b9c1-0cba38d3e4da"]
 [description:"støvsug trapp" entry:"1737802446" modified:"1737802446" status:"pending" tags:"today" tags_today:"x" uuid:"c97b95e3-e606-491b-bd21-4cf2c06b63e1"]
-[description:"støvsug kontoret" end:"1737802496" entry:"1737802460" modified:"1737802496" status:"deleted" tags:"today" tags_today:"x" uuid:"68589ef9-eb39-40fa-abee-936856a82ab2"]
 [description:"støvsug 2.etg" entry:"1737802475" modified:"1737802475" status:"pending" tags:"today" tags_today:"x" uuid:"5dd0ac98-5508-4906-8333-c32469bca149"]
 [description:"støvsug kjøkken" entry:"1737802483" modified:"1737802483" status:"pending" tags:"today" tags_today:"x" uuid:"47e85e5b-203f-497f-ac91-1a49ecb1ada8"]
 [description:"støvsug stue" entry:"1737802491" modified:"1737802491" status:"pending" tags:"today" tags_today:"x" uuid:"89e5480d-6560-40ef-b564-2568dedad0e5"]
