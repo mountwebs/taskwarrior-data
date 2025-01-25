@@ -2369,3 +2369,6 @@ new [description:"støvsug 2.etg" entry:"1737802475" modified:"1737802475" statu
 time 1737802483
 new [description:"støvsug kjøkken" entry:"1737802483" modified:"1737802483" status:"pending" tags:"today" tags_today:"x" uuid:"47e85e5b-203f-497f-ac91-1a49ecb1ada8"]
 ---
+time 1737802491
+new [description:"støvsug stue" entry:"1737802491" modified:"1737802491" status:"pending" tags:"today" tags_today:"x" uuid:"89e5480d-6560-40ef-b564-2568dedad0e5"]
+---
