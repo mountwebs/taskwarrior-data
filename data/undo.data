@@ -2402,3 +2402,6 @@ time 1737966501
 old [description:"vanne planter" entry:"1737897425" modified:"1737897425" status:"pending" tags:"today" tags_today:"x" uuid:"1b1dd871-f10a-49f0-8e63-686f886875ab"]
 new [description:"vanne planter" end:"1737966501" entry:"1737897425" modified:"1737966501" status:"completed" tags:"today" tags_today:"x" uuid:"1b1dd871-f10a-49f0-8e63-686f886875ab"]
 ---
+time 1737966529
+new [description:"kjøp kattemat" entry:"1737966529" modified:"1737966529" priority:"H" status:"pending" tags:"today" tags_today:"x" uuid:"3c94486f-8eb2-4d9b-ad8d-a7ff21719536"]
+---

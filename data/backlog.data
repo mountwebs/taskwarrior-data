@@ -93,3 +93,4 @@
 {"description":"vanne planter","entry":"20250126T131705Z","modified":"20250126T131705Z","status":"pending","uuid":"1b1dd871-f10a-49f0-8e63-686f886875ab","tags":["today"]}
 {"description":"kattedoer","end":"20250127T082815Z","entry":"20250125T105547Z","modified":"20250127T082815Z","status":"deleted","uuid":"37f652cd-ea07-4877-98b4-57d1b2f8d6b5","tags":["today"]}
 {"description":"vanne planter","end":"20250127T082821Z","entry":"20250126T131705Z","modified":"20250127T082821Z","status":"completed","uuid":"1b1dd871-f10a-49f0-8e63-686f886875ab","tags":["today"]}
+{"description":"kjøp kattemat","entry":"20250127T082849Z","modified":"20250127T082849Z","priority":"H","status":"pending","uuid":"3c94486f-8eb2-4d9b-ad8d-a7ff21719536","tags":["today"]}
