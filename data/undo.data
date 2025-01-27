@@ -2398,3 +2398,7 @@ time 1737966495
 old [description:"kattedoer" entry:"1737802547" modified:"1737802547" status:"pending" tags:"today" tags_today:"x" uuid:"37f652cd-ea07-4877-98b4-57d1b2f8d6b5"]
 new [description:"kattedoer" end:"1737966495" entry:"1737802547" modified:"1737966495" status:"deleted" tags:"today" tags_today:"x" uuid:"37f652cd-ea07-4877-98b4-57d1b2f8d6b5"]
 ---
+time 1737966501
+old [description:"vanne planter" entry:"1737897425" modified:"1737897425" status:"pending" tags:"today" tags_today:"x" uuid:"1b1dd871-f10a-49f0-8e63-686f886875ab"]
+new [description:"vanne planter" end:"1737966501" entry:"1737897425" modified:"1737966501" status:"completed" tags:"today" tags_today:"x" uuid:"1b1dd871-f10a-49f0-8e63-686f886875ab"]
+---
