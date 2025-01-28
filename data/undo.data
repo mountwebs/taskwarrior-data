@@ -2422,3 +2422,6 @@ time 1738055772
 old [description:"ta ut av vaskemaskin" entry:"1738053053" modified:"1738053053" status:"pending" tags:"today" tags_today:"x" uuid:"72758f9b-e73e-4c50-ab82-4b32e4aa2636"]
 new [description:"ta ut av vaskemaskin" entry:"1738053053" modified:"1738055772" start:"1738055772" status:"pending" tags:"today" tags_today:"x" uuid:"72758f9b-e73e-4c50-ab82-4b32e4aa2636"]
 ---
+time 1738074280
+new [description:"svar jonas" entry:"1738074280" modified:"1738074280" status:"pending" tags:"today" tags_today:"x" uuid:"2c6b6695-cf7d-448a-82ee-c3fce06c5e8e"]
+---
