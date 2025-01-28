@@ -95,3 +95,4 @@
 {"description":"vanne planter","end":"20250127T082821Z","entry":"20250126T131705Z","modified":"20250127T082821Z","status":"completed","uuid":"1b1dd871-f10a-49f0-8e63-686f886875ab","tags":["today"]}
 {"description":"kjøp kattemat","entry":"20250127T082849Z","modified":"20250127T082849Z","priority":"H","status":"pending","uuid":"3c94486f-8eb2-4d9b-ad8d-a7ff21719536","tags":["today"]}
 {"description":"kjøp kattemat","end":"20250128T075331Z","entry":"20250127T082849Z","modified":"20250128T075331Z","priority":"H","status":"completed","uuid":"3c94486f-8eb2-4d9b-ad8d-a7ff21719536","tags":["today"]}
+{"description":"tøm bleietårn","entry":"20250128T075351Z","modified":"20250128T075351Z","status":"pending","uuid":"9468e234-503f-4642-94cc-713420fea0a9","tags":["today"]}

@@ -2409,3 +2409,6 @@ time 1738050811
 old [description:"kjøp kattemat" entry:"1737966529" modified:"1737966529" priority:"H" status:"pending" tags:"today" tags_today:"x" uuid:"3c94486f-8eb2-4d9b-ad8d-a7ff21719536"]
 new [description:"kjøp kattemat" end:"1738050811" entry:"1737966529" modified:"1738050811" priority:"H" status:"completed" tags:"today" tags_today:"x" uuid:"3c94486f-8eb2-4d9b-ad8d-a7ff21719536"]
 ---
+time 1738050831
+new [description:"tøm bleietårn" entry:"1738050831" modified:"1738050831" status:"pending" tags:"today" tags_today:"x" uuid:"9468e234-503f-4642-94cc-713420fea0a9"]
+---
