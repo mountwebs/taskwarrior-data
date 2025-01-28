@@ -104,3 +104,4 @@
 {"description":"tøm bleietårn","end":"20250128T175929Z","entry":"20250128T075351Z","modified":"20250128T175929Z","status":"completed","uuid":"9468e234-503f-4642-94cc-713420fea0a9","tags":["today"]}
 {"description":"ta bilde av potte","end":"20250128T175934Z","entry":"20250128T075900Z","modified":"20250128T175934Z","status":"deleted","uuid":"187ea3bd-2078-46bb-8299-b069f89dd235","tags":["today"]}
 {"description":"svar sarah","entry":"20250128T180000Z","modified":"20250128T180000Z","status":"pending","uuid":"44a3f0fe-1d58-4f65-ac0e-be7bfda9a8aa","tags":["today"]}
+{"description":"svar sarah","end":"20250128T211717Z","entry":"20250128T180000Z","modified":"20250128T211717Z","status":"completed","uuid":"44a3f0fe-1d58-4f65-ac0e-be7bfda9a8aa","tags":["today"]}

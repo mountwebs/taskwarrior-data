@@ -2440,3 +2440,7 @@ new [description:"ta bilde av potte" end:"1738087174" entry:"1738051140" modifie
 time 1738087200
 new [description:"svar sarah" entry:"1738087200" modified:"1738087200" status:"pending" tags:"today" tags_today:"x" uuid:"44a3f0fe-1d58-4f65-ac0e-be7bfda9a8aa"]
 ---
+time 1738099037
+old [description:"svar sarah" entry:"1738087200" modified:"1738087200" status:"pending" tags:"today" tags_today:"x" uuid:"44a3f0fe-1d58-4f65-ac0e-be7bfda9a8aa"]
+new [description:"svar sarah" end:"1738099037" entry:"1738087200" modified:"1738099037" status:"completed" tags:"today" tags_today:"x" uuid:"44a3f0fe-1d58-4f65-ac0e-be7bfda9a8aa"]
+---
