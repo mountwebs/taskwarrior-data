@@ -2429,3 +2429,7 @@ time 1738077127
 old [description:"ta ut av vaskemaskin" entry:"1738053053" modified:"1738055772" start:"1738055772" status:"pending" tags:"today" tags_today:"x" uuid:"72758f9b-e73e-4c50-ab82-4b32e4aa2636"]
 new [description:"ta ut av vaskemaskin" end:"1738077127" entry:"1738053053" modified:"1738077127" status:"completed" tags:"today" tags_today:"x" uuid:"72758f9b-e73e-4c50-ab82-4b32e4aa2636"]
 ---
+time 1738087169
+old [description:"tøm bleietårn" entry:"1738050831" modified:"1738050831" status:"pending" tags:"today" tags_today:"x" uuid:"9468e234-503f-4642-94cc-713420fea0a9"]
+new [description:"tøm bleietårn" end:"1738087169" entry:"1738050831" modified:"1738087169" status:"completed" tags:"today" tags_today:"x" uuid:"9468e234-503f-4642-94cc-713420fea0a9"]
+---

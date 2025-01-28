@@ -101,3 +101,4 @@
 {"description":"ta ut av vaskemaskin","entry":"20250128T083053Z","modified":"20250128T091612Z","start":"20250128T091612Z","status":"pending","uuid":"72758f9b-e73e-4c50-ab82-4b32e4aa2636","tags":["today"]}
 {"description":"svar jonas","entry":"20250128T142440Z","modified":"20250128T142440Z","status":"pending","uuid":"2c6b6695-cf7d-448a-82ee-c3fce06c5e8e","tags":["today"]}
 {"description":"ta ut av vaskemaskin","end":"20250128T151207Z","entry":"20250128T083053Z","modified":"20250128T151207Z","status":"completed","uuid":"72758f9b-e73e-4c50-ab82-4b32e4aa2636","tags":["today"]}
+{"description":"tøm bleietårn","end":"20250128T175929Z","entry":"20250128T075351Z","modified":"20250128T175929Z","status":"completed","uuid":"9468e234-503f-4642-94cc-713420fea0a9","tags":["today"]}

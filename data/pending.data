@@ -15,6 +15,6 @@
 [description:"fiks puttekasse" entry:"1736155789" modified:"1736525892" status:"pending" tags:"week" tags_week:"x" uuid:"67fa9bb4-e718-49a9-b81e-a4f9792ef41b"]
 [description:"planlegg skapsikring" entry:"1737629865" modified:"1737629865" status:"pending" tags:"today" tags_today:"x" uuid:"606b21ee-d21f-4efd-b9c1-0cba38d3e4da"]
 [description:"støvsug trapp" entry:"1737802446" modified:"1737802446" status:"pending" tags:"today" tags_today:"x" uuid:"c97b95e3-e606-491b-bd21-4cf2c06b63e1"]
-[description:"tøm bleietårn" entry:"1738050831" modified:"1738050831" status:"pending" tags:"today" tags_today:"x" uuid:"9468e234-503f-4642-94cc-713420fea0a9"]
+[description:"tøm bleietårn" end:"1738087169" entry:"1738050831" modified:"1738087169" status:"completed" tags:"today" tags_today:"x" uuid:"9468e234-503f-4642-94cc-713420fea0a9"]
 [description:"ta bilde av potte" entry:"1738051140" modified:"1738051140" status:"pending" tags:"today" tags_today:"x" uuid:"187ea3bd-2078-46bb-8299-b069f89dd235"]
 [description:"svar jonas" entry:"1738074280" modified:"1738074280" status:"pending" tags:"today" tags_today:"x" uuid:"2c6b6695-cf7d-448a-82ee-c3fce06c5e8e"]
