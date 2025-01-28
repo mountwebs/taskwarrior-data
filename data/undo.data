@@ -2415,3 +2415,6 @@ new [description:"tøm bleietårn" entry:"1738050831" modified:"1738050831" stat
 time 1738051140
 new [description:"ta bilde av potte" entry:"1738051140" modified:"1738051140" status:"pending" tags:"today" tags_today:"x" uuid:"187ea3bd-2078-46bb-8299-b069f89dd235"]
 ---
+time 1738053053
+new [description:"ta ut av vaskemaskin" entry:"1738053053" modified:"1738053053" status:"pending" tags:"today" tags_today:"x" uuid:"72758f9b-e73e-4c50-ab82-4b32e4aa2636"]
+---
