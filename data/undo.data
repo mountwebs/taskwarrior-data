@@ -2448,3 +2448,6 @@ time 1738099042
 old [description:"svar jonas" entry:"1738074280" modified:"1738074280" status:"pending" tags:"today" tags_today:"x" uuid:"2c6b6695-cf7d-448a-82ee-c3fce06c5e8e"]
 new [description:"svar jonas" end:"1738099042" entry:"1738074280" modified:"1738099042" status:"completed" tags:"today" tags_today:"x" uuid:"2c6b6695-cf7d-448a-82ee-c3fce06c5e8e"]
 ---
+time 1738138025
+new [description:"greenkids" entry:"1738138025" modified:"1738138025" status:"pending" tags:"today" tags_today:"x" uuid:"310ab488-7610-45a7-a957-f807f6d1f6e9"]
+---

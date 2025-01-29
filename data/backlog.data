@@ -106,3 +106,4 @@
 {"description":"svar sarah","entry":"20250128T180000Z","modified":"20250128T180000Z","status":"pending","uuid":"44a3f0fe-1d58-4f65-ac0e-be7bfda9a8aa","tags":["today"]}
 {"description":"svar sarah","end":"20250128T211717Z","entry":"20250128T180000Z","modified":"20250128T211717Z","status":"completed","uuid":"44a3f0fe-1d58-4f65-ac0e-be7bfda9a8aa","tags":["today"]}
 {"description":"svar jonas","end":"20250128T211722Z","entry":"20250128T142440Z","modified":"20250128T211722Z","status":"completed","uuid":"2c6b6695-cf7d-448a-82ee-c3fce06c5e8e","tags":["today"]}
+{"description":"greenkids","entry":"20250129T080705Z","modified":"20250129T080705Z","status":"pending","uuid":"310ab488-7610-45a7-a957-f807f6d1f6e9","tags":["today"]}
